@@ -11,7 +11,7 @@
     },
     "stats": {
       "pillars": 7,
-      "kpis": 311,
+      "kpis": 309,
       "competencies": 22,
       "departments": 11,
       "positions": 105,
@@ -57,7 +57,7 @@
         "executive_objectives_en": "Improve the customer journey, increase loyalty and repeat purchase, reduce recurring complaints, and improve after-sales quality.",
         "measurement_scope_ar": "رحلة العميل قبل وأثناء وبعد الشراء، جودة الخدمة في الفروع والقنوات الرقمية، الشكاوى، التوصيل، التركيب، الصيانة، الضمان، والولاء",
         "measurement_scope_en": "Customer journey, service quality, complaints, delivery, installation, maintenance, warranty, loyalty",
-        "kpi_count": 41,
+        "kpi_count": 40,
         "simple_intro_ar": "هذا المحور يركّز على تجربة العميل من أول ما يدخل عندنا لين بعد الشراء: جودة الخدمة، حل الشكاوى، والتوصيل والتركيب والصيانة والضمان. يهمنا لأن العميل الراضي يرجع لنا ويوصّي غيره، وهذا يبني سمعتنا ويزيد المبيعات المتكررة."
       },
       {
@@ -99,7 +99,7 @@
         "executive_objectives_en": "Improve daily operations, branch/facility readiness, reduce failures and delays, automate internal services, and improve data/report quality.",
         "measurement_scope_ar": "كفاءة العمليات الداخلية، جاهزية الفروع والمرافق، خدمات الدعم والصيانة، أتمتة الخدمات، دقة التقارير، جودة الأنظمة، والتكامل بين الإدارات",
         "measurement_scope_en": "Internal operations, branch/facility readiness, support and maintenance services, automation, report accuracy, system quality, interdepartmental integration",
-        "kpi_count": 37,
+        "kpi_count": 36,
         "simple_intro_ar": "هذا المحور يقيس كفاءة عملياتنا الداخلية وجاهزية الفروع والمرافق، وجودة الدعم والصيانة، وأتمتة الخدمات ودقة التقارير اللي تبني عليها القيادة قراراتها. يهمنا لأنه العمود الفقري اللي يخلي باقي المحاور تشتغل بسلاسة وبدون أعطال وتأخير."
       },
       {
@@ -137,7 +137,7 @@
           "code": "CX",
           "name_ar": "تجربة العميل وجودة خدمات ما بعد البيع",
           "name_en": "Customer Experience & After-Sales Quality",
-          "count": 41,
+          "count": 40,
           "color": "#dc2626"
         },
         {
@@ -158,7 +158,7 @@
           "code": "OPS",
           "name_ar": "الكفاءة التشغيلية والتحول الرقمي",
           "name_en": "Operational Efficiency & Digital Transformation",
-          "count": 37,
+          "count": 36,
           "color": "#0891b2"
         },
         {
@@ -202,7 +202,7 @@
           "slug": "internal-audit",
           "name_ar": "إدارة المراجعة الداخلية",
           "name_en": "Internal Audit Department",
-          "owned": 19,
+          "owned": 18,
           "contributed": 6
         },
         {
@@ -237,7 +237,7 @@
           "slug": "sales-and-operations",
           "name_ar": "إدارة المبيعات والعمليات",
           "name_en": "Sales and Operations Department",
-          "owned": 57,
+          "owned": 56,
           "contributed": 22
         },
         {
@@ -424,7 +424,7 @@
       "executive_objectives_en": "Improve the customer journey, increase loyalty and repeat purchase, reduce recurring complaints, and improve after-sales quality.",
       "measurement_scope_ar": "رحلة العميل قبل وأثناء وبعد الشراء، جودة الخدمة في الفروع والقنوات الرقمية، الشكاوى، التوصيل، التركيب، الصيانة، الضمان، والولاء",
       "measurement_scope_en": "Customer journey, service quality, complaints, delivery, installation, maintenance, warranty, loyalty",
-      "kpi_count": 41,
+      "kpi_count": 40,
       "simple_intro_ar": "هذا المحور يركّز على تجربة العميل من أول ما يدخل عندنا لين بعد الشراء: جودة الخدمة، حل الشكاوى، والتوصيل والتركيب والصيانة والضمان. يهمنا لأن العميل الراضي يرجع لنا ويوصّي غيره، وهذا يبني سمعتنا ويزيد المبيعات المتكررة."
     },
     {
@@ -466,7 +466,7 @@
       "executive_objectives_en": "Improve daily operations, branch/facility readiness, reduce failures and delays, automate internal services, and improve data/report quality.",
       "measurement_scope_ar": "كفاءة العمليات الداخلية، جاهزية الفروع والمرافق، خدمات الدعم والصيانة، أتمتة الخدمات، دقة التقارير، جودة الأنظمة، والتكامل بين الإدارات",
       "measurement_scope_en": "Internal operations, branch/facility readiness, support and maintenance services, automation, report accuracy, system quality, interdepartmental integration",
-      "kpi_count": 37,
+      "kpi_count": 36,
       "simple_intro_ar": "هذا المحور يقيس كفاءة عملياتنا الداخلية وجاهزية الفروع والمرافق، وجودة الدعم والصيانة، وأتمتة الخدمات ودقة التقارير اللي تبني عليها القيادة قراراتها. يهمنا لأنه العمود الفقري اللي يخلي باقي المحاور تشتغل بسلاسة وبدون أعطال وتأخير."
     },
     {
@@ -1561,7 +1561,7 @@
         "unit": "%",
         "periodicity": "quarterly",
         "polarity": "lower_is_better",
-        "target_text": "< 1%",
+        "target_text": "<= 2%",
         "owner_dept_name_ar": "إدارة الموارد البشرية والخدمات المساندة",
         "owner_dept_name_en": "HR and Support Services Department",
         "participant_dept_name_ar": "إدارة الشؤون القانونية",
@@ -4249,25 +4249,6 @@
         "level_classification": "junior"
       },
       {
-        "catalog_number": 199,
-        "name_ar": "معدل تحويل الزيارة إلى عملية بيع في المعرض",
-        "name_en": "Showroom visit-to-sale conversion rate",
-        "pillar_code": "CX",
-        "pillar_name_ar": "تجربة العميل وجودة خدمات ما بعد البيع",
-        "pillar_name_en": "Customer Experience & After-Sales Quality",
-        "pillar_color": "#dc2626",
-        "unit": "%",
-        "periodicity": "monthly",
-        "polarity": "higher_is_better",
-        "target_text": ">= 35%",
-        "owner_dept_name_ar": "إدارة المبيعات والعمليات",
-        "owner_dept_name_en": "Sales and Operations Department",
-        "participant_dept_name_ar": null,
-        "participant_dept_name_en": null,
-        "definition_simple_ar": "من كل ١٠٠ زائر للمعرض، كم واحد فعلاً اشترى؟",
-        "level_classification": "junior"
-      },
-      {
         "catalog_number": 200,
         "name_ar": "نسبة دقة طلبات التزويد من المعارض",
         "name_en": "Showroom replenishment-request accuracy %",
@@ -4551,25 +4532,6 @@
         "participant_dept_name_en": "IT Department",
         "definition_simple_ar": "كم مهمة مراجعة استخدمنا فيها تحليل البيانات بدل الفحص اليدوي؟",
         "level_classification": "junior"
-      },
-      {
-        "catalog_number": 215,
-        "name_ar": "نسبة إنجاز خطة المراجعة السنوية في وقتها",
-        "name_en": "Annual audit-plan on-time completion %",
-        "pillar_code": "OPS",
-        "pillar_name_ar": "الكفاءة التشغيلية والتحول الرقمي",
-        "pillar_name_en": "Operational Efficiency & Digital Transformation",
-        "pillar_color": "#0891b2",
-        "unit": "%",
-        "periodicity": "quarterly",
-        "polarity": "higher_is_better",
-        "target_text": ">= 90%",
-        "owner_dept_name_ar": "إدارة المراجعة الداخلية",
-        "owner_dept_name_en": "Internal Audit Department",
-        "participant_dept_name_ar": null,
-        "participant_dept_name_en": null,
-        "definition_simple_ar": "كم مهمة من خطة المراجعة خلّصناها في وقتها؟",
-        "level_classification": "senior"
       },
       {
         "catalog_number": 216,
@@ -13300,7 +13262,7 @@
         "unit": "%",
         "periodicity": "quarterly",
         "polarity": "lower_is_better",
-        "target_text": "< 1%",
+        "target_text": "<= 2%",
         "owner_dept_name_ar": "إدارة الموارد البشرية والخدمات المساندة",
         "owner_dept_name_en": "HR and Support Services Department",
         "participant_dept_name_ar": "إدارة الشؤون القانونية",
@@ -13328,9 +13290,9 @@
         "notes_en": "Standardize the criteria for recording and classifying disciplinary actions to ensure indicator accuracy. Can be analyzed by violation type or department.",
         "calibration_confidence": "low",
         "rag_bands": {
-          "red": "< 3.6 من 5",
-          "green": "≥ 4.2 من 5",
-          "yellow": "3.6-4.1 من 5"
+          "red": "> 3%",
+          "green": "≤ 2%",
+          "yellow": "2.1-3%"
         },
         "responsibility_matrix": {
           "reviewer": {
@@ -16374,7 +16336,7 @@
         "rag_bands": {
           "red": "< 3.4 نسبة",
           "green": "≥ 4 نسبة",
-          "yellow": "3.4 نسبة – 4 نسبة"
+          "yellow": "3.4 – 3.9 نسبة"
         },
         "responsibility_matrix": {
           "reviewer": {
@@ -16518,9 +16480,9 @@
         "notes_en": "Measured only on digital channels to avoid conflating in-branch acquisition with digital acquisition. Exclude retargeting campaigns from the numerator, since they do not target new customers. Always benchmarked against the customer-lifetime-value (CLV) metric to ensure CLV:CAC ≥ 3:1.",
         "calibration_confidence": "medium",
         "rag_bands": {
-          "red": "> 86.25 ريال",
+          "red": "> 86 ريال",
           "green": "≤ 75 ريال",
-          "yellow": "75 ريال – 86.25 ريال"
+          "yellow": "76 – 86 ريال"
         },
         "responsibility_matrix": {
           "reviewer": {
@@ -16666,7 +16628,7 @@
         "rag_bands": {
           "red": "< 25.5%",
           "green": "≥ 30%",
-          "yellow": "25.5% – 30%"
+          "yellow": "25.5 – 29.9%"
         },
         "responsibility_matrix": {
           "reviewer": {
@@ -16807,7 +16769,7 @@
         "rag_bands": {
           "red": "< 18.7%",
           "green": "≥ 22%",
-          "yellow": "18.7% – 22%"
+          "yellow": "18.7 – 21.9%"
         },
         "responsibility_matrix": {
           "reviewer": {
@@ -16948,7 +16910,7 @@
         "rag_bands": {
           "red": "< 17%",
           "green": "≥ 20%",
-          "yellow": "17% – 20%"
+          "yellow": "17 – 19.9%"
         },
         "responsibility_matrix": {
           "reviewer": {
@@ -17089,7 +17051,7 @@
         "rag_bands": {
           "red": "< 80.75%",
           "green": "≥ 95%",
-          "yellow": "80.75% – 95%"
+          "yellow": "80.75 – 94.9%"
         },
         "responsibility_matrix": {
           "reviewer": {
@@ -17235,7 +17197,7 @@
         "rag_bands": {
           "red": "< 2.98%",
           "green": "≥ 3.5%",
-          "yellow": "2.98% – 3.5%"
+          "yellow": "2.98 – 3.49%"
         },
         "responsibility_matrix": {
           "reviewer": {
@@ -17354,7 +17316,7 @@
         "rag_bands": {
           "red": "< 63.75 نقطة",
           "green": "≥ 75 نقطة",
-          "yellow": "63.75 نقطة – 75 نقطة"
+          "yellow": "63.75 – 74.9 نقطة"
         },
         "responsibility_matrix": {
           "reviewer": {
@@ -22337,51 +22299,6 @@
         },
         "responsibility_matrix": null
       },
-      "199": {
-        "catalog_number": 199,
-        "name_ar": "معدل تحويل الزيارة إلى عملية بيع في المعرض",
-        "name_en": "Showroom visit-to-sale conversion rate",
-        "pillar_code": "CX",
-        "pillar_name_ar": "تجربة العميل وجودة خدمات ما بعد البيع",
-        "pillar_name_en": "Customer Experience & After-Sales Quality",
-        "pillar_color": "#dc2626",
-        "unit": "%",
-        "periodicity": "monthly",
-        "polarity": "higher_is_better",
-        "target_text": ">= 35%",
-        "owner_dept_name_ar": "إدارة المبيعات والعمليات",
-        "owner_dept_name_en": "Sales and Operations Department",
-        "participant_dept_name_ar": null,
-        "participant_dept_name_en": null,
-        "definition_simple_ar": "من كل ١٠٠ زائر للمعرض، كم واحد فعلاً اشترى؟",
-        "level_classification": "junior",
-        "definition_ar": "يقيس نسبة زيارات المعرض التي انتهت بعملية شراء، ويعكس فعالية فريق البيع وجودة تجربة العميل في تحويل الاهتمام إلى مبيعات.",
-        "definition_en": "يقيس نسبة زيارات المعرض التي انتهت بعملية شراء، ويعكس فعالية فريق البيع وجودة تجربة العميل في تحويل الاهتمام إلى مبيعات.",
-        "formula_ar": "(عدد عمليات البيع / عدد زيارات المعرض) * 100",
-        "formula_en": null,
-        "smart_objective_ar": "تحقيق معدل تحويل الزيارة إلى عملية بيع في المعرض بمستهدف >= 35% لـتجربة العميل وما بعد البيع ضمن Sales and Operations Department بنهاية FY2026 مع متابعة شهري.",
-        "smart_objective_en": "Achieve \"Showroom visit-to-sale conversion rate\" at target >= 35% for the Sales and Operations Department by end of FY2026 with monthly tracking.",
-        "baseline_fy2025": "تقديري 28% في FY2025",
-        "baseline_fy2025_ar": "تقديري 28% في FY2025",
-        "target_2026_value": "35",
-        "target_2026_unit": "%",
-        "plain_language_what_good_looks_like_ar": "اللي يدخل المعرض غالباً يطلع شاري، لأن الخدمة والعرض يقنعونه.",
-        "plain_language_what_good_looks_like_en": null,
-        "worked_example_ar": "لو فحصنا ٢٠٠ حالة ولقينا ٧٣ منها مظبوطة → ٧٣ ÷ ٢٠٠ = ٣٦٫٥٪ ✓ (أخضر، ٣٥٪ فأعلى). لو نزلنا تحت ٢٥٪ يصير أحمر ولازم نتحسّن.",
-        "data_source": "عدّاد الزوار + نظام نقاط البيع",
-        "data_source_en": "Foot-traffic counter + POS",
-        "data_collector": "مدير عمليات معرض",
-        "data_collector_en": "Showroom Operations Manager",
-        "notes_ar": "يربط جودة التجربة بالأثر البيعي.",
-        "notes_en": null,
-        "calibration_confidence": "medium",
-        "rag_bands": {
-          "red": "< 25%",
-          "green": "≥ 35%",
-          "yellow": "25-34%"
-        },
-        "responsibility_matrix": null
-      },
       "200": {
         "catalog_number": 200,
         "name_ar": "نسبة دقة طلبات التزويد من المعارض",
@@ -23054,51 +22971,6 @@
           "red": "< 45%",
           "green": "≥ 70%",
           "yellow": "45-69%"
-        },
-        "responsibility_matrix": null
-      },
-      "215": {
-        "catalog_number": 215,
-        "name_ar": "نسبة إنجاز خطة المراجعة السنوية في وقتها",
-        "name_en": "Annual audit-plan on-time completion %",
-        "pillar_code": "OPS",
-        "pillar_name_ar": "الكفاءة التشغيلية والتحول الرقمي",
-        "pillar_name_en": "Operational Efficiency & Digital Transformation",
-        "pillar_color": "#0891b2",
-        "unit": "%",
-        "periodicity": "quarterly",
-        "polarity": "higher_is_better",
-        "target_text": ">= 90%",
-        "owner_dept_name_ar": "إدارة المراجعة الداخلية",
-        "owner_dept_name_en": "Internal Audit Department",
-        "participant_dept_name_ar": null,
-        "participant_dept_name_en": null,
-        "definition_simple_ar": "كم مهمة من خطة المراجعة خلّصناها في وقتها؟",
-        "level_classification": "senior",
-        "definition_ar": "يقيس نسبة مهام خطة المراجعة السنوية المنجزة ضمن الجدول الزمني المعتمد، ويعكس كفاءة إدارة موارد ووقت وظيفة المراجعة.",
-        "definition_en": "يقيس نسبة مهام خطة المراجعة السنوية المنجزة ضمن الجدول الزمني المعتمد، ويعكس كفاءة إدارة موارد ووقت وظيفة المراجعة.",
-        "formula_ar": "(عدد مهام الخطة المنجزة في وقتها / إجمالي مهام الخطة) * 100",
-        "formula_en": null,
-        "smart_objective_ar": "تحقيق نسبة إنجاز خطة المراجعة السنوية في وقتها بمستهدف >= 90% لـالكفاءة التشغيلية والتحول الرقمي ضمن Internal Audit Department بنهاية FY2026 مع متابعة ربعي.",
-        "smart_objective_en": "Achieve \"Annual audit-plan on-time completion %\" at target >= 90% for the Internal Audit Department by end of FY2026 with quarterly tracking.",
-        "baseline_fy2025": "تقديري 78% في FY2025",
-        "baseline_fy2025_ar": "تقديري 78% في FY2025",
-        "target_2026_value": "90",
-        "target_2026_unit": "%",
-        "plain_language_what_good_looks_like_ar": "نخلّص خطة المراجعة كاملة وفي وقتها، ما نأجل ولا نترك مناطق بدون تغطية.",
-        "plain_language_what_good_looks_like_en": null,
-        "worked_example_ar": "لو الخطة ٢٠ مهمة وأنجزنا ١٨ في وقتها → النسبة = ٩٠٪ ✓ (أخضر).",
-        "data_source": "خطة المراجعة + نظام المتابعة",
-        "data_source_en": "Audit plan + tracking system",
-        "data_collector": "مدير المراجعة الداخلية",
-        "data_collector_en": "Internal Audit Manager",
-        "notes_ar": "إنجاز الخطة يضمن التغطية الرقابية الشاملة.",
-        "notes_en": null,
-        "calibration_confidence": "medium",
-        "rag_bands": {
-          "red": "< 78%",
-          "green": "≥ 90%",
-          "yellow": "78-89%"
         },
         "responsibility_matrix": null
       },
