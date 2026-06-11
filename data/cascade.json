@@ -12,10 +12,10 @@
     "stats": {
       "pillars": 7,
       "kpis": 307,
-      "competencies": 22,
+      "competencies": 34,
       "departments": 11,
       "positions": 105,
-      "scorecards": 198
+      "scorecards": 105
     },
     "pillars": [
       {
@@ -17424,10 +17424,10 @@
         "formula_ar": "إجمالي قيمة المبيعات المسجّلة على نقطة البيع / إجمالي ساعات عمل أمين الصندوق",
         "formula_en": null,
         "smart_objective_ar": "تحقيق مستهدف «مبيعات أمين الصندوق لكل ساعة عمل» عند مستوى ≥ 1,500 ريال/ساعة بنهاية ديسمبر 2026 مع متابعة دورية وفق تواتر القياس المعتمد.",
-        "smart_objective_en": "Achieve the FY2026 target for «Cashier sales per labor hour» (≥ 1,500 ريال/ساعة) by 31 Dec 2026 with periodic tracking at the defined cadence.",
+        "smart_objective_en": "Achieve the FY2026 target for «Cashier sales per labor hour» (≥ 1,500 SAR/hour) by 31 Dec 2026 with periodic tracking at the defined cadence.",
         "baseline_fy2025": null,
         "baseline_fy2025_ar": "تقديري بناءً على متوسط سلّة المشتريات وحركة الفروع 2025",
-        "target_2026_value": "≥ 1,500 ريال/ساعة",
+        "target_2026_value": "≥ 1,500 SAR/hour",
         "target_2026_unit": "ريال/ساعة",
         "plain_language_what_good_looks_like_ar": "يَستثمر أمين الصندوق وقته على الكاونتر في إنجاز مبيعات فعلية، ويَقِلّ الوقت الضائع في غير الخدمة.",
         "plain_language_what_good_looks_like_en": null,
@@ -17604,10 +17604,10 @@
         "formula_ar": "إجمالي التكاليف اللوجستية / إجمالي عدد الطلبات المُسلّمة",
         "formula_en": null,
         "smart_objective_ar": "تحقيق مستهدف «تكلفة المناولة اللوجستية لكل طلب» عند مستوى ≤ 18 ريال/طلب بنهاية ديسمبر 2026 مع متابعة دورية وفق تواتر القياس المعتمد.",
-        "smart_objective_en": "Achieve the FY2026 target for «Logistics cost per order» (≤ 18 ريال/طلب) by 31 Dec 2026 with periodic tracking at the defined cadence.",
+        "smart_objective_en": "Achieve the FY2026 target for «Logistics cost per order» (≤ 18 SAR/order) by 31 Dec 2026 with periodic tracking at the defined cadence.",
         "baseline_fy2025": null,
         "baseline_fy2025_ar": "تقديري؛ نمو حجم الطلبات الإلكترونية يضغط على التكلفة",
-        "target_2026_value": "≤ 18 ريال/طلب",
+        "target_2026_value": "≤ 18 SAR/order",
         "target_2026_unit": "ريال/طلب",
         "plain_language_what_good_looks_like_ar": "نُسلّم الطلب بأقل تكلفة لوجستية ممكنة دون المساس بسرعة التسليم أو سلامة المنتج.",
         "plain_language_what_good_looks_like_en": null,
@@ -18819,10 +18819,10 @@
         "formula_ar": "إجمالي زمن إغلاق التذاكر / عدد التذاكر المغلقة",
         "formula_en": null,
         "smart_objective_ar": "تحقيق مستهدف «متوسط زمن إغلاق تذكرة الدعم الفني الداخلي» عند مستوى ≤ 4 ساعات بنهاية ديسمبر 2026 مع متابعة دورية وفق تواتر القياس المعتمد.",
-        "smart_objective_en": "Achieve the FY2026 target for «Average internal IT support ticket resolution time» (≤ 4 ساعات) by 31 Dec 2026 with periodic tracking at the defined cadence.",
+        "smart_objective_en": "Achieve the FY2026 target for «Average internal IT support ticket resolution time» (≤ 4 hours) by 31 Dec 2026 with periodic tracking at the defined cadence.",
         "baseline_fy2025": null,
         "baseline_fy2025_ar": "تقديري؛ معيار خدمة دعم فني داخلي",
-        "target_2026_value": "≤ 4 ساعات",
+        "target_2026_value": "≤ 4 hours",
         "target_2026_unit": "ساعة",
         "plain_language_what_good_looks_like_ar": "إذا تعطّل جهاز أو نظام لموظف، أخصائي الدعم يُصلحه بسرعة فيَرجع الموظف لشغله بدون انتظار طويل.",
         "plain_language_what_good_looks_like_en": null,
@@ -19719,10 +19719,10 @@
         "formula_ar": "مجموع قيمة الطلبات والعملاء الذين تم استبقاؤهم بنجاح خلال الفترة",
         "formula_en": null,
         "smart_objective_ar": "تحقيق مستهدف «قيمة المبيعات المسترجعة عبر استبقاء العملاء» عند مستوى ≥ 3 مليون ريال بنهاية ديسمبر 2026 مع متابعة دورية وفق تواتر القياس المعتمد.",
-        "smart_objective_en": "Achieve the FY2026 target for «Revenue retained through customer save/retention» (≥ 3 مليون ريال) by 31 Dec 2026 with periodic tracking at the defined cadence.",
+        "smart_objective_en": "Achieve the FY2026 target for «Revenue retained through customer save/retention» (≥ SAR 3M) by 31 Dec 2026 with periodic tracking at the defined cadence.",
         "baseline_fy2025": null,
         "baseline_fy2025_ar": "تقديري؛ أول قياس لأثر الاستبقاء على الإيراد",
-        "target_2026_value": "≥ 3 مليون ريال",
+        "target_2026_value": "≥ SAR 3M",
         "target_2026_unit": "ريال",
         "plain_language_what_good_looks_like_ar": "حين يَهمّ عميل بالمغادرة أو إلغاء طلبه، تُعالج العناية الموقف وتَستبقيه، فنَحفظ إيراداً كان سيَضيع.",
         "plain_language_what_good_looks_like_en": null,
@@ -19899,10 +19899,10 @@
         "formula_ar": "مجموع قيمة الوفر والاسترداد ومنع الهدر المتحقق من توصيات المراجعة خلال الفترة",
         "formula_en": null,
         "smart_objective_ar": "تحقيق مستهدف «قيمة الوفر والاسترداد المتحقق من توصيات المراجعة» عند مستوى ≥ 5 مليون ريال بنهاية ديسمبر 2026 مع متابعة دورية وفق تواتر القياس المعتمد.",
-        "smart_objective_en": "Achieve the FY2026 target for «Value recovered/saved from audit recommendations» (≥ 5 مليون ريال) by 31 Dec 2026 with periodic tracking at the defined cadence.",
+        "smart_objective_en": "Achieve the FY2026 target for «Value recovered/saved from audit recommendations» (≥ SAR 5M) by 31 Dec 2026 with periodic tracking at the defined cadence.",
         "baseline_fy2025": null,
         "baseline_fy2025_ar": "تقديري؛ أول قياس للأثر المالي للمراجعة",
-        "target_2026_value": "≥ 5 مليون ريال",
+        "target_2026_value": "≥ SAR 5M",
         "target_2026_unit": "ريال",
         "plain_language_what_good_looks_like_ar": "تُترجم توصيات المراجعة إلى وفر واسترداد حقيقي، فتُثبت الرقابة أنها تَحمي مال الشركة لا مجرّد تَكتب ملاحظات.",
         "plain_language_what_good_looks_like_en": null,
@@ -20034,10 +20034,10 @@
         "formula_ar": "قيمة المخزون الراكد المُصرّف خلال الفترة بأسعار التكلفة",
         "formula_en": null,
         "smart_objective_ar": "تحقيق مستهدف «قيمة المخزون المحرَّر من الأصناف الراكدة» عند مستوى ≥ 8 مليون ريال بنهاية ديسمبر 2026 مع متابعة دورية وفق تواتر القياس المعتمد.",
-        "smart_objective_en": "Achieve the FY2026 target for «Capital released from dead/slow stock» (≥ 8 مليون ريال) by 31 Dec 2026 with periodic tracking at the defined cadence.",
+        "smart_objective_en": "Achieve the FY2026 target for «Capital released from dead/slow stock» (≥ SAR 8M) by 31 Dec 2026 with periodic tracking at the defined cadence.",
         "baseline_fy2025": null,
         "baseline_fy2025_ar": "تقديري؛ تجميد رأس مال في مخزون راكد",
-        "target_2026_value": "≥ 8 مليون ريال",
+        "target_2026_value": "≥ SAR 8M",
         "target_2026_unit": "ريال",
         "plain_language_what_good_looks_like_ar": "نُحرّر رأس مال مجمّد في بضاعة راكدة عبر تصريفها بذكاء، فيَرجع المال يَشتغل في منتجات تَبيع.",
         "plain_language_what_good_looks_like_en": null,
@@ -20214,10 +20214,10 @@
         "formula_ar": "مجموع المبالغ المُحصّلة والمُوفَّرة والمحمية عبر القضايا والمطالبات خلال الفترة",
         "formula_en": null,
         "smart_objective_ar": "تحقيق مستهدف «قيمة المبالغ المُحصّلة أو المُوفَّرة عبر القضايا والمطالبات» عند مستوى ≥ 4 مليون ريال بنهاية ديسمبر 2026 مع متابعة دورية وفق تواتر القياس المعتمد.",
-        "smart_objective_en": "Achieve the FY2026 target for «Value recovered/protected through legal cases» (≥ 4 مليون ريال) by 31 Dec 2026 with periodic tracking at the defined cadence.",
+        "smart_objective_en": "Achieve the FY2026 target for «Value recovered/protected through legal cases» (≥ SAR 4M) by 31 Dec 2026 with periodic tracking at the defined cadence.",
         "baseline_fy2025": null,
         "baseline_fy2025_ar": "تقديري؛ أول قياس للأثر المالي للقانونية",
-        "target_2026_value": "≥ 4 مليون ريال",
+        "target_2026_value": "≥ SAR 4M",
         "target_2026_unit": "ريال",
         "plain_language_what_good_looks_like_ar": "تَكسب القانونية حقوق الشركة وتُجنّبها الغرامات والخسائر، فتُثبت أنها تَحمي مال الشركة لا مجرّد تَستهلكه.",
         "plain_language_what_good_looks_like_en": null,
@@ -20259,10 +20259,10 @@
         "formula_ar": "إجمالي زمن إنجاز العقود التجارية / عدد العقود المُنجزة",
         "formula_en": null,
         "smart_objective_ar": "تحقيق مستهدف «متوسط زمن إنجاز العقود التجارية والشراكات البيعية» عند مستوى ≤ 5 أيام بنهاية ديسمبر 2026 مع متابعة دورية وفق تواتر القياس المعتمد.",
-        "smart_objective_en": "Achieve the FY2026 target for «Commercial-contract turnaround time» (≤ 5 أيام) by 31 Dec 2026 with periodic tracking at the defined cadence.",
+        "smart_objective_en": "Achieve the FY2026 target for «Commercial-contract turnaround time» (≤ 5 days) by 31 Dec 2026 with periodic tracking at the defined cadence.",
         "baseline_fy2025": null,
         "baseline_fy2025_ar": "تقديري؛ سرعة العقود تُمكّن النمو التجاري",
-        "target_2026_value": "≤ 5 أيام",
+        "target_2026_value": "≤ 5 days",
         "target_2026_unit": "يوم",
         "plain_language_what_good_looks_like_ar": "تُنجز القانونية العقود التجارية والشراكات بسرعة، فما تَضيع فرصة بيع أو شراكة بانتظار توقيع متأخّر.",
         "plain_language_what_good_looks_like_en": null,
@@ -21110,11 +21110,11 @@
         "definition_simple_ar": "كم يوم ناخذ عشان نقفل أي فرق جرد نكتشفه ونعرف سببه؟",
         "level_classification": "junior",
         "definition_ar": "يقيس متوسط عدد الأيام لإغلاق فروقات الجرد المكتشفة (تسوية وتوثيق السبب)، ويعكس كفاءة المعالجة التشغيلية للفروقات.",
-        "definition_en": "Measures average stock-variance closure time. Target: Achieve \"Average stock-variance closure time\" at target <= 3 أيام for the Inventory and stock Control Department by end of FY2026 with monthly tracking.",
+        "definition_en": "Measures average stock-variance closure time. Target: Achieve \"Average stock-variance closure time\" at target <= 3 days for the Inventory and stock Control Department by end of FY2026 with monthly tracking.",
         "formula_ar": "إجمالي أيام إغلاق الفروقات / عدد الفروقات المغلقة",
         "formula_en": null,
         "smart_objective_ar": "تحقيق متوسط زمن إغلاق فرق الجرد بمستهدف <= 3 أيام لـالكفاءة التشغيلية والتحول الرقمي ضمن Inventory and stock Control Department بنهاية FY2026 مع متابعة شهري.",
-        "smart_objective_en": "Achieve \"Average stock-variance closure time\" at target <= 3 أيام for the Inventory and stock Control Department by end of FY2026 with monthly tracking.",
+        "smart_objective_en": "Achieve \"Average stock-variance closure time\" at target <= 3 days for the Inventory and stock Control Department by end of FY2026 with monthly tracking.",
         "baseline_fy2025": "تقديري 6 أيام في FY2025",
         "baseline_fy2025_ar": "تقديري 6 أيام في FY2025",
         "target_2026_value": "3",
@@ -21425,11 +21425,11 @@
         "definition_simple_ar": "كم يوم ناخذ عشان نراجع العقد التجاري ونرجّعه؟",
         "level_classification": "junior",
         "definition_ar": "يقيس متوسط عدد أيام العمل لإنجاز مراجعة العقد التجاري وإعادته للجهة الطالبة، ويعكس سرعة دعم الإدارة لعجلة الأعمال التجارية.",
-        "definition_en": "Measures average commercial-contract review turnaround. Target: Achieve \"Average commercial-contract review turnaround\" at target <= 3 أيام for the Legal Affairs Department by end of FY2026 with monthly tracking.",
+        "definition_en": "Measures average commercial-contract review turnaround. Target: Achieve \"Average commercial-contract review turnaround\" at target <= 3 days for the Legal Affairs Department by end of FY2026 with monthly tracking.",
         "formula_ar": "إجمالي أيام مراجعة العقود / عدد العقود المراجعة",
         "formula_en": null,
         "smart_objective_ar": "تحقيق متوسط زمن مراجعة العقود التجارية بمستهدف <= 3 أيام لـالأداء التجاري والقنوات ضمن Legal Affairs Department بنهاية FY2026 مع متابعة شهري.",
-        "smart_objective_en": "Achieve \"Average commercial-contract review turnaround\" at target <= 3 أيام for the Legal Affairs Department by end of FY2026 with monthly tracking.",
+        "smart_objective_en": "Achieve \"Average commercial-contract review turnaround\" at target <= 3 days for the Legal Affairs Department by end of FY2026 with monthly tracking.",
         "baseline_fy2025": "تقديري 6 أيام في FY2025",
         "baseline_fy2025_ar": "تقديري 6 أيام في FY2025",
         "target_2026_value": "3",
@@ -21470,11 +21470,11 @@
         "definition_simple_ar": "كم يوم ناخذ عشان نرد على شكوى قانونية من عميل؟",
         "level_classification": "junior",
         "definition_ar": "يقيس متوسط عدد الأيام للرد على الشكاوى والمطالبات القانونية الواردة من العملاء، ويعكس سرعة المعالجة القانونية لحماية سمعة الشركة وتجربة العميل.",
-        "definition_en": "Measures average legal customer-complaint response time. Target: Achieve \"Average legal customer-complaint response time\" at target <= 3 أيام for the Legal Affairs Department by end of FY2026 with monthly tracking.",
+        "definition_en": "Measures average legal customer-complaint response time. Target: Achieve \"Average legal customer-complaint response time\" at target <= 3 days for the Legal Affairs Department by end of FY2026 with monthly tracking.",
         "formula_ar": "إجمالي أيام الرد / عدد الشكاوى القانونية المعالجة",
         "formula_en": null,
         "smart_objective_ar": "تحقيق متوسط زمن الرد على الشكاوى القانونية للعملاء بمستهدف <= 3 أيام لـتجربة العميل وما بعد البيع ضمن Legal Affairs Department بنهاية FY2026 مع متابعة شهري.",
-        "smart_objective_en": "Achieve \"Average legal customer-complaint response time\" at target <= 3 أيام for the Legal Affairs Department by end of FY2026 with monthly tracking.",
+        "smart_objective_en": "Achieve \"Average legal customer-complaint response time\" at target <= 3 days for the Legal Affairs Department by end of FY2026 with monthly tracking.",
         "baseline_fy2025": "تقديري 5 أيام في FY2025",
         "baseline_fy2025_ar": "تقديري 5 أيام في FY2025",
         "target_2026_value": "3",
@@ -21875,11 +21875,11 @@
         "definition_simple_ar": "كم ساعة ناخذ عشان نأكّد للعميل وين وصل طلبه؟",
         "level_classification": "junior",
         "definition_ar": "يقيس متوسط الزمن للرد على استفسار العميل عن حالة طلبه أو توصيله، ويعكس سرعة الربط بين العناية وعمليات الإمداد والتوصيل.",
-        "definition_en": "Measures average order-status confirmation time to customer. Target: Achieve \"Average order-status confirmation time to customer\" at target <= 2 ساعة for the Customer Care Department by end of FY2026 with monthly tracking.",
+        "definition_en": "Measures average order-status confirmation time to customer. Target: Achieve \"Average order-status confirmation time to customer\" at target <= 2 hours for the Customer Care Department by end of FY2026 with monthly tracking.",
         "formula_ar": "إجمالي زمن الردود على استفسارات حالة الطلب / عدد الاستفسارات",
         "formula_en": null,
         "smart_objective_ar": "تحقيق متوسط زمن تأكيد حالة الطلب للعميل بمستهدف <= 2 ساعة لـالمخزون وسلاسل الإمداد ضمن Customer Care Department بنهاية FY2026 مع متابعة شهري.",
-        "smart_objective_en": "Achieve \"Average order-status confirmation time to customer\" at target <= 2 ساعة for the Customer Care Department by end of FY2026 with monthly tracking.",
+        "smart_objective_en": "Achieve \"Average order-status confirmation time to customer\" at target <= 2 hours for the Customer Care Department by end of FY2026 with monthly tracking.",
         "baseline_fy2025": "تقديري 5 ساعات في FY2025",
         "baseline_fy2025_ar": "تقديري 5 ساعات في FY2025",
         "target_2026_value": "2",
@@ -22415,11 +22415,11 @@
         "definition_simple_ar": "كم ريال وفّرناه أو حمينا الشركة من خسارته عن طريق المراجعة؟",
         "level_classification": "senior",
         "definition_ar": "يقيس القيمة المالية للوفورات والمخاطر التي كشفتها المراجعة الداخلية ومُنعت أو استُردّت، ويعكس مساهمة المراجعة في حماية ربحية الشركة.",
-        "definition_en": "Measures audit-identified savings & financial risk value. Target: Achieve \"Audit-identified savings & financial risk value\" at target >= 3 مليون ريال for the Internal Audit Department by end of FY2026 with semi_annual tracking.",
+        "definition_en": "Measures audit-identified savings & financial risk value. Target: Achieve \"Audit-identified savings & financial risk value\" at target >= SAR 3M for the Internal Audit Department by end of FY2026 with semi_annual tracking.",
         "formula_ar": "إجمالي قيمة الوفورات + المخاطر المالية المكتشفة والمُعالجة",
         "formula_en": null,
         "smart_objective_ar": "تحقيق قيمة الوفورات والمخاطر المالية المكتشفة بمستهدف >= 3 مليون ريال لـالنمو والربحية ضمن Internal Audit Department بنهاية FY2026 مع متابعة نصف سنوي.",
-        "smart_objective_en": "Achieve \"Audit-identified savings & financial risk value\" at target >= 3 مليون ريال for the Internal Audit Department by end of FY2026 with semi_annual tracking.",
+        "smart_objective_en": "Achieve \"Audit-identified savings & financial risk value\" at target >= SAR 3M for the Internal Audit Department by end of FY2026 with semi_annual tracking.",
         "baseline_fy2025": "تقديري 1.8 مليون في FY2025",
         "baseline_fy2025_ar": "تقديري 1.8 مليون في FY2025",
         "target_2026_value": "3,000,000",
@@ -22955,11 +22955,11 @@
         "definition_simple_ar": "كم يوم ناخذ عشان نعبّي وظيفة شاغرة بموظف مناسب؟",
         "level_classification": "junior",
         "definition_ar": "يقيس متوسط عدد الأيام لشغل الوظيفة الشاغرة من فتحها حتى قبول العرض، ويعكس سرعة تزويد الأعمال بالكوادر اللازمة لدعم النمو والتوسّع.",
-        "definition_en": "Measures average time-to-fill vacancies. Target: Achieve \"Average time-to-fill vacancies\" at target <= 30 يوم for the HR and Support Services Department by end of FY2026 with monthly tracking.",
+        "definition_en": "Measures average time-to-fill vacancies. Target: Achieve \"Average time-to-fill vacancies\" at target <= 30 days for the HR and Support Services Department by end of FY2026 with monthly tracking.",
         "formula_ar": "إجمالي أيام شغل الوظائف / عدد الوظائف المشغولة",
         "formula_en": null,
         "smart_objective_ar": "تحقيق متوسط زمن شغل الوظائف الشاغرة بمستهدف <= 30 يوم لـالنمو والربحية ضمن HR and Support Services Department بنهاية FY2026 مع متابعة شهري.",
-        "smart_objective_en": "Achieve \"Average time-to-fill vacancies\" at target <= 30 يوم for the HR and Support Services Department by end of FY2026 with monthly tracking.",
+        "smart_objective_en": "Achieve \"Average time-to-fill vacancies\" at target <= 30 days for the HR and Support Services Department by end of FY2026 with monthly tracking.",
         "baseline_fy2025": "تقديري 45 يوم في FY2025",
         "baseline_fy2025_ar": "تقديري 45 يوم في FY2025",
         "target_2026_value": "30",
@@ -23045,11 +23045,11 @@
         "definition_simple_ar": "بالمتوسط كم يوم ناخذ في «متوسط زمن إغلاق طلبات الموظفين الداخلية».",
         "level_classification": "junior",
         "definition_ar": "يقيس متوسط الزمن لإغلاق طلبات الموظفين الداخلية (شهادات، إجازات، صيانة، سكن)، ويعكس سرعة وكفاءة الاستجابة لاحتياجات الموظف.",
-        "definition_en": "Measures average internal-request closure time. Target: Achieve \"Average internal-request closure time\" at target <= 2 يوم for the HR and Support Services Department by end of FY2026 with monthly tracking.",
+        "definition_en": "Measures average internal-request closure time. Target: Achieve \"Average internal-request closure time\" at target <= 2 days for the HR and Support Services Department by end of FY2026 with monthly tracking.",
         "formula_ar": "إجمالي زمن إغلاق الطلبات / عدد الطلبات المغلقة",
         "formula_en": null,
         "smart_objective_ar": "تحقيق متوسط زمن إغلاق طلبات الموظفين الداخلية بمستهدف <= 2 يوم لـتجربة العميل وما بعد البيع ضمن HR and Support Services Department بنهاية FY2026 مع متابعة شهري.",
-        "smart_objective_en": "Achieve \"Average internal-request closure time\" at target <= 2 يوم for the HR and Support Services Department by end of FY2026 with monthly tracking.",
+        "smart_objective_en": "Achieve \"Average internal-request closure time\" at target <= 2 days for the HR and Support Services Department by end of FY2026 with monthly tracking.",
         "baseline_fy2025": "تقديري 4 أيام في FY2025",
         "baseline_fy2025_ar": "تقديري 4 أيام في FY2025",
         "target_2026_value": "2",
@@ -23315,11 +23315,11 @@
         "definition_simple_ar": "لمن يطيح عطل يأثّر على العميل، كم ساعة ناخذ عشان نحلّه؟",
         "level_classification": "senior",
         "definition_ar": "يقيس متوسط الزمن لحل الأعطال التقنية المؤثرة مباشرة على العميل (دفع، طلب، تطبيق)، ويعكس سرعة الاستجابة لحماية تجربة العميل.",
-        "definition_en": "Measures mean time to resolve customer-impacting incidents. Target: Achieve \"Mean time to resolve customer-impacting incidents\" at target <= 2 ساعة for the IT Department by end of FY2026 with monthly tracking.",
+        "definition_en": "Measures mean time to resolve customer-impacting incidents. Target: Achieve \"Mean time to resolve customer-impacting incidents\" at target <= 2 hours for the IT Department by end of FY2026 with monthly tracking.",
         "formula_ar": "إجمالي زمن حل الأعطال المؤثرة / عدد الأعطال",
         "formula_en": null,
         "smart_objective_ar": "تحقيق متوسط زمن حل أعطال الأنظمة المؤثرة على العميل بمستهدف <= 2 ساعة لـتجربة العميل وما بعد البيع ضمن IT Department بنهاية FY2026 مع متابعة شهري.",
-        "smart_objective_en": "Achieve \"Mean time to resolve customer-impacting incidents\" at target <= 2 ساعة for the IT Department by end of FY2026 with monthly tracking.",
+        "smart_objective_en": "Achieve \"Mean time to resolve customer-impacting incidents\" at target <= 2 hours for the IT Department by end of FY2026 with monthly tracking.",
         "baseline_fy2025": "تقديري 5 ساعات في FY2025",
         "baseline_fy2025_ar": "تقديري 5 ساعات في FY2025",
         "target_2026_value": "2",
@@ -23720,11 +23720,11 @@
         "definition_simple_ar": "لمن تنقص قطعة، كم يوم ناخذ عشان نورّدها لمركز الصيانة؟",
         "level_classification": "junior",
         "definition_ar": "يقيس متوسط عدد الأيام لتوريد قطعة الغيار غير المتوفرة حتى وصولها لمركز الصيانة، ويعكس كفاءة الربط مع سلسلة الإمداد لتقليل انتظار العميل.",
-        "definition_en": "Measures average lead time for out-of-stock spare parts. Target: Achieve \"Average lead time for out-of-stock spare parts\" at target <= 7 أيام for the After-Sales Service Department by end of FY2026 with monthly tracking.",
+        "definition_en": "Measures average lead time for out-of-stock spare parts. Target: Achieve \"Average lead time for out-of-stock spare parts\" at target <= 7 days for the After-Sales Service Department by end of FY2026 with monthly tracking.",
         "formula_ar": "إجمالي أيام توريد القطع غير المتوفرة / عدد طلبات التوريد",
         "formula_en": null,
         "smart_objective_ar": "تحقيق متوسط زمن توريد قطع الغيار غير المتوفرة بمستهدف <= 7 أيام لـالمخزون وسلاسل الإمداد ضمن After-Sales Service Department بنهاية FY2026 مع متابعة شهري.",
-        "smart_objective_en": "Achieve \"Average lead time for out-of-stock spare parts\" at target <= 7 أيام for the After-Sales Service Department by end of FY2026 with monthly tracking.",
+        "smart_objective_en": "Achieve \"Average lead time for out-of-stock spare parts\" at target <= 7 days for the After-Sales Service Department by end of FY2026 with monthly tracking.",
         "baseline_fy2025": "تقديري 12 يوم في FY2025",
         "baseline_fy2025_ar": "تقديري 12 يوم في FY2025",
         "target_2026_value": "7",
@@ -24395,11 +24395,11 @@
         "definition_simple_ar": "كم يوم ناخذ عشان نرجّع فلوس العميل عند المرتجع أو الإلغاء؟",
         "level_classification": "junior",
         "definition_ar": "يقيس متوسط عدد الأيام لمعالجة وصرف استرداد مبالغ العملاء (مرتجعات/إلغاء)، ويعكس أثر كفاءة العمليات المالية على تجربة العميل وثقته.",
-        "definition_en": "Measures average customer-refund processing time. Target: Achieve \"Average customer-refund processing time\" at target <= 3 أيام for the Finance Department by end of FY2026 with monthly tracking.",
+        "definition_en": "Measures average customer-refund processing time. Target: Achieve \"Average customer-refund processing time\" at target <= 3 days for the Finance Department by end of FY2026 with monthly tracking.",
         "formula_ar": "إجمالي أيام معالجة الاستردادات / عدد طلبات الاسترداد",
         "formula_en": null,
         "smart_objective_ar": "تحقيق متوسط زمن معالجة استرداد مبالغ العملاء بمستهدف <= 3 أيام لـتجربة العميل وما بعد البيع ضمن Finance Department بنهاية FY2026 مع متابعة شهري.",
-        "smart_objective_en": "Achieve \"Average customer-refund processing time\" at target <= 3 أيام for the Finance Department by end of FY2026 with monthly tracking.",
+        "smart_objective_en": "Achieve \"Average customer-refund processing time\" at target <= 3 days for the Finance Department by end of FY2026 with monthly tracking.",
         "baseline_fy2025": "تقديري 6 أيام في FY2025",
         "baseline_fy2025_ar": "تقديري 6 أيام في FY2025",
         "target_2026_value": "3",
@@ -24759,10 +24759,10 @@
         "formula_ar": "إجمالي قيمة الأصناف الإضافية ÷ عدد فواتير الممثل",
         "formula_en": null,
         "smart_objective_ar": "تحقيق مستهدف «متوسط المبيعات الإضافية لكل ممثل (Add-on)» عند مستوى ≥ 80 ريال بنهاية ديسمبر 2026 مع متابعة دورية وفق تواتر القياس المعتمد.",
-        "smart_objective_en": "Achieve the FY2026 target for «Add-on sales per associate» (≥ 80 ريال) by 31 Dec 2026 with periodic tracking at the defined cadence.",
+        "smart_objective_en": "Achieve the FY2026 target for «Add-on sales per associate» (≥ 80 SAR) by 31 Dec 2026 with periodic tracking at the defined cadence.",
         "baseline_fy2025": null,
         "baseline_fy2025_ar": "تقديري بناءً على واقع التشغيل في المواقع الأمامية 2025",
-        "target_2026_value": "≥ 80 ريال",
+        "target_2026_value": "≥ 80 SAR",
         "target_2026_unit": "ريال",
         "plain_language_what_good_looks_like_ar": "الممثل يعرض على الزبون ملحقات تكمّل مشتراه (ضمان، صيانة، إكسسوار) فترتفع قيمة الفاتورة.",
         "plain_language_what_good_looks_like_en": null,
@@ -25029,10 +25029,10 @@
         "formula_ar": "إجمالي زمن الخدمة ÷ عدد العمليات",
         "formula_en": null,
         "smart_objective_ar": "تحقيق مستهدف «متوسط زمن خدمة الزبون عند الصندوق» عند مستوى ≤ 90 ثانية بنهاية ديسمبر 2026 مع متابعة دورية وفق تواتر القياس المعتمد.",
-        "smart_objective_en": "Achieve the FY2026 target for «Average checkout time per customer» (≤ 90 ثانية) by 31 Dec 2026 with periodic tracking at the defined cadence.",
+        "smart_objective_en": "Achieve the FY2026 target for «Average checkout time per customer» (≤ 90 seconds) by 31 Dec 2026 with periodic tracking at the defined cadence.",
         "baseline_fy2025": null,
         "baseline_fy2025_ar": "تقديري بناءً على واقع التشغيل في المواقع الأمامية 2025",
-        "target_2026_value": "≤ 90 ثانية",
+        "target_2026_value": "≤ 90 seconds",
         "target_2026_unit": "ثانية",
         "plain_language_what_good_looks_like_ar": "الزبون يخلّص دفع بسرعة وما يطول في الطابور عند الصندوق.",
         "plain_language_what_good_looks_like_en": null,
@@ -39631,7 +39631,10 @@
         "grade_jisr_id": 11891,
         "grade_name_ar": "المستوى الإداري السادس: الوظائف الداعمة والفنية",
         "grade_name_en": "Sixth Administrative Level: Support and Technical Positions",
-        "reports_to": null,
+        "reports_to": {
+          "slug": "support-services-officer",
+          "name_ar": "مسؤول الخدمات المساندة"
+        },
         "direct_reports": []
       },
       "accounts-manager": {
@@ -39928,7 +39931,7 @@
           {
             "slug": "accounts-supervisor",
             "name_ar": "مشرف الحسابات",
-            "name_en": "Accounts Supervisor"
+            "name_en": "Accounting Supervisor"
           }
         ]
       },
@@ -40269,6 +40272,11 @@
             "slug": "senior-cost-accountant",
             "name_ar": "محاسب أول تكاليف",
             "name_en": "Senior Cost Accountant"
+          },
+          {
+            "slug": "treasury-accountant",
+            "name_ar": "محاسب الخزينة",
+            "name_en": "Treasury Accountant"
           }
         ]
       },
@@ -41138,8 +41146,8 @@
         "grade_name_ar": "المستوى الإداري الثالث: الوظائف الإشرافية",
         "grade_name_en": "Third Administrative Level: Supervisory Positions",
         "reports_to": {
-          "slug": "store-operations-supervisor",
-          "name_ar": "مشرف عمليات معرض"
+          "slug": "area-supervisor",
+          "name_ar": "مشرف منطقة"
         },
         "direct_reports": []
       },
@@ -41389,6 +41397,11 @@
             "slug": "administrative-assistant",
             "name_ar": "مساعد إداري",
             "name_en": "Administrative Assistant"
+          },
+          {
+            "slug": "delivery-installation-supervisor",
+            "name_ar": "مشرف التوصيل والتركيب",
+            "name_en": "Delivery & Installation Supervisor"
           }
         ]
       },
@@ -41673,6 +41686,16 @@
             "slug": "assistant-area-supervisor",
             "name_ar": "مساعد مشرف منطقة",
             "name_en": "Assistant Area Supervisor"
+          },
+          {
+            "slug": "administrative-supervisor",
+            "name_ar": "مشرف إداري",
+            "name_en": "Administrative Supervisor"
+          },
+          {
+            "slug": "store-operations-supervisor",
+            "name_ar": "مشرف عمليات معرض",
+            "name_en": "Store Operations Supervisor"
           }
         ]
       },
@@ -42844,6 +42867,11 @@
         "reports_to": null,
         "direct_reports": [
           {
+            "slug": "managing-director",
+            "name_ar": "العضو المنتدب",
+            "name_en": "Managing Director"
+          },
+          {
             "slug": "finance-director",
             "name_ar": "المدير المالي",
             "name_en": "Finance Director"
@@ -42856,12 +42884,12 @@
           {
             "slug": "inventory-stock-control-manager",
             "name_ar": "مدير الجرد ومراقبة المخزون",
-            "name_en": "Inventory & Stock Control Manager"
+            "name_en": "Inventory and Stock Control Manager"
           },
           {
             "slug": "legal-affairs-governance-manager",
             "name_ar": "مدير الشؤون القانونية والحوكمة",
-            "name_en": "Legal Affairs & Governance Manager"
+            "name_en": "Legal Legal Affairs and Governance Manager"
           },
           {
             "slug": "customer-care-manager",
@@ -42896,7 +42924,7 @@
           {
             "slug": "supply-chain-procurement-manager",
             "name_ar": "مدير سلاسل الإمداد والتوريد",
-            "name_en": "Supply Chain & Procurement Manager"
+            "name_en": "Supply Chain Director"
           },
           {
             "slug": "deputy-ceo",
@@ -44558,7 +44586,7 @@
           {
             "slug": "customer-care-quality-officer",
             "name_ar": "مسؤول جودة العناية بالعملاء",
-            "name_en": "Customer Care Quality Officer"
+            "name_en": "Customer Care Quality Assurance Officer"
           }
         ]
       },
@@ -44799,8 +44827,17 @@
         "grade_jisr_id": 11888,
         "grade_name_ar": "المستوى الإداري الثالث: الوظائف الإشرافية",
         "grade_name_en": "Third Administrative Level: Supervisory Positions",
-        "reports_to": null,
-        "direct_reports": []
+        "reports_to": {
+          "slug": "after-sales-services-manager",
+          "name_ar": "مدير خدمات ما بعد البيع"
+        },
+        "direct_reports": [
+          {
+            "slug": "operations-coordinator-after-sales",
+            "name_ar": "منسق عمليات خدمات ما بعد البيع",
+            "name_en": "Operations Coordinator After-Sales"
+          }
+        ]
       },
       "demand-planning-specialist": {
         "slug": "demand-planning-specialist",
@@ -45508,12 +45545,12 @@
           {
             "slug": "front-end-developer",
             "name_ar": "مطور الواجهة الأمامية",
-            "name_en": "Front-End Developer"
+            "name_en": "Frontend Developer"
           },
           {
             "slug": "mobile-applications-developer",
             "name_ar": "مطور تطبيقات الجوال",
-            "name_en": "Mobile Applications Developer"
+            "name_en": "Mobile App Developer"
           },
           {
             "slug": "e-commerce-platform-developer",
@@ -49747,7 +49784,7 @@
           {
             "slug": "systems-integration-operations-specialist",
             "name_ar": "أخصائي تشغيل تكامل الأنظمة",
-            "name_en": "Systems-Integration Operations Specialist"
+            "name_en": "Systems Integration Operations Specialist"
           },
           {
             "slug": "technical-support-specialist",
@@ -49757,7 +49794,7 @@
           {
             "slug": "general-network-engineer",
             "name_ar": "مهندس شبكات عام",
-            "name_en": "General Network Engineer"
+            "name_en": "Network Engineer"
           },
           {
             "slug": "network-information-security-engineer",
@@ -50011,12 +50048,12 @@
           {
             "slug": "systems-analyst-reports-developer",
             "name_ar": "محلل نظم ومطور تقارير",
-            "name_en": "Systems Analyst & Reports Developer"
+            "name_en": "Information Systems Analyst"
           },
           {
             "slug": "erp-systems-developer",
             "name_ar": "مطور نظم تخطيط الموارد المؤسسية",
-            "name_en": "ERP Systems Developer"
+            "name_en": "ERP Developer"
           }
         ]
       },
@@ -50837,7 +50874,7 @@
           {
             "slug": "inventory-stock-control-section-head",
             "name_ar": "رئيس قسم الجرد ومراقبة المخزون",
-            "name_en": "Inventory & Stock Control Section Head"
+            "name_en": "Inventory and Stock Control Section Head"
           }
         ]
       },
@@ -51333,7 +51370,7 @@
           {
             "slug": "assistant-stock-controller",
             "name_ar": "مساعد مراقب مخزون",
-            "name_en": "Assistant Stock Controller"
+            "name_en": "Assistant Inventory Controller"
           }
         ]
       },
@@ -51577,7 +51614,7 @@
           {
             "slug": "infrastructure-technical-support-section-head",
             "name_ar": "رئيس قسم البنية التحتية والدعم التقني",
-            "name_en": "Infrastructure & Technical Support Section Head"
+            "name_en": "Infrastructure & Support Section Head"
           },
           {
             "slug": "internal-applications-development-section-head",
@@ -52841,6 +52878,11 @@
             "slug": "logistics-data-coordinator",
             "name_ar": "منسق بيانات لوجستية",
             "name_en": "Logistics Data Coordinator"
+          },
+          {
+            "slug": "logistics-operations-coordinator",
+            "name_ar": "منسق عمليات لوجستية",
+            "name_en": "Logistics Operations Coordinator"
           }
         ]
       },
@@ -53079,7 +53121,10 @@
         "grade_jisr_id": 11891,
         "grade_name_ar": "المستوى الإداري السادس: الوظائف الداعمة والفنية",
         "grade_name_en": "Sixth Administrative Level: Support and Technical Positions",
-        "reports_to": null,
+        "reports_to": {
+          "slug": "logistics-manager",
+          "name_ar": "مدير اللوجستيك"
+        },
         "direct_reports": []
       },
       "maintenance-projects-supervisor": {
@@ -54063,7 +54108,12 @@
           {
             "slug": "senior-small-appliance-technician",
             "name_ar": "فني أول أجهزة صغيرة",
-            "name_en": "Senior Small-Appliance Technician"
+            "name_en": "SDA Senior Technician"
+          },
+          {
+            "slug": "mda-maintenance-supervisor",
+            "name_ar": "مشرف صيانة الأجهزة الكبيرة",
+            "name_en": "MDA Maintenance Supervisor"
           },
           {
             "slug": "maintenance-center-supervisor",
@@ -54298,7 +54348,10 @@
         "grade_jisr_id": 11886,
         "grade_name_ar": "المستوى الإداري الأول: الوظائف القيادية",
         "grade_name_en": "First Administrative Level: Leadership Roles",
-        "reports_to": null,
+        "reports_to": {
+          "slug": "chief-executive-officer-ceo",
+          "name_ar": "الرئيس التنفيذي"
+        },
         "direct_reports": []
       },
       "marketing-analytics-specialist": {
@@ -54973,7 +55026,10 @@
         "grade_jisr_id": 11888,
         "grade_name_ar": "المستوى الإداري الثالث: الوظائف الإشرافية",
         "grade_name_en": "Third Administrative Level: Supervisory Positions",
-        "reports_to": null,
+        "reports_to": {
+          "slug": "maintenance-section-manager",
+          "name_ar": "مدير قسم الصيانة"
+        },
         "direct_reports": []
       },
       "product-display-coordinator": {
@@ -55444,7 +55500,7 @@
           {
             "slug": "product-display-coordinator",
             "name_ar": "منسق عرض المنتجات",
-            "name_en": "Product Display Coordinator"
+            "name_en": "Merchandiser"
           }
         ]
       },
@@ -56336,7 +56392,10 @@
         "grade_jisr_id": 11891,
         "grade_name_ar": "المستوى الإداري السادس: الوظائف الداعمة والفنية",
         "grade_name_en": "Sixth Administrative Level: Support and Technical Positions",
-        "reports_to": null,
+        "reports_to": {
+          "slug": "delivery-installation-supervisor",
+          "name_ar": "مشرف التوصيل والتركيب"
+        },
         "direct_reports": []
       },
       "performance-marketing-specialist": {
@@ -57035,7 +57094,7 @@
           {
             "slug": "assistant-procurement-manager",
             "name_ar": "مساعد مدير المشتريات",
-            "name_en": "Assistant Procurement Manager"
+            "name_en": "Asst. Procurement Manager"
           },
           {
             "slug": "procurement-coordinator",
@@ -57996,7 +58055,10 @@
         "grade_jisr_id": 11887,
         "grade_name_ar": "المستوى الإداري الثاني: الوظائف الإدارية",
         "grade_name_en": "Second Administrative Level: Administrative Positions",
-        "reports_to": null,
+        "reports_to": {
+          "slug": "warehousing-distribution-manager",
+          "name_ar": "مدير المستودعات والتوزيع"
+        },
         "direct_reports": []
       },
       "assistant-sales-operations-manager": {
@@ -58490,27 +58552,27 @@
           {
             "slug": "wholesale-sales-specialist",
             "name_ar": "أخصائي مبيعات الجملة",
-            "name_en": "Wholesale Sales Specialist"
+            "name_en": "Wholesale Sales Supervisor"
           },
           {
             "slug": "showroom-operations-manager",
             "name_ar": "مدير عمليات معرض",
-            "name_en": "Showroom Operations Manager"
+            "name_en": "Store Operations Manager"
           },
           {
             "slug": "assistant-sales-operations-manager",
             "name_ar": "مساعد مدير المبيعات والعمليات",
-            "name_en": "Assistant Sales & Operations Manager"
+            "name_en": "Sales & Operations Assistant Manager"
           },
           {
             "slug": "partnerships-sales-services-development-supervisor",
             "name_ar": "مشرف تطوير الشراكات والخدمات البيعية",
-            "name_en": "Partnerships & Sales-Services Development Supervisor"
+            "name_en": "Retail Partnerships & Commercial Services Supervisor"
           },
           {
             "slug": "showroom-display-development-supervisor",
             "name_ar": "مشرف تطوير عرض المعارض",
-            "name_en": "Showroom Display Development Supervisor"
+            "name_en": "Merchandising Development Supervisor"
           },
           {
             "slug": "area-supervisor",
@@ -60243,7 +60305,7 @@
           {
             "slug": "senior-showroom-operations-officer",
             "name_ar": "مسؤول أول عمليات معرض",
-            "name_en": "Senior Showroom Operations Officer"
+            "name_en": "Store Operations Senior Officer"
           }
         ]
       },
@@ -60724,7 +60786,7 @@
           {
             "slug": "showroom-operations-officer",
             "name_ar": "مسؤول عمليات معرض",
-            "name_en": "Showroom Operations Officer"
+            "name_en": "Store Operations Officer"
           },
           {
             "slug": "sales-representative",
@@ -60950,14 +61012,11 @@
         "grade_jisr_id": 11888,
         "grade_name_ar": "المستوى الإداري الثالث: الوظائف الإشرافية",
         "grade_name_en": "Third Administrative Level: Supervisory Positions",
-        "reports_to": null,
-        "direct_reports": [
-          {
-            "slug": "administrative-supervisor",
-            "name_ar": "مشرف إداري",
-            "name_en": "Administrative Supervisor"
-          }
-        ]
+        "reports_to": {
+          "slug": "area-supervisor",
+          "name_ar": "مشرف منطقة"
+        },
+        "direct_reports": []
       },
       "suppliers-accounts-accountant": {
         "slug": "suppliers-accounts-accountant",
@@ -61509,7 +61568,7 @@
           {
             "slug": "inventory-planning-section-head",
             "name_ar": "رئيس قسم تخطيط المخزون",
-            "name_en": "Inventory Planning Section Head"
+            "name_en": "Stock Planning Section Head"
           },
           {
             "slug": "logistics-manager",
@@ -62253,7 +62312,7 @@
           {
             "slug": "maintenance-projects-supervisor",
             "name_ar": "مشرف الصيانة والمشاريع",
-            "name_en": "Maintenance & Projects Supervisor"
+            "name_en": "Maintenance and Projects Supervisor"
           }
         ]
       },
@@ -62507,6 +62566,11 @@
           "name_ar": "مدير الخدمات المساندة"
         },
         "direct_reports": [
+          {
+            "slug": "accommodation-officer",
+            "name_ar": "مسؤول سكن",
+            "name_en": "Accommodation Officer"
+          },
           {
             "slug": "support-services-coordinator",
             "name_ar": "منسق الخدمات المساندة",
@@ -64217,7 +64281,10 @@
         "grade_jisr_id": 11889,
         "grade_name_ar": "المستوى الإداري الرابع: الوظائف التشغيلية المتخصصة",
         "grade_name_en": "Fourth Administrative Level: Specialized Operational Positions",
-        "reports_to": null,
+        "reports_to": {
+          "slug": "accounts-supervisor",
+          "name_ar": "مشرف الحسابات"
+        },
         "direct_reports": []
       },
       "uae-warehouse-unit-head": {
@@ -64745,6 +64812,11 @@
             "slug": "jeddah-warehouse-unit-head",
             "name_ar": "رئيس وحدة مستودع جدة",
             "name_en": "Jeddah Warehouse Unit Head"
+          },
+          {
+            "slug": "riyadh-warehouse-unit-manager",
+            "name_ar": "مدير وحدة مستودع الرياض",
+            "name_en": "Riyadh Warehouse Unit Manager"
           }
         ]
       },
