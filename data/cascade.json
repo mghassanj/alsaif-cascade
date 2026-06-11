@@ -39736,7 +39736,9 @@
         "grade_level": 6,
         "grade_jisr_id": 11891,
         "grade_name_ar": "المستوى الإداري السادس: الوظائف الداعمة والفنية",
-        "grade_name_en": "Sixth Administrative Level: Support and Technical Positions"
+        "grade_name_en": "Sixth Administrative Level: Support and Technical Positions",
+        "reports_to": null,
+        "direct_reports": []
       },
       "accounts-manager": {
         "slug": "accounts-manager",
@@ -40017,7 +40019,18 @@
         "grade_level": 2,
         "grade_jisr_id": 11887,
         "grade_name_ar": "المستوى الإداري الثاني: الوظائف الإدارية",
-        "grade_name_en": "Second Administrative Level: Administrative Positions"
+        "grade_name_en": "Second Administrative Level: Administrative Positions",
+        "reports_to": {
+          "slug": "finance-director",
+          "name_ar": "المدير المالي"
+        },
+        "direct_reports": [
+          {
+            "slug": "accounts-supervisor",
+            "name_ar": "مشرف الحسابات",
+            "name_en": "Accounts Supervisor"
+          }
+        ]
       },
       "accounts-supervisor": {
         "slug": "accounts-supervisor",
@@ -40330,7 +40343,28 @@
         "grade_level": 3,
         "grade_jisr_id": 11888,
         "grade_name_ar": "المستوى الإداري الثالث: الوظائف الإشرافية",
-        "grade_name_en": "Third Administrative Level: Supervisory Positions"
+        "grade_name_en": "Third Administrative Level: Supervisory Positions",
+        "reports_to": {
+          "slug": "accounts-manager",
+          "name_ar": "مدير الحسابات"
+        },
+        "direct_reports": [
+          {
+            "slug": "senior-general-ledger-tax-accountant",
+            "name_ar": "محاسب أول الأستاذ العام والضرائب",
+            "name_en": "Senior General Ledger & Tax Accountant"
+          },
+          {
+            "slug": "senior-accounts-payable-accountant",
+            "name_ar": "محاسب أول الذمم الدائنة",
+            "name_en": "Senior Accounts Payable Accountant"
+          },
+          {
+            "slug": "senior-cost-accountant",
+            "name_ar": "محاسب أول تكاليف",
+            "name_en": "Senior Cost Accountant"
+          }
+        ]
       },
       "administrative-assistant": {
         "slug": "administrative-assistant",
@@ -40491,7 +40525,12 @@
         "grade_level": 6,
         "grade_jisr_id": 11891,
         "grade_name_ar": "المستوى الإداري السادس: الوظائف الداعمة والفنية",
-        "grade_name_en": "Sixth Administrative Level: Support and Technical Positions"
+        "grade_name_en": "Sixth Administrative Level: Support and Technical Positions",
+        "reports_to": {
+          "slug": "after-sales-services-manager",
+          "name_ar": "مدير خدمات ما بعد البيع"
+        },
+        "direct_reports": []
       },
       "administrative-operations-officer": {
         "slug": "administrative-operations-officer",
@@ -40668,7 +40707,12 @@
         "grade_level": 6,
         "grade_jisr_id": 11891,
         "grade_name_ar": "المستوى الإداري السادس: الوظائف الداعمة والفنية",
-        "grade_name_en": "Sixth Administrative Level: Support and Technical Positions"
+        "grade_name_en": "Sixth Administrative Level: Support and Technical Positions",
+        "reports_to": {
+          "slug": "administrative-operations-specialist",
+          "name_ar": "أخصائي عمليات إداري"
+        },
+        "direct_reports": []
       },
       "administrative-operations-specialist": {
         "slug": "administrative-operations-specialist",
@@ -40864,7 +40908,18 @@
         "grade_level": 4,
         "grade_jisr_id": 11889,
         "grade_name_ar": "المستوى الإداري الرابع: الوظائف التشغيلية المتخصصة",
-        "grade_name_en": "Fourth Administrative Level: Specialized Operational Positions"
+        "grade_name_en": "Fourth Administrative Level: Specialized Operational Positions",
+        "reports_to": {
+          "slug": "hr-operations-section-head",
+          "name_ar": "رئيس قسم عمليات الموارد البشرية"
+        },
+        "direct_reports": [
+          {
+            "slug": "administrative-operations-officer",
+            "name_ar": "مسؤول عمليات إداري",
+            "name_en": "Administrative Operations Officer"
+          }
+        ]
       },
       "administrative-supervisor": {
         "slug": "administrative-supervisor",
@@ -41076,7 +41131,9 @@
         "grade_level": 3,
         "grade_jisr_id": 11888,
         "grade_name_ar": "المستوى الإداري الثالث: الوظائف الإشرافية",
-        "grade_name_en": "Third Administrative Level: Supervisory Positions"
+        "grade_name_en": "Third Administrative Level: Supervisory Positions",
+        "reports_to": null,
+        "direct_reports": []
       },
       "after-sales-services-manager": {
         "slug": "after-sales-services-manager",
@@ -41303,7 +41360,20 @@
         "grade_level": 2,
         "grade_jisr_id": 11887,
         "grade_name_ar": "المستوى الإداري الثاني: الوظائف الإدارية",
-        "grade_name_en": "Second Administrative Level: Administrative Positions"
+        "grade_name_en": "Second Administrative Level: Administrative Positions",
+        "reports_to": null,
+        "direct_reports": [
+          {
+            "slug": "maintenance-section-manager",
+            "name_ar": "مدير قسم الصيانة",
+            "name_en": "Maintenance Section Manager"
+          },
+          {
+            "slug": "administrative-assistant",
+            "name_ar": "مساعد إداري",
+            "name_en": "Administrative Assistant"
+          }
+        ]
       },
       "area-supervisor": {
         "slug": "area-supervisor",
@@ -41570,7 +41640,23 @@
         "grade_level": 3,
         "grade_jisr_id": 11888,
         "grade_name_ar": "المستوى الإداري الثالث: الوظائف الإشرافية",
-        "grade_name_en": "Third Administrative Level: Supervisory Positions"
+        "grade_name_en": "Third Administrative Level: Supervisory Positions",
+        "reports_to": {
+          "slug": "sales-operations-manager",
+          "name_ar": "مدير المبيعات والعمليات"
+        },
+        "direct_reports": [
+          {
+            "slug": "showroom-operations-manager",
+            "name_ar": "مدير عمليات معرض",
+            "name_en": "Showroom Operations Manager"
+          },
+          {
+            "slug": "assistant-area-supervisor",
+            "name_ar": "مساعد مشرف منطقة",
+            "name_en": "Assistant Area Supervisor"
+          }
+        ]
       },
       "assistant-area-supervisor": {
         "slug": "assistant-area-supervisor",
@@ -41804,7 +41890,12 @@
         "grade_level": 3,
         "grade_jisr_id": 11888,
         "grade_name_ar": "المستوى الإداري الثالث: الوظائف الإشرافية",
-        "grade_name_en": "Third Administrative Level: Supervisory Positions"
+        "grade_name_en": "Third Administrative Level: Supervisory Positions",
+        "reports_to": {
+          "slug": "area-supervisor",
+          "name_ar": "مشرف منطقة"
+        },
+        "direct_reports": []
       },
       "assistant-stock-controller": {
         "slug": "assistant-stock-controller",
@@ -42008,7 +42099,12 @@
         "grade_level": 6,
         "grade_jisr_id": 11891,
         "grade_name_ar": "المستوى الإداري السادس: الوظائف الداعمة والفنية",
-        "grade_name_en": "Sixth Administrative Level: Support and Technical Positions"
+        "grade_name_en": "Sixth Administrative Level: Support and Technical Positions",
+        "reports_to": {
+          "slug": "inventory-controller",
+          "name_ar": "مراقب مخزون"
+        },
+        "direct_reports": []
       },
       "assistant-procurement-manager": {
         "slug": "assistant-procurement-manager",
@@ -42197,7 +42293,12 @@
         "grade_level": 6,
         "grade_jisr_id": 11891,
         "grade_name_ar": "المستوى الإداري السادس: الوظائف الداعمة والفنية",
-        "grade_name_en": "Sixth Administrative Level: Support and Technical Positions"
+        "grade_name_en": "Sixth Administrative Level: Support and Technical Positions",
+        "reports_to": {
+          "slug": "procurement-manager",
+          "name_ar": "مدير المشتريات"
+        },
+        "direct_reports": []
       },
       "cashier": {
         "slug": "cashier",
@@ -42375,7 +42476,12 @@
         "grade_level": 6,
         "grade_jisr_id": 11891,
         "grade_name_ar": "المستوى الإداري السادس: الوظائف الداعمة والفنية",
-        "grade_name_en": "Sixth Administrative Level: Support and Technical Positions"
+        "grade_name_en": "Sixth Administrative Level: Support and Technical Positions",
+        "reports_to": {
+          "slug": "senior-showroom-operations-officer",
+          "name_ar": "مسؤول أول عمليات معرض"
+        },
+        "direct_reports": []
       },
       "chief-executive-officer-ceo": {
         "slug": "chief-executive-officer-ceo",
@@ -42551,7 +42657,40 @@
         "grade_level": 1,
         "grade_jisr_id": 11886,
         "grade_name_ar": "المستوى الإداري الأول: الوظائف القيادية",
-        "grade_name_en": "First Administrative Level: Leadership Roles"
+        "grade_name_en": "First Administrative Level: Leadership Roles",
+        "reports_to": null,
+        "direct_reports": [
+          {
+            "slug": "marketing-e-commerce-manager",
+            "name_ar": "مدير التسويق والمتجر الإلكتروني",
+            "name_en": "Marketing & E-Commerce Manager"
+          },
+          {
+            "slug": "inventory-stock-control-manager",
+            "name_ar": "مدير الجرد ومراقبة المخزون",
+            "name_en": "Inventory & Stock Control Manager"
+          },
+          {
+            "slug": "legal-affairs-governance-manager",
+            "name_ar": "مدير الشؤون القانونية والحوكمة",
+            "name_en": "Legal Affairs & Governance Manager"
+          },
+          {
+            "slug": "customer-care-manager",
+            "name_ar": "مدير العناية بالعملاء",
+            "name_en": "Customer Care Manager"
+          },
+          {
+            "slug": "internal-audit-manager",
+            "name_ar": "مدير المراجعة الداخلية",
+            "name_en": "Internal Audit Manager"
+          },
+          {
+            "slug": "supply-chain-procurement-manager",
+            "name_ar": "مدير سلاسل الإمداد والتوريد",
+            "name_en": "Supply Chain & Procurement Manager"
+          }
+        ]
       },
       "content-social-media-specialist": {
         "slug": "content-social-media-specialist",
@@ -42735,7 +42874,12 @@
         "grade_level": 4,
         "grade_jisr_id": 11889,
         "grade_name_ar": "المستوى الإداري الرابع: الوظائف التشغيلية المتخصصة",
-        "grade_name_en": "Fourth Administrative Level: Specialized Operational Positions"
+        "grade_name_en": "Fourth Administrative Level: Specialized Operational Positions",
+        "reports_to": {
+          "slug": "digital-marketing-section-head",
+          "name_ar": "رئيس قسم التسويق الرقمي"
+        },
+        "direct_reports": []
       },
       "cost-inventory-accountant": {
         "slug": "cost-inventory-accountant",
@@ -42947,7 +43091,12 @@
         "grade_level": 4,
         "grade_jisr_id": 11889,
         "grade_name_ar": "المستوى الإداري الرابع: الوظائف التشغيلية المتخصصة",
-        "grade_name_en": "Fourth Administrative Level: Specialized Operational Positions"
+        "grade_name_en": "Fourth Administrative Level: Specialized Operational Positions",
+        "reports_to": {
+          "slug": "senior-cost-accountant",
+          "name_ar": "محاسب أول تكاليف"
+        },
+        "direct_reports": []
       },
       "crm-specialist": {
         "slug": "crm-specialist",
@@ -43131,7 +43280,12 @@
         "grade_level": 4,
         "grade_jisr_id": 11889,
         "grade_name_ar": "المستوى الإداري الرابع: الوظائف التشغيلية المتخصصة",
-        "grade_name_en": "Fourth Administrative Level: Specialized Operational Positions"
+        "grade_name_en": "Fourth Administrative Level: Specialized Operational Positions",
+        "reports_to": {
+          "slug": "e-commerce-section-head",
+          "name_ar": "رئيس قسم المتجر الإلكتروني"
+        },
+        "direct_reports": []
       },
       "customer-care-manager": {
         "slug": "customer-care-manager",
@@ -43388,7 +43542,18 @@
         "grade_level": 2,
         "grade_jisr_id": 11887,
         "grade_name_ar": "المستوى الإداري الثاني: الوظائف الإدارية",
-        "grade_name_en": "Second Administrative Level: Administrative Positions"
+        "grade_name_en": "Second Administrative Level: Administrative Positions",
+        "reports_to": {
+          "slug": "chief-executive-officer-ceo",
+          "name_ar": "الرئيس التنفيذي"
+        },
+        "direct_reports": [
+          {
+            "slug": "customer-care-supervisor",
+            "name_ar": "مشرف العناية بالعملاء",
+            "name_en": "Customer Care Supervisor"
+          }
+        ]
       },
       "customer-care-officer": {
         "slug": "customer-care-officer",
@@ -43576,7 +43741,12 @@
         "grade_level": 6,
         "grade_jisr_id": 11891,
         "grade_name_ar": "المستوى الإداري السادس: الوظائف الداعمة والفنية",
-        "grade_name_en": "Sixth Administrative Level: Support and Technical Positions"
+        "grade_name_en": "Sixth Administrative Level: Support and Technical Positions",
+        "reports_to": {
+          "slug": "customer-care-supervisor",
+          "name_ar": "مشرف العناية بالعملاء"
+        },
+        "direct_reports": []
       },
       "customer-care-quality-officer": {
         "slug": "customer-care-quality-officer",
@@ -43752,7 +43922,12 @@
         "grade_level": 6,
         "grade_jisr_id": 11891,
         "grade_name_ar": "المستوى الإداري السادس: الوظائف الداعمة والفنية",
-        "grade_name_en": "Sixth Administrative Level: Support and Technical Positions"
+        "grade_name_en": "Sixth Administrative Level: Support and Technical Positions",
+        "reports_to": {
+          "slug": "customer-care-supervisor",
+          "name_ar": "مشرف العناية بالعملاء"
+        },
+        "direct_reports": []
       },
       "customer-care-supervisor": {
         "slug": "customer-care-supervisor",
@@ -44009,7 +44184,23 @@
         "grade_level": 3,
         "grade_jisr_id": 11888,
         "grade_name_ar": "المستوى الإداري الثالث: الوظائف الإشرافية",
-        "grade_name_en": "Third Administrative Level: Supervisory Positions"
+        "grade_name_en": "Third Administrative Level: Supervisory Positions",
+        "reports_to": {
+          "slug": "customer-care-manager",
+          "name_ar": "مدير العناية بالعملاء"
+        },
+        "direct_reports": [
+          {
+            "slug": "customer-care-officer",
+            "name_ar": "مسؤول العناية بالعملاء",
+            "name_en": "Customer Care Officer"
+          },
+          {
+            "slug": "customer-care-quality-officer",
+            "name_ar": "مسؤول جودة العناية بالعملاء",
+            "name_en": "Customer Care Quality Officer"
+          }
+        ]
       },
       "delivery-installation-supervisor": {
         "slug": "delivery-installation-supervisor",
@@ -44241,7 +44432,9 @@
         "grade_level": 3,
         "grade_jisr_id": 11888,
         "grade_name_ar": "المستوى الإداري الثالث: الوظائف الإشرافية",
-        "grade_name_en": "Third Administrative Level: Supervisory Positions"
+        "grade_name_en": "Third Administrative Level: Supervisory Positions",
+        "reports_to": null,
+        "direct_reports": []
       },
       "demand-planning-specialist": {
         "slug": "demand-planning-specialist",
@@ -44421,7 +44614,12 @@
         "grade_level": 4,
         "grade_jisr_id": 11889,
         "grade_name_ar": "المستوى الإداري الرابع: الوظائف التشغيلية المتخصصة",
-        "grade_name_en": "Fourth Administrative Level: Specialized Operational Positions"
+        "grade_name_en": "Fourth Administrative Level: Specialized Operational Positions",
+        "reports_to": {
+          "slug": "inventory-planning-section-head",
+          "name_ar": "رئيس قسم تخطيط المخزون"
+        },
+        "direct_reports": []
       },
       "deputy-ceo": {
         "slug": "deputy-ceo",
@@ -44597,7 +44795,9 @@
         "grade_level": 1,
         "grade_jisr_id": 11886,
         "grade_name_ar": "المستوى الإداري الأول: الوظائف القيادية",
-        "grade_name_en": "First Administrative Level: Leadership Roles"
+        "grade_name_en": "First Administrative Level: Leadership Roles",
+        "reports_to": null,
+        "direct_reports": []
       },
       "digital-applications-development-section-manager": {
         "slug": "digital-applications-development-section-manager",
@@ -44852,7 +45052,28 @@
         "grade_level": 2,
         "grade_jisr_id": 11887,
         "grade_name_ar": "المستوى الإداري الثاني: الوظائف الإدارية",
-        "grade_name_en": "Second Administrative Level: Administrative Positions"
+        "grade_name_en": "Second Administrative Level: Administrative Positions",
+        "reports_to": {
+          "slug": "it-manager",
+          "name_ar": "مدير تقنية المعلومات"
+        },
+        "direct_reports": [
+          {
+            "slug": "front-end-developer",
+            "name_ar": "مطور الواجهة الأمامية",
+            "name_en": "Front-End Developer"
+          },
+          {
+            "slug": "mobile-applications-developer",
+            "name_ar": "مطور تطبيقات الجوال",
+            "name_en": "Mobile Applications Developer"
+          },
+          {
+            "slug": "e-commerce-platform-developer",
+            "name_ar": "مطور منصة التجارة الإلكترونية",
+            "name_en": "E-Commerce Platform Developer"
+          }
+        ]
       },
       "digital-marketing-section-head": {
         "slug": "digital-marketing-section-head",
@@ -45068,7 +45289,28 @@
         "grade_level": 3,
         "grade_jisr_id": 11888,
         "grade_name_ar": "المستوى الإداري الثالث: الوظائف الإشرافية",
-        "grade_name_en": "Third Administrative Level: Supervisory Positions"
+        "grade_name_en": "Third Administrative Level: Supervisory Positions",
+        "reports_to": {
+          "slug": "marketing-e-commerce-manager",
+          "name_ar": "مدير التسويق والمتجر الإلكتروني"
+        },
+        "direct_reports": [
+          {
+            "slug": "marketing-analytics-specialist",
+            "name_ar": "أخصائي تحليلات التسويق",
+            "name_en": "Marketing Analytics Specialist"
+          },
+          {
+            "slug": "performance-marketing-specialist",
+            "name_ar": "أخصائي تسويق الأداء",
+            "name_en": "Performance Marketing Specialist"
+          },
+          {
+            "slug": "content-social-media-specialist",
+            "name_ar": "أخصائي محتوى وتواصل اجتماعي",
+            "name_en": "Content & Social Media Specialist"
+          }
+        ]
       },
       "e-commerce-experience-specialist": {
         "slug": "e-commerce-experience-specialist",
@@ -45252,7 +45494,12 @@
         "grade_level": 4,
         "grade_jisr_id": 11889,
         "grade_name_ar": "المستوى الإداري الرابع: الوظائف التشغيلية المتخصصة",
-        "grade_name_en": "Fourth Administrative Level: Specialized Operational Positions"
+        "grade_name_en": "Fourth Administrative Level: Specialized Operational Positions",
+        "reports_to": {
+          "slug": "e-commerce-section-head",
+          "name_ar": "رئيس قسم المتجر الإلكتروني"
+        },
+        "direct_reports": []
       },
       "e-commerce-platform-developer": {
         "slug": "e-commerce-platform-developer",
@@ -45436,7 +45683,12 @@
         "grade_level": 6,
         "grade_jisr_id": 11891,
         "grade_name_ar": "المستوى الإداري السادس: الوظائف الداعمة والفنية",
-        "grade_name_en": "Sixth Administrative Level: Support and Technical Positions"
+        "grade_name_en": "Sixth Administrative Level: Support and Technical Positions",
+        "reports_to": {
+          "slug": "digital-applications-development-section-manager",
+          "name_ar": "مدير قسم تطوير التطبيقات الرقمية"
+        },
+        "direct_reports": []
       },
       "e-commerce-section-head": {
         "slug": "e-commerce-section-head",
@@ -45640,7 +45892,23 @@
         "grade_level": 3,
         "grade_jisr_id": 11888,
         "grade_name_ar": "المستوى الإداري الثالث: الوظائف الإشرافية",
-        "grade_name_en": "Third Administrative Level: Supervisory Positions"
+        "grade_name_en": "Third Administrative Level: Supervisory Positions",
+        "reports_to": {
+          "slug": "marketing-e-commerce-manager",
+          "name_ar": "مدير التسويق والمتجر الإلكتروني"
+        },
+        "direct_reports": [
+          {
+            "slug": "crm-specialist",
+            "name_ar": "أخصائي إدارة علاقات العملاء (CRM)",
+            "name_en": "CRM Specialist"
+          },
+          {
+            "slug": "e-commerce-experience-specialist",
+            "name_ar": "أخصائي تجربة المتجر الإلكتروني",
+            "name_en": "E-Commerce Experience Specialist"
+          }
+        ]
       },
       "e-commerce-warehouse-unit-head": {
         "slug": "e-commerce-warehouse-unit-head",
@@ -45816,7 +46084,9 @@
         "grade_level": 6,
         "grade_jisr_id": 11891,
         "grade_name_ar": "المستوى الإداري السادس: الوظائف الداعمة والفنية",
-        "grade_name_en": "Sixth Administrative Level: Support and Technical Positions"
+        "grade_name_en": "Sixth Administrative Level: Support and Technical Positions",
+        "reports_to": null,
+        "direct_reports": []
       },
       "erp-systems-developer": {
         "slug": "erp-systems-developer",
@@ -45998,7 +46268,12 @@
         "grade_level": 6,
         "grade_jisr_id": 11891,
         "grade_name_ar": "المستوى الإداري السادس: الوظائف الداعمة والفنية",
-        "grade_name_en": "Sixth Administrative Level: Support and Technical Positions"
+        "grade_name_en": "Sixth Administrative Level: Support and Technical Positions",
+        "reports_to": {
+          "slug": "internal-applications-development-section-head",
+          "name_ar": "رئيس قسم تطوير التطبيقات الداخلية"
+        },
+        "direct_reports": []
       },
       "external-platforms-officer": {
         "slug": "external-platforms-officer",
@@ -46165,7 +46440,12 @@
         "grade_level": 6,
         "grade_jisr_id": 11891,
         "grade_name_ar": "المستوى الإداري السادس: الوظائف الداعمة والفنية",
-        "grade_name_en": "Sixth Administrative Level: Support and Technical Positions"
+        "grade_name_en": "Sixth Administrative Level: Support and Technical Positions",
+        "reports_to": {
+          "slug": "uae-warehouse-unit-head",
+          "name_ar": "رئيس وحدة مستودع الإمارات"
+        },
+        "direct_reports": []
       },
       "finance-director": {
         "slug": "finance-director",
@@ -46392,7 +46672,20 @@
         "grade_level": 2,
         "grade_jisr_id": 11887,
         "grade_name_ar": "المستوى الإداري الثاني: الوظائف الإدارية",
-        "grade_name_en": "Second Administrative Level: Administrative Positions"
+        "grade_name_en": "Second Administrative Level: Administrative Positions",
+        "reports_to": null,
+        "direct_reports": [
+          {
+            "slug": "financial-reporting-budgeting-manager",
+            "name_ar": "مدير التقارير المالية والموازنة",
+            "name_en": "Financial Reporting & Budgeting Manager"
+          },
+          {
+            "slug": "accounts-manager",
+            "name_ar": "مدير الحسابات",
+            "name_en": "Accounts Manager"
+          }
+        ]
       },
       "financial-reporting-budgeting-manager": {
         "slug": "financial-reporting-budgeting-manager",
@@ -46641,7 +46934,12 @@
         "grade_level": 2,
         "grade_jisr_id": 11887,
         "grade_name_ar": "المستوى الإداري الثاني: الوظائف الإدارية",
-        "grade_name_en": "Second Administrative Level: Administrative Positions"
+        "grade_name_en": "Second Administrative Level: Administrative Positions",
+        "reports_to": {
+          "slug": "finance-director",
+          "name_ar": "المدير المالي"
+        },
+        "direct_reports": []
       },
       "front-end-developer": {
         "slug": "front-end-developer",
@@ -46813,7 +47111,12 @@
         "grade_level": 6,
         "grade_jisr_id": 11891,
         "grade_name_ar": "المستوى الإداري السادس: الوظائف الداعمة والفنية",
-        "grade_name_en": "Sixth Administrative Level: Support and Technical Positions"
+        "grade_name_en": "Sixth Administrative Level: Support and Technical Positions",
+        "reports_to": {
+          "slug": "digital-applications-development-section-manager",
+          "name_ar": "مدير قسم تطوير التطبيقات الرقمية"
+        },
+        "direct_reports": []
       },
       "general-ledger-accountant": {
         "slug": "general-ledger-accountant",
@@ -47047,7 +47350,12 @@
         "grade_level": 4,
         "grade_jisr_id": 11889,
         "grade_name_ar": "المستوى الإداري الرابع: الوظائف التشغيلية المتخصصة",
-        "grade_name_en": "Fourth Administrative Level: Specialized Operational Positions"
+        "grade_name_en": "Fourth Administrative Level: Specialized Operational Positions",
+        "reports_to": {
+          "slug": "senior-general-ledger-tax-accountant",
+          "name_ar": "محاسب أول الأستاذ العام والضرائب"
+        },
+        "direct_reports": []
       },
       "government-relations-officer": {
         "slug": "government-relations-officer",
@@ -47241,7 +47549,12 @@
         "grade_level": 6,
         "grade_jisr_id": 11891,
         "grade_name_ar": "المستوى الإداري السادس: الوظائف الداعمة والفنية",
-        "grade_name_en": "Sixth Administrative Level: Support and Technical Positions"
+        "grade_name_en": "Sixth Administrative Level: Support and Technical Positions",
+        "reports_to": {
+          "slug": "hr-operations-section-head",
+          "name_ar": "رئيس قسم عمليات الموارد البشرية"
+        },
+        "direct_reports": []
       },
       "hr-and-support-services-director": {
         "slug": "hr-and-support-services-director",
@@ -47468,7 +47781,25 @@
         "grade_level": 2,
         "grade_jisr_id": 11887,
         "grade_name_ar": "المستوى الإداري الثاني: الوظائف الإدارية",
-        "grade_name_en": "Second Administrative Level: Administrative Positions"
+        "grade_name_en": "Second Administrative Level: Administrative Positions",
+        "reports_to": null,
+        "direct_reports": [
+          {
+            "slug": "talent-acquisition-section-head",
+            "name_ar": "رئيس قسم استقطاب المواهب",
+            "name_en": "Talent Acquisition Section Head"
+          },
+          {
+            "slug": "hr-operations-section-head",
+            "name_ar": "رئيس قسم عمليات الموارد البشرية",
+            "name_en": "HR Operations Section Head"
+          },
+          {
+            "slug": "support-services-manager",
+            "name_ar": "مدير الخدمات المساندة",
+            "name_en": "Support Services Manager"
+          }
+        ]
       },
       "hr-operations-section-head": {
         "slug": "hr-operations-section-head",
@@ -47706,7 +48037,28 @@
         "grade_level": 3,
         "grade_jisr_id": 11888,
         "grade_name_ar": "المستوى الإداري الثالث: الوظائف الإشرافية",
-        "grade_name_en": "Third Administrative Level: Supervisory Positions"
+        "grade_name_en": "Third Administrative Level: Supervisory Positions",
+        "reports_to": {
+          "slug": "hr-and-support-services-director",
+          "name_ar": "مدير الموارد البشرية والخدمات المساندة"
+        },
+        "direct_reports": [
+          {
+            "slug": "administrative-operations-specialist",
+            "name_ar": "أخصائي عمليات إداري",
+            "name_en": "Administrative Operations Specialist"
+          },
+          {
+            "slug": "hr-operations-specialist",
+            "name_ar": "أخصائي عمليات الموارد البشرية",
+            "name_en": "HR Operations Specialist"
+          },
+          {
+            "slug": "government-relations-officer",
+            "name_ar": "مسؤول علاقات حكومية",
+            "name_en": "Government Relations Officer"
+          }
+        ]
       },
       "hr-operations-specialist": {
         "slug": "hr-operations-specialist",
@@ -47904,7 +48256,12 @@
         "grade_level": 4,
         "grade_jisr_id": 11889,
         "grade_name_ar": "المستوى الإداري الرابع: الوظائف التشغيلية المتخصصة",
-        "grade_name_en": "Fourth Administrative Level: Specialized Operational Positions"
+        "grade_name_en": "Fourth Administrative Level: Specialized Operational Positions",
+        "reports_to": {
+          "slug": "hr-operations-section-head",
+          "name_ar": "رئيس قسم عمليات الموارد البشرية"
+        },
+        "direct_reports": []
       },
       "import-specialist": {
         "slug": "import-specialist",
@@ -48119,7 +48476,12 @@
         "grade_level": 4,
         "grade_jisr_id": 11889,
         "grade_name_ar": "المستوى الإداري الرابع: الوظائف التشغيلية المتخصصة",
-        "grade_name_en": "Fourth Administrative Level: Specialized Operational Positions"
+        "grade_name_en": "Fourth Administrative Level: Specialized Operational Positions",
+        "reports_to": {
+          "slug": "logistics-manager",
+          "name_ar": "مدير اللوجستيك"
+        },
+        "direct_reports": []
       },
       "systems-analyst-reports-developer": {
         "slug": "systems-analyst-reports-developer",
@@ -48301,7 +48663,12 @@
         "grade_level": 6,
         "grade_jisr_id": 11891,
         "grade_name_ar": "المستوى الإداري السادس: الوظائف الداعمة والفنية",
-        "grade_name_en": "Sixth Administrative Level: Support and Technical Positions"
+        "grade_name_en": "Sixth Administrative Level: Support and Technical Positions",
+        "reports_to": {
+          "slug": "internal-applications-development-section-head",
+          "name_ar": "رئيس قسم تطوير التطبيقات الداخلية"
+        },
+        "direct_reports": []
       },
       "infrastructure-technical-support-section-head": {
         "slug": "infrastructure-technical-support-section-head",
@@ -48537,7 +48904,9 @@
         "grade_level": 3,
         "grade_jisr_id": 11888,
         "grade_name_ar": "المستوى الإداري الثالث: الوظائف الإشرافية",
-        "grade_name_en": "Third Administrative Level: Supervisory Positions"
+        "grade_name_en": "Third Administrative Level: Supervisory Positions",
+        "reports_to": null,
+        "direct_reports": []
       },
       "internal-applications-development-section-head": {
         "slug": "internal-applications-development-section-head",
@@ -48769,7 +49138,23 @@
         "grade_level": 3,
         "grade_jisr_id": 11888,
         "grade_name_ar": "المستوى الإداري الثالث: الوظائف الإشرافية",
-        "grade_name_en": "Third Administrative Level: Supervisory Positions"
+        "grade_name_en": "Third Administrative Level: Supervisory Positions",
+        "reports_to": {
+          "slug": "it-manager",
+          "name_ar": "مدير تقنية المعلومات"
+        },
+        "direct_reports": [
+          {
+            "slug": "systems-analyst-reports-developer",
+            "name_ar": "محلل نظم ومطور تقارير",
+            "name_en": "Systems Analyst & Reports Developer"
+          },
+          {
+            "slug": "erp-systems-developer",
+            "name_ar": "مطور نظم تخطيط الموارد المؤسسية",
+            "name_en": "ERP Systems Developer"
+          }
+        ]
       },
       "internal-audit-manager": {
         "slug": "internal-audit-manager",
@@ -49038,7 +49423,18 @@
         "grade_level": 2,
         "grade_jisr_id": 11887,
         "grade_name_ar": "المستوى الإداري الثاني: الوظائف الإدارية",
-        "grade_name_en": "Second Administrative Level: Administrative Positions"
+        "grade_name_en": "Second Administrative Level: Administrative Positions",
+        "reports_to": {
+          "slug": "chief-executive-officer-ceo",
+          "name_ar": "الرئيس التنفيذي"
+        },
+        "direct_reports": [
+          {
+            "slug": "internal-auditor",
+            "name_ar": "المراجع الداخلي",
+            "name_en": "Internal Auditor"
+          }
+        ]
       },
       "internal-auditor": {
         "slug": "internal-auditor",
@@ -49232,7 +49628,12 @@
         "grade_level": 6,
         "grade_jisr_id": 11891,
         "grade_name_ar": "المستوى الإداري السادس: الوظائف الداعمة والفنية",
-        "grade_name_en": "Sixth Administrative Level: Support and Technical Positions"
+        "grade_name_en": "Sixth Administrative Level: Support and Technical Positions",
+        "reports_to": {
+          "slug": "internal-audit-manager",
+          "name_ar": "مدير المراجعة الداخلية"
+        },
+        "direct_reports": []
       },
       "inventory-stock-control-manager": {
         "slug": "inventory-stock-control-manager",
@@ -49515,7 +49916,18 @@
         "grade_level": 2,
         "grade_jisr_id": 11887,
         "grade_name_ar": "المستوى الإداري الثاني: الوظائف الإدارية",
-        "grade_name_en": "Second Administrative Level: Administrative Positions"
+        "grade_name_en": "Second Administrative Level: Administrative Positions",
+        "reports_to": {
+          "slug": "chief-executive-officer-ceo",
+          "name_ar": "الرئيس التنفيذي"
+        },
+        "direct_reports": [
+          {
+            "slug": "inventory-stock-control-section-head",
+            "name_ar": "رئيس قسم الجرد ومراقبة المخزون",
+            "name_en": "Inventory & Stock Control Section Head"
+          }
+        ]
       },
       "inventory-stock-control-section-head": {
         "slug": "inventory-stock-control-section-head",
@@ -49765,7 +50177,12 @@
         "grade_level": 3,
         "grade_jisr_id": 11888,
         "grade_name_ar": "المستوى الإداري الثالث: الوظائف الإشرافية",
-        "grade_name_en": "Third Administrative Level: Supervisory Positions"
+        "grade_name_en": "Third Administrative Level: Supervisory Positions",
+        "reports_to": {
+          "slug": "inventory-stock-control-manager",
+          "name_ar": "مدير الجرد ومراقبة المخزون"
+        },
+        "direct_reports": []
       },
       "inventory-controller": {
         "slug": "inventory-controller",
@@ -49947,7 +50364,15 @@
         "grade_level": 6,
         "grade_jisr_id": 11891,
         "grade_name_ar": "المستوى الإداري السادس: الوظائف الداعمة والفنية",
-        "grade_name_en": "Sixth Administrative Level: Support and Technical Positions"
+        "grade_name_en": "Sixth Administrative Level: Support and Technical Positions",
+        "reports_to": null,
+        "direct_reports": [
+          {
+            "slug": "assistant-stock-controller",
+            "name_ar": "مساعد مراقب مخزون",
+            "name_en": "Assistant Stock Controller"
+          }
+        ]
       },
       "it-manager": {
         "slug": "it-manager",
@@ -50174,7 +50599,20 @@
         "grade_level": 2,
         "grade_jisr_id": 11887,
         "grade_name_ar": "المستوى الإداري الثاني: الوظائف الإدارية",
-        "grade_name_en": "Second Administrative Level: Administrative Positions"
+        "grade_name_en": "Second Administrative Level: Administrative Positions",
+        "reports_to": null,
+        "direct_reports": [
+          {
+            "slug": "internal-applications-development-section-head",
+            "name_ar": "رئيس قسم تطوير التطبيقات الداخلية",
+            "name_en": "Internal Applications Development Section Head"
+          },
+          {
+            "slug": "digital-applications-development-section-manager",
+            "name_ar": "مدير قسم تطوير التطبيقات الرقمية",
+            "name_en": "Digital Applications Development Section Manager"
+          }
+        ]
       },
       "jeddah-warehouse-unit-head": {
         "slug": "jeddah-warehouse-unit-head",
@@ -50356,7 +50794,9 @@
         "grade_level": 6,
         "grade_jisr_id": 11891,
         "grade_name_ar": "المستوى الإداري السادس: الوظائف الداعمة والفنية",
-        "grade_name_en": "Sixth Administrative Level: Support and Technical Positions"
+        "grade_name_en": "Sixth Administrative Level: Support and Technical Positions",
+        "reports_to": null,
+        "direct_reports": []
       },
       "legal-affairs-governance-manager": {
         "slug": "legal-affairs-governance-manager",
@@ -50618,7 +51058,18 @@
         "grade_level": 2,
         "grade_jisr_id": 11887,
         "grade_name_ar": "المستوى الإداري الثاني: الوظائف الإدارية",
-        "grade_name_en": "Second Administrative Level: Administrative Positions"
+        "grade_name_en": "Second Administrative Level: Administrative Positions",
+        "reports_to": {
+          "slug": "chief-executive-officer-ceo",
+          "name_ar": "الرئيس التنفيذي"
+        },
+        "direct_reports": [
+          {
+            "slug": "legal-specialist",
+            "name_ar": "أخصائي قانوني",
+            "name_en": "Legal Specialist"
+          }
+        ]
       },
       "legal-specialist": {
         "slug": "legal-specialist",
@@ -50849,7 +51300,12 @@
         "grade_level": 4,
         "grade_jisr_id": 11889,
         "grade_name_ar": "المستوى الإداري الرابع: الوظائف التشغيلية المتخصصة",
-        "grade_name_en": "Fourth Administrative Level: Specialized Operational Positions"
+        "grade_name_en": "Fourth Administrative Level: Specialized Operational Positions",
+        "reports_to": {
+          "slug": "legal-affairs-governance-manager",
+          "name_ar": "مدير الشؤون القانونية والحوكمة"
+        },
+        "direct_reports": []
       },
       "logistics-data-coordinator": {
         "slug": "logistics-data-coordinator",
@@ -51023,7 +51479,12 @@
         "grade_level": 6,
         "grade_jisr_id": 11891,
         "grade_name_ar": "المستوى الإداري السادس: الوظائف الداعمة والفنية",
-        "grade_name_en": "Sixth Administrative Level: Support and Technical Positions"
+        "grade_name_en": "Sixth Administrative Level: Support and Technical Positions",
+        "reports_to": {
+          "slug": "logistics-manager",
+          "name_ar": "مدير اللوجستيك"
+        },
+        "direct_reports": []
       },
       "logistics-manager": {
         "slug": "logistics-manager",
@@ -51280,7 +51741,23 @@
         "grade_level": 2,
         "grade_jisr_id": 11887,
         "grade_name_ar": "المستوى الإداري الثاني: الوظائف الإدارية",
-        "grade_name_en": "Second Administrative Level: Administrative Positions"
+        "grade_name_en": "Second Administrative Level: Administrative Positions",
+        "reports_to": {
+          "slug": "supply-chain-procurement-manager",
+          "name_ar": "مدير سلاسل الإمداد والتوريد"
+        },
+        "direct_reports": [
+          {
+            "slug": "import-specialist",
+            "name_ar": "أخصائي استيراد",
+            "name_en": "Import Specialist"
+          },
+          {
+            "slug": "logistics-data-coordinator",
+            "name_ar": "منسق بيانات لوجستية",
+            "name_en": "Logistics Data Coordinator"
+          }
+        ]
       },
       "logistics-operations-coordinator": {
         "slug": "logistics-operations-coordinator",
@@ -51480,7 +51957,9 @@
         "grade_level": 6,
         "grade_jisr_id": 11891,
         "grade_name_ar": "المستوى الإداري السادس: الوظائف الداعمة والفنية",
-        "grade_name_en": "Sixth Administrative Level: Support and Technical Positions"
+        "grade_name_en": "Sixth Administrative Level: Support and Technical Positions",
+        "reports_to": null,
+        "direct_reports": []
       },
       "maintenance-projects-supervisor": {
         "slug": "maintenance-projects-supervisor",
@@ -51719,7 +52198,18 @@
         "grade_level": 3,
         "grade_jisr_id": 11888,
         "grade_name_ar": "المستوى الإداري الثالث: الوظائف الإشرافية",
-        "grade_name_en": "Third Administrative Level: Supervisory Positions"
+        "grade_name_en": "Third Administrative Level: Supervisory Positions",
+        "reports_to": {
+          "slug": "support-services-manager",
+          "name_ar": "مدير الخدمات المساندة"
+        },
+        "direct_reports": [
+          {
+            "slug": "maintenance-officer",
+            "name_ar": "مسؤول الصيانة",
+            "name_en": "Maintenance Officer"
+          }
+        ]
       },
       "maintenance-center-supervisor": {
         "slug": "maintenance-center-supervisor",
@@ -51944,7 +52434,12 @@
         "grade_level": 3,
         "grade_jisr_id": 11888,
         "grade_name_ar": "المستوى الإداري الثالث: الوظائف الإشرافية",
-        "grade_name_en": "Third Administrative Level: Supervisory Positions"
+        "grade_name_en": "Third Administrative Level: Supervisory Positions",
+        "reports_to": {
+          "slug": "maintenance-section-manager",
+          "name_ar": "مدير قسم الصيانة"
+        },
+        "direct_reports": []
       },
       "maintenance-officer": {
         "slug": "maintenance-officer",
@@ -52130,7 +52625,12 @@
         "grade_level": 6,
         "grade_jisr_id": 11891,
         "grade_name_ar": "المستوى الإداري السادس: الوظائف الداعمة والفنية",
-        "grade_name_en": "Sixth Administrative Level: Support and Technical Positions"
+        "grade_name_en": "Sixth Administrative Level: Support and Technical Positions",
+        "reports_to": {
+          "slug": "maintenance-projects-supervisor",
+          "name_ar": "مشرف الصيانة والمشاريع"
+        },
+        "direct_reports": []
       },
       "maintenance-section-manager": {
         "slug": "maintenance-section-manager",
@@ -52379,7 +52879,23 @@
         "grade_level": 2,
         "grade_jisr_id": 11887,
         "grade_name_ar": "المستوى الإداري الثاني: الوظائف الإدارية",
-        "grade_name_en": "Second Administrative Level: Administrative Positions"
+        "grade_name_en": "Second Administrative Level: Administrative Positions",
+        "reports_to": {
+          "slug": "after-sales-services-manager",
+          "name_ar": "مدير خدمات ما بعد البيع"
+        },
+        "direct_reports": [
+          {
+            "slug": "senior-small-appliance-technician",
+            "name_ar": "فني أول أجهزة صغيرة",
+            "name_en": "Senior Small-Appliance Technician"
+          },
+          {
+            "slug": "maintenance-center-supervisor",
+            "name_ar": "مشرف مركز صيانة",
+            "name_en": "Maintenance Center Supervisor"
+          }
+        ]
       },
       "managing-director": {
         "slug": "managing-director",
@@ -52555,7 +53071,9 @@
         "grade_level": 1,
         "grade_jisr_id": 11886,
         "grade_name_ar": "المستوى الإداري الأول: الوظائف القيادية",
-        "grade_name_en": "First Administrative Level: Leadership Roles"
+        "grade_name_en": "First Administrative Level: Leadership Roles",
+        "reports_to": null,
+        "direct_reports": []
       },
       "marketing-analytics-specialist": {
         "slug": "marketing-analytics-specialist",
@@ -52739,7 +53257,12 @@
         "grade_level": 4,
         "grade_jisr_id": 11889,
         "grade_name_ar": "المستوى الإداري الرابع: الوظائف التشغيلية المتخصصة",
-        "grade_name_en": "Fourth Administrative Level: Specialized Operational Positions"
+        "grade_name_en": "Fourth Administrative Level: Specialized Operational Positions",
+        "reports_to": {
+          "slug": "digital-marketing-section-head",
+          "name_ar": "رئيس قسم التسويق الرقمي"
+        },
+        "direct_reports": []
       },
       "marketing-e-commerce-manager": {
         "slug": "marketing-e-commerce-manager",
@@ -52962,7 +53485,23 @@
         "grade_level": 2,
         "grade_jisr_id": 11887,
         "grade_name_ar": "المستوى الإداري الثاني: الوظائف الإدارية",
-        "grade_name_en": "Second Administrative Level: Administrative Positions"
+        "grade_name_en": "Second Administrative Level: Administrative Positions",
+        "reports_to": {
+          "slug": "chief-executive-officer-ceo",
+          "name_ar": "الرئيس التنفيذي"
+        },
+        "direct_reports": [
+          {
+            "slug": "digital-marketing-section-head",
+            "name_ar": "رئيس قسم التسويق الرقمي",
+            "name_en": "Digital Marketing Section Head"
+          },
+          {
+            "slug": "e-commerce-section-head",
+            "name_ar": "رئيس قسم المتجر الإلكتروني",
+            "name_en": "E-Commerce Section Head"
+          }
+        ]
       },
       "mda-maintenance-supervisor": {
         "slug": "mda-maintenance-supervisor",
@@ -53174,7 +53713,9 @@
         "grade_level": 3,
         "grade_jisr_id": 11888,
         "grade_name_ar": "المستوى الإداري الثالث: الوظائف الإشرافية",
-        "grade_name_en": "Third Administrative Level: Supervisory Positions"
+        "grade_name_en": "Third Administrative Level: Supervisory Positions",
+        "reports_to": null,
+        "direct_reports": []
       },
       "product-display-coordinator": {
         "slug": "product-display-coordinator",
@@ -53362,7 +53903,12 @@
         "grade_level": 6,
         "grade_jisr_id": 11891,
         "grade_name_ar": "المستوى الإداري السادس: الوظائف الداعمة والفنية",
-        "grade_name_en": "Sixth Administrative Level: Support and Technical Positions"
+        "grade_name_en": "Sixth Administrative Level: Support and Technical Positions",
+        "reports_to": {
+          "slug": "showroom-display-development-supervisor",
+          "name_ar": "مشرف تطوير عرض المعارض"
+        },
+        "direct_reports": []
       },
       "showroom-display-development-supervisor": {
         "slug": "showroom-display-development-supervisor",
@@ -53588,7 +54134,18 @@
         "grade_level": 3,
         "grade_jisr_id": 11888,
         "grade_name_ar": "المستوى الإداري الثالث: الوظائف الإشرافية",
-        "grade_name_en": "Third Administrative Level: Supervisory Positions"
+        "grade_name_en": "Third Administrative Level: Supervisory Positions",
+        "reports_to": {
+          "slug": "sales-operations-manager",
+          "name_ar": "مدير المبيعات والعمليات"
+        },
+        "direct_reports": [
+          {
+            "slug": "product-display-coordinator",
+            "name_ar": "منسق عرض المنتجات",
+            "name_en": "Product Display Coordinator"
+          }
+        ]
       },
       "mobile-applications-developer": {
         "slug": "mobile-applications-developer",
@@ -53772,7 +54329,12 @@
         "grade_level": 6,
         "grade_jisr_id": 11891,
         "grade_name_ar": "المستوى الإداري السادس: الوظائف الداعمة والفنية",
-        "grade_name_en": "Sixth Administrative Level: Support and Technical Positions"
+        "grade_name_en": "Sixth Administrative Level: Support and Technical Positions",
+        "reports_to": {
+          "slug": "digital-applications-development-section-manager",
+          "name_ar": "مدير قسم تطوير التطبيقات الرقمية"
+        },
+        "direct_reports": []
       },
       "general-network-engineer": {
         "slug": "general-network-engineer",
@@ -53977,7 +54539,9 @@
         "grade_level": 4,
         "grade_jisr_id": 11889,
         "grade_name_ar": "المستوى الإداري الرابع: الوظائف التشغيلية المتخصصة",
-        "grade_name_en": "Fourth Administrative Level: Specialized Operational Positions"
+        "grade_name_en": "Fourth Administrative Level: Specialized Operational Positions",
+        "reports_to": null,
+        "direct_reports": []
       },
       "network-information-security-engineer": {
         "slug": "network-information-security-engineer",
@@ -54181,7 +54745,9 @@
         "grade_level": 4,
         "grade_jisr_id": 11889,
         "grade_name_ar": "المستوى الإداري الرابع: الوظائف التشغيلية المتخصصة",
-        "grade_name_en": "Fourth Administrative Level: Specialized Operational Positions"
+        "grade_name_en": "Fourth Administrative Level: Specialized Operational Positions",
+        "reports_to": null,
+        "direct_reports": []
       },
       "operations-coordinator-after-sales": {
         "slug": "operations-coordinator-after-sales",
@@ -54363,7 +54929,9 @@
         "grade_level": 6,
         "grade_jisr_id": 11891,
         "grade_name_ar": "المستوى الإداري السادس: الوظائف الداعمة والفنية",
-        "grade_name_en": "Sixth Administrative Level: Support and Technical Positions"
+        "grade_name_en": "Sixth Administrative Level: Support and Technical Positions",
+        "reports_to": null,
+        "direct_reports": []
       },
       "performance-marketing-specialist": {
         "slug": "performance-marketing-specialist",
@@ -54547,7 +55115,12 @@
         "grade_level": 4,
         "grade_jisr_id": 11889,
         "grade_name_ar": "المستوى الإداري الرابع: الوظائف التشغيلية المتخصصة",
-        "grade_name_en": "Fourth Administrative Level: Specialized Operational Positions"
+        "grade_name_en": "Fourth Administrative Level: Specialized Operational Positions",
+        "reports_to": {
+          "slug": "digital-marketing-section-head",
+          "name_ar": "رئيس قسم التسويق الرقمي"
+        },
+        "direct_reports": []
       },
       "procurement-coordinator": {
         "slug": "procurement-coordinator",
@@ -54747,7 +55320,12 @@
         "grade_level": 6,
         "grade_jisr_id": 11891,
         "grade_name_ar": "المستوى الإداري السادس: الوظائف الداعمة والفنية",
-        "grade_name_en": "Sixth Administrative Level: Support and Technical Positions"
+        "grade_name_en": "Sixth Administrative Level: Support and Technical Positions",
+        "reports_to": {
+          "slug": "procurement-manager",
+          "name_ar": "مدير المشتريات"
+        },
+        "direct_reports": []
       },
       "procurement-manager": {
         "slug": "procurement-manager",
@@ -54974,7 +55552,25 @@
         "grade_level": 2,
         "grade_jisr_id": 11887,
         "grade_name_ar": "المستوى الإداري الثاني: الوظائف الإدارية",
-        "grade_name_en": "Second Administrative Level: Administrative Positions"
+        "grade_name_en": "Second Administrative Level: Administrative Positions",
+        "reports_to": null,
+        "direct_reports": [
+          {
+            "slug": "procurement-specialist",
+            "name_ar": "أخصائي مشتريات",
+            "name_en": "Procurement Specialist"
+          },
+          {
+            "slug": "assistant-procurement-manager",
+            "name_ar": "مساعد مدير المشتريات",
+            "name_en": "Assistant Procurement Manager"
+          },
+          {
+            "slug": "procurement-coordinator",
+            "name_ar": "منسق مشتريات",
+            "name_en": "Procurement Coordinator"
+          }
+        ]
       },
       "procurement-specialist": {
         "slug": "procurement-specialist",
@@ -55178,7 +55774,12 @@
         "grade_level": 4,
         "grade_jisr_id": 11889,
         "grade_name_ar": "المستوى الإداري الرابع: الوظائف التشغيلية المتخصصة",
-        "grade_name_en": "Fourth Administrative Level: Specialized Operational Positions"
+        "grade_name_en": "Fourth Administrative Level: Specialized Operational Positions",
+        "reports_to": {
+          "slug": "procurement-manager",
+          "name_ar": "مدير المشتريات"
+        },
+        "direct_reports": []
       },
       "partnerships-sales-services-development-supervisor": {
         "slug": "partnerships-sales-services-development-supervisor",
@@ -55398,7 +55999,12 @@
         "grade_level": 3,
         "grade_jisr_id": 11888,
         "grade_name_ar": "المستوى الإداري الثالث: الوظائف الإشرافية",
-        "grade_name_en": "Third Administrative Level: Supervisory Positions"
+        "grade_name_en": "Third Administrative Level: Supervisory Positions",
+        "reports_to": {
+          "slug": "sales-operations-manager",
+          "name_ar": "مدير المبيعات والعمليات"
+        },
+        "direct_reports": []
       },
       "revenue-pos-accountant": {
         "slug": "revenue-pos-accountant",
@@ -55600,7 +56206,12 @@
         "grade_level": 4,
         "grade_jisr_id": 11889,
         "grade_name_ar": "المستوى الإداري الرابع: الوظائف التشغيلية المتخصصة",
-        "grade_name_en": "Fourth Administrative Level: Specialized Operational Positions"
+        "grade_name_en": "Fourth Administrative Level: Specialized Operational Positions",
+        "reports_to": {
+          "slug": "senior-general-ledger-tax-accountant",
+          "name_ar": "محاسب أول الأستاذ العام والضرائب"
+        },
+        "direct_reports": []
       },
       "riyadh-warehouse-unit-manager": {
         "slug": "riyadh-warehouse-unit-manager",
@@ -55858,7 +56469,9 @@
         "grade_level": 2,
         "grade_jisr_id": 11887,
         "grade_name_ar": "المستوى الإداري الثاني: الوظائف الإدارية",
-        "grade_name_en": "Second Administrative Level: Administrative Positions"
+        "grade_name_en": "Second Administrative Level: Administrative Positions",
+        "reports_to": null,
+        "direct_reports": []
       },
       "assistant-sales-operations-manager": {
         "slug": "assistant-sales-operations-manager",
@@ -56068,7 +56681,12 @@
         "grade_level": 6,
         "grade_jisr_id": 11891,
         "grade_name_ar": "المستوى الإداري السادس: الوظائف الداعمة والفنية",
-        "grade_name_en": "Sixth Administrative Level: Support and Technical Positions"
+        "grade_name_en": "Sixth Administrative Level: Support and Technical Positions",
+        "reports_to": {
+          "slug": "sales-operations-manager",
+          "name_ar": "مدير المبيعات والعمليات"
+        },
+        "direct_reports": []
       },
       "sales-operations-manager": {
         "slug": "sales-operations-manager",
@@ -56295,7 +56913,35 @@
         "grade_level": 2,
         "grade_jisr_id": 11887,
         "grade_name_ar": "المستوى الإداري الثاني: الوظائف الإدارية",
-        "grade_name_en": "Second Administrative Level: Administrative Positions"
+        "grade_name_en": "Second Administrative Level: Administrative Positions",
+        "reports_to": null,
+        "direct_reports": [
+          {
+            "slug": "wholesale-sales-specialist",
+            "name_ar": "أخصائي مبيعات الجملة",
+            "name_en": "Wholesale Sales Specialist"
+          },
+          {
+            "slug": "assistant-sales-operations-manager",
+            "name_ar": "مساعد مدير المبيعات والعمليات",
+            "name_en": "Assistant Sales & Operations Manager"
+          },
+          {
+            "slug": "partnerships-sales-services-development-supervisor",
+            "name_ar": "مشرف تطوير الشراكات والخدمات البيعية",
+            "name_en": "Partnerships & Sales-Services Development Supervisor"
+          },
+          {
+            "slug": "showroom-display-development-supervisor",
+            "name_ar": "مشرف تطوير عرض المعارض",
+            "name_en": "Showroom Display Development Supervisor"
+          },
+          {
+            "slug": "area-supervisor",
+            "name_ar": "مشرف منطقة",
+            "name_en": "Area Supervisor"
+          }
+        ]
       },
       "sales-representative": {
         "slug": "sales-representative",
@@ -56465,7 +57111,12 @@
         "grade_level": 6,
         "grade_jisr_id": 11891,
         "grade_name_ar": "المستوى الإداري السادس: الوظائف الداعمة والفنية",
-        "grade_name_en": "Sixth Administrative Level: Support and Technical Positions"
+        "grade_name_en": "Sixth Administrative Level: Support and Technical Positions",
+        "reports_to": {
+          "slug": "senior-showroom-operations-officer",
+          "name_ar": "مسؤول أول عمليات معرض"
+        },
+        "direct_reports": []
       },
       "senior-small-appliance-technician": {
         "slug": "senior-small-appliance-technician",
@@ -56669,7 +57320,12 @@
         "grade_level": 6,
         "grade_jisr_id": 11891,
         "grade_name_ar": "المستوى الإداري السادس: الوظائف الداعمة والفنية",
-        "grade_name_en": "Sixth Administrative Level: Support and Technical Positions"
+        "grade_name_en": "Sixth Administrative Level: Support and Technical Positions",
+        "reports_to": {
+          "slug": "maintenance-section-manager",
+          "name_ar": "مدير قسم الصيانة"
+        },
+        "direct_reports": []
       },
       "senior-accounts-payable-accountant": {
         "slug": "senior-accounts-payable-accountant",
@@ -56863,7 +57519,12 @@
         "grade_level": 4,
         "grade_jisr_id": 11889,
         "grade_name_ar": "المستوى الإداري الرابع: الوظائف التشغيلية المتخصصة",
-        "grade_name_en": "Fourth Administrative Level: Specialized Operational Positions"
+        "grade_name_en": "Fourth Administrative Level: Specialized Operational Positions",
+        "reports_to": {
+          "slug": "accounts-supervisor",
+          "name_ar": "مشرف الحسابات"
+        },
+        "direct_reports": []
       },
       "senior-cost-accountant": {
         "slug": "senior-cost-accountant",
@@ -57084,7 +57745,23 @@
         "grade_level": 4,
         "grade_jisr_id": 11889,
         "grade_name_ar": "المستوى الإداري الرابع: الوظائف التشغيلية المتخصصة",
-        "grade_name_en": "Fourth Administrative Level: Specialized Operational Positions"
+        "grade_name_en": "Fourth Administrative Level: Specialized Operational Positions",
+        "reports_to": {
+          "slug": "accounts-supervisor",
+          "name_ar": "مشرف الحسابات"
+        },
+        "direct_reports": [
+          {
+            "slug": "cost-inventory-accountant",
+            "name_ar": "محاسب التكاليف والمخزون",
+            "name_en": "Cost & Inventory Accountant"
+          },
+          {
+            "slug": "suppliers-accounts-accountant",
+            "name_ar": "محاسب حسابات الموردين",
+            "name_en": "Suppliers Accounts Accountant"
+          }
+        ]
       },
       "senior-general-ledger-tax-accountant": {
         "slug": "senior-general-ledger-tax-accountant",
@@ -57319,7 +57996,23 @@
         "grade_level": 4,
         "grade_jisr_id": 11889,
         "grade_name_ar": "المستوى الإداري الرابع: الوظائف التشغيلية المتخصصة",
-        "grade_name_en": "Fourth Administrative Level: Specialized Operational Positions"
+        "grade_name_en": "Fourth Administrative Level: Specialized Operational Positions",
+        "reports_to": {
+          "slug": "accounts-supervisor",
+          "name_ar": "مشرف الحسابات"
+        },
+        "direct_reports": [
+          {
+            "slug": "general-ledger-accountant",
+            "name_ar": "محاسب الأستاذ العام",
+            "name_en": "General Ledger Accountant"
+          },
+          {
+            "slug": "revenue-pos-accountant",
+            "name_ar": "محاسب الإيرادات ونقاط البيع",
+            "name_en": "Revenue & POS Accountant"
+          }
+        ]
       },
       "inventory-planning-section-head": {
         "slug": "inventory-planning-section-head",
@@ -57562,7 +58255,23 @@
         "grade_level": 3,
         "grade_jisr_id": 11888,
         "grade_name_ar": "المستوى الإداري الثالث: الوظائف الإشرافية",
-        "grade_name_en": "Third Administrative Level: Supervisory Positions"
+        "grade_name_en": "Third Administrative Level: Supervisory Positions",
+        "reports_to": {
+          "slug": "supply-chain-procurement-manager",
+          "name_ar": "مدير سلاسل الإمداد والتوريد"
+        },
+        "direct_reports": [
+          {
+            "slug": "demand-planning-specialist",
+            "name_ar": "أخصائي تخطيط الطلب",
+            "name_en": "Demand Planning Specialist"
+          },
+          {
+            "slug": "supply-chain-stock-controller",
+            "name_ar": "مراقب مخزون سلاسل الإمداد",
+            "name_en": "Supply-Chain Stock Controller"
+          }
+        ]
       },
       "showroom-operations-manager": {
         "slug": "showroom-operations-manager",
@@ -57802,7 +58511,18 @@
         "grade_level": 2,
         "grade_jisr_id": 11887,
         "grade_name_ar": "المستوى الإداري الثاني: الوظائف الإدارية",
-        "grade_name_en": "Second Administrative Level: Administrative Positions"
+        "grade_name_en": "Second Administrative Level: Administrative Positions",
+        "reports_to": {
+          "slug": "area-supervisor",
+          "name_ar": "مشرف منطقة"
+        },
+        "direct_reports": [
+          {
+            "slug": "senior-showroom-operations-officer",
+            "name_ar": "مسؤول أول عمليات معرض",
+            "name_en": "Senior Showroom Operations Officer"
+          }
+        ]
       },
       "showroom-operations-officer": {
         "slug": "showroom-operations-officer",
@@ -57980,7 +58700,12 @@
         "grade_level": 6,
         "grade_jisr_id": 11891,
         "grade_name_ar": "المستوى الإداري السادس: الوظائف الداعمة والفنية",
-        "grade_name_en": "Sixth Administrative Level: Support and Technical Positions"
+        "grade_name_en": "Sixth Administrative Level: Support and Technical Positions",
+        "reports_to": {
+          "slug": "senior-showroom-operations-officer",
+          "name_ar": "مسؤول أول عمليات معرض"
+        },
+        "direct_reports": []
       },
       "senior-showroom-operations-officer": {
         "slug": "senior-showroom-operations-officer",
@@ -58190,7 +58915,28 @@
         "grade_level": 6,
         "grade_jisr_id": 11891,
         "grade_name_ar": "المستوى الإداري السادس: الوظائف الداعمة والفنية",
-        "grade_name_en": "Sixth Administrative Level: Support and Technical Positions"
+        "grade_name_en": "Sixth Administrative Level: Support and Technical Positions",
+        "reports_to": {
+          "slug": "showroom-operations-manager",
+          "name_ar": "مدير عمليات معرض"
+        },
+        "direct_reports": [
+          {
+            "slug": "cashier",
+            "name_ar": "أمين صندوق",
+            "name_en": "Cashier"
+          },
+          {
+            "slug": "showroom-operations-officer",
+            "name_ar": "مسؤول عمليات معرض",
+            "name_en": "Showroom Operations Officer"
+          },
+          {
+            "slug": "sales-representative",
+            "name_ar": "ممثل مبيعات",
+            "name_en": "Sales Representative"
+          }
+        ]
       },
       "store-operations-supervisor": {
         "slug": "store-operations-supervisor",
@@ -58402,7 +59148,9 @@
         "grade_level": 3,
         "grade_jisr_id": 11888,
         "grade_name_ar": "المستوى الإداري الثالث: الوظائف الإشرافية",
-        "grade_name_en": "Third Administrative Level: Supervisory Positions"
+        "grade_name_en": "Third Administrative Level: Supervisory Positions",
+        "reports_to": null,
+        "direct_reports": []
       },
       "suppliers-accounts-accountant": {
         "slug": "suppliers-accounts-accountant",
@@ -58604,7 +59352,12 @@
         "grade_level": 4,
         "grade_jisr_id": 11889,
         "grade_name_ar": "المستوى الإداري الرابع: الوظائف التشغيلية المتخصصة",
-        "grade_name_en": "Fourth Administrative Level: Specialized Operational Positions"
+        "grade_name_en": "Fourth Administrative Level: Specialized Operational Positions",
+        "reports_to": {
+          "slug": "senior-cost-accountant",
+          "name_ar": "محاسب أول تكاليف"
+        },
+        "direct_reports": []
       },
       "supply-chain-procurement-manager": {
         "slug": "supply-chain-procurement-manager",
@@ -58913,7 +59666,28 @@
         "grade_level": 2,
         "grade_jisr_id": 11887,
         "grade_name_ar": "المستوى الإداري الثاني: الوظائف الإدارية",
-        "grade_name_en": "Second Administrative Level: Administrative Positions"
+        "grade_name_en": "Second Administrative Level: Administrative Positions",
+        "reports_to": {
+          "slug": "chief-executive-officer-ceo",
+          "name_ar": "الرئيس التنفيذي"
+        },
+        "direct_reports": [
+          {
+            "slug": "inventory-planning-section-head",
+            "name_ar": "رئيس قسم تخطيط المخزون",
+            "name_en": "Inventory Planning Section Head"
+          },
+          {
+            "slug": "logistics-manager",
+            "name_ar": "مدير اللوجستيك",
+            "name_en": "Logistics Manager"
+          },
+          {
+            "slug": "warehousing-distribution-manager",
+            "name_ar": "مدير المستودعات والتوزيع",
+            "name_en": "Warehousing & Distribution Manager"
+          }
+        ]
       },
       "supply-chain-stock-controller": {
         "slug": "supply-chain-stock-controller",
@@ -59080,7 +59854,12 @@
         "grade_level": 6,
         "grade_jisr_id": 11891,
         "grade_name_ar": "المستوى الإداري السادس: الوظائف الداعمة والفنية",
-        "grade_name_en": "Sixth Administrative Level: Support and Technical Positions"
+        "grade_name_en": "Sixth Administrative Level: Support and Technical Positions",
+        "reports_to": {
+          "slug": "inventory-planning-section-head",
+          "name_ar": "رئيس قسم تخطيط المخزون"
+        },
+        "direct_reports": []
       },
       "support-services-coordinator": {
         "slug": "support-services-coordinator",
@@ -59268,7 +60047,12 @@
         "grade_level": 6,
         "grade_jisr_id": 11891,
         "grade_name_ar": "المستوى الإداري السادس: الوظائف الداعمة والفنية",
-        "grade_name_en": "Sixth Administrative Level: Support and Technical Positions"
+        "grade_name_en": "Sixth Administrative Level: Support and Technical Positions",
+        "reports_to": {
+          "slug": "support-services-officer",
+          "name_ar": "مسؤول الخدمات المساندة"
+        },
+        "direct_reports": []
       },
       "support-services-manager": {
         "slug": "support-services-manager",
@@ -59538,7 +60322,23 @@
         "grade_level": 2,
         "grade_jisr_id": 11887,
         "grade_name_ar": "المستوى الإداري الثاني: الوظائف الإدارية",
-        "grade_name_en": "Second Administrative Level: Administrative Positions"
+        "grade_name_en": "Second Administrative Level: Administrative Positions",
+        "reports_to": {
+          "slug": "hr-and-support-services-director",
+          "name_ar": "مدير الموارد البشرية والخدمات المساندة"
+        },
+        "direct_reports": [
+          {
+            "slug": "support-services-officer",
+            "name_ar": "مسؤول الخدمات المساندة",
+            "name_en": "Support Services Officer"
+          },
+          {
+            "slug": "maintenance-projects-supervisor",
+            "name_ar": "مشرف الصيانة والمشاريع",
+            "name_en": "Maintenance & Projects Supervisor"
+          }
+        ]
       },
       "support-services-officer": {
         "slug": "support-services-officer",
@@ -59748,7 +60548,18 @@
         "grade_level": 6,
         "grade_jisr_id": 11891,
         "grade_name_ar": "المستوى الإداري السادس: الوظائف الداعمة والفنية",
-        "grade_name_en": "Sixth Administrative Level: Support and Technical Positions"
+        "grade_name_en": "Sixth Administrative Level: Support and Technical Positions",
+        "reports_to": {
+          "slug": "support-services-manager",
+          "name_ar": "مدير الخدمات المساندة"
+        },
+        "direct_reports": [
+          {
+            "slug": "support-services-coordinator",
+            "name_ar": "منسق الخدمات المساندة",
+            "name_en": "Support Services Coordinator"
+          }
+        ]
       },
       "systems-integration-operations-specialist": {
         "slug": "systems-integration-operations-specialist",
@@ -59955,7 +60766,9 @@
         "grade_level": 4,
         "grade_jisr_id": 11889,
         "grade_name_ar": "المستوى الإداري الرابع: الوظائف التشغيلية المتخصصة",
-        "grade_name_en": "Fourth Administrative Level: Specialized Operational Positions"
+        "grade_name_en": "Fourth Administrative Level: Specialized Operational Positions",
+        "reports_to": null,
+        "direct_reports": []
       },
       "talent-acquisition-coordinator": {
         "slug": "talent-acquisition-coordinator",
@@ -60145,7 +60958,12 @@
         "grade_level": 6,
         "grade_jisr_id": 11891,
         "grade_name_ar": "المستوى الإداري السادس: الوظائف الداعمة والفنية",
-        "grade_name_en": "Sixth Administrative Level: Support and Technical Positions"
+        "grade_name_en": "Sixth Administrative Level: Support and Technical Positions",
+        "reports_to": {
+          "slug": "talent-acquisition-section-head",
+          "name_ar": "رئيس قسم استقطاب المواهب"
+        },
+        "direct_reports": []
       },
       "talent-acquisition-officer": {
         "slug": "talent-acquisition-officer",
@@ -60353,7 +61171,12 @@
         "grade_level": 6,
         "grade_jisr_id": 11891,
         "grade_name_ar": "المستوى الإداري السادس: الوظائف الداعمة والفنية",
-        "grade_name_en": "Sixth Administrative Level: Support and Technical Positions"
+        "grade_name_en": "Sixth Administrative Level: Support and Technical Positions",
+        "reports_to": {
+          "slug": "talent-acquisition-section-head",
+          "name_ar": "رئيس قسم استقطاب المواهب"
+        },
+        "direct_reports": []
       },
       "talent-acquisition-section-head": {
         "slug": "talent-acquisition-section-head",
@@ -60598,7 +61421,28 @@
         "grade_level": 3,
         "grade_jisr_id": 11888,
         "grade_name_ar": "المستوى الإداري الثالث: الوظائف الإشرافية",
-        "grade_name_en": "Third Administrative Level: Supervisory Positions"
+        "grade_name_en": "Third Administrative Level: Supervisory Positions",
+        "reports_to": {
+          "slug": "hr-and-support-services-director",
+          "name_ar": "مدير الموارد البشرية والخدمات المساندة"
+        },
+        "direct_reports": [
+          {
+            "slug": "talent-acquisition-specialist",
+            "name_ar": "أخصائي استقطاب المواهب",
+            "name_en": "Talent Acquisition Specialist"
+          },
+          {
+            "slug": "talent-acquisition-officer",
+            "name_ar": "مسؤول استقطاب المواهب",
+            "name_en": "Talent Acquisition Officer"
+          },
+          {
+            "slug": "talent-acquisition-coordinator",
+            "name_ar": "منسق استقطاب المواهب",
+            "name_en": "Talent Acquisition Coordinator"
+          }
+        ]
       },
       "talent-acquisition-specialist": {
         "slug": "talent-acquisition-specialist",
@@ -60808,7 +61652,12 @@
         "grade_level": 4,
         "grade_jisr_id": 11889,
         "grade_name_ar": "المستوى الإداري الرابع: الوظائف التشغيلية المتخصصة",
-        "grade_name_en": "Fourth Administrative Level: Specialized Operational Positions"
+        "grade_name_en": "Fourth Administrative Level: Specialized Operational Positions",
+        "reports_to": {
+          "slug": "talent-acquisition-section-head",
+          "name_ar": "رئيس قسم استقطاب المواهب"
+        },
+        "direct_reports": []
       },
       "technical-support-specialist": {
         "slug": "technical-support-specialist",
@@ -61030,7 +61879,9 @@
         "grade_level": 4,
         "grade_jisr_id": 11889,
         "grade_name_ar": "المستوى الإداري الرابع: الوظائف التشغيلية المتخصصة",
-        "grade_name_en": "Fourth Administrative Level: Specialized Operational Positions"
+        "grade_name_en": "Fourth Administrative Level: Specialized Operational Positions",
+        "reports_to": null,
+        "direct_reports": []
       },
       "treasury-accountant": {
         "slug": "treasury-accountant",
@@ -61244,7 +62095,9 @@
         "grade_level": 4,
         "grade_jisr_id": 11889,
         "grade_name_ar": "المستوى الإداري الرابع: الوظائف التشغيلية المتخصصة",
-        "grade_name_en": "Fourth Administrative Level: Specialized Operational Positions"
+        "grade_name_en": "Fourth Administrative Level: Specialized Operational Positions",
+        "reports_to": null,
+        "direct_reports": []
       },
       "uae-warehouse-unit-head": {
         "slug": "uae-warehouse-unit-head",
@@ -61426,7 +62279,15 @@
         "grade_level": 6,
         "grade_jisr_id": 11891,
         "grade_name_ar": "المستوى الإداري السادس: الوظائف الداعمة والفنية",
-        "grade_name_en": "Sixth Administrative Level: Support and Technical Positions"
+        "grade_name_en": "Sixth Administrative Level: Support and Technical Positions",
+        "reports_to": null,
+        "direct_reports": [
+          {
+            "slug": "external-platforms-officer",
+            "name_ar": "مسؤول منصات خارجية",
+            "name_en": "External Platforms Officer"
+          }
+        ]
       },
       "warehousing-distribution-manager": {
         "slug": "warehousing-distribution-manager",
@@ -61698,7 +62559,12 @@
         "grade_level": 2,
         "grade_jisr_id": 11887,
         "grade_name_ar": "المستوى الإداري الثاني: الوظائف الإدارية",
-        "grade_name_en": "Second Administrative Level: Administrative Positions"
+        "grade_name_en": "Second Administrative Level: Administrative Positions",
+        "reports_to": {
+          "slug": "supply-chain-procurement-manager",
+          "name_ar": "مدير سلاسل الإمداد والتوريد"
+        },
+        "direct_reports": []
       },
       "wholesale-sales-specialist": {
         "slug": "wholesale-sales-specialist",
@@ -61905,7 +62771,12 @@
         "grade_level": 4,
         "grade_jisr_id": 11889,
         "grade_name_ar": "المستوى الإداري الرابع: الوظائف التشغيلية المتخصصة",
-        "grade_name_en": "Fourth Administrative Level: Specialized Operational Positions"
+        "grade_name_en": "Fourth Administrative Level: Specialized Operational Positions",
+        "reports_to": {
+          "slug": "sales-operations-manager",
+          "name_ar": "مدير المبيعات والعمليات"
+        },
+        "direct_reports": []
       }
     }
   },
