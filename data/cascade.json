@@ -502,7 +502,8 @@
         "owner_dept_name_en": "Finance Department",
         "participant_dept_name_ar": "إدارة المبيعات والعمليات",
         "participant_dept_name_en": "Sales and Operations Department",
-        "definition_simple_ar": "كم حققنا من خطة المبيعات اللي وعدنا فيها، من كل ١٠٠ ريال مستهدف نشوف وش اللي دخل فعلاً."
+        "definition_simple_ar": "كم حققنا من خطة المبيعات اللي وعدنا فيها، من كل ١٠٠ ريال مستهدف نشوف وش اللي دخل فعلاً.",
+        "level_classification": "expert"
       },
       {
         "catalog_number": 2,
@@ -520,7 +521,8 @@
         "owner_dept_name_en": "Finance Department",
         "participant_dept_name_ar": "إدارة المبيعات والعمليات",
         "participant_dept_name_en": "Sales and Operations Department",
-        "definition_simple_ar": "كم حققنا من الربح الصافي المستهدف بعد ما نخصم كل التكاليف والمصاريف، من كل ١٠٠ ريال ربح مخطط."
+        "definition_simple_ar": "كم حققنا من الربح الصافي المستهدف بعد ما نخصم كل التكاليف والمصاريف، من كل ١٠٠ ريال ربح مخطط.",
+        "level_classification": "expert"
       },
       {
         "catalog_number": 3,
@@ -538,7 +540,8 @@
         "owner_dept_name_en": "Finance Department",
         "participant_dept_name_ar": "إدارة سلاسل الإمداد والتوريد",
         "participant_dept_name_en": "Supply Chain Department",
-        "definition_simple_ar": "كم يتبقى لنا من كل ١٠٠ ريال مبيعات بعد ما نخصم تكلفة شراء البضاعة نفسها."
+        "definition_simple_ar": "كم يتبقى لنا من كل ١٠٠ ريال مبيعات بعد ما نخصم تكلفة شراء البضاعة نفسها.",
+        "level_classification": "expert"
       },
       {
         "catalog_number": 4,
@@ -556,7 +559,8 @@
         "owner_dept_name_en": "Finance Department",
         "participant_dept_name_ar": "إدارة المبيعات والعمليات",
         "participant_dept_name_en": "Sales and Operations Department",
-        "definition_simple_ar": "كم يتبقى لنا ربح من عملياتنا الأساسية من كل ١٠٠ ريال إيراد، قبل الفوائد والضرائب."
+        "definition_simple_ar": "كم يتبقى لنا ربح من عملياتنا الأساسية من كل ١٠٠ ريال إيراد، قبل الفوائد والضرائب.",
+        "level_classification": "expert"
       },
       {
         "catalog_number": 5,
@@ -574,7 +578,8 @@
         "owner_dept_name_en": "Finance Department",
         "participant_dept_name_ar": null,
         "participant_dept_name_en": null,
-        "definition_simple_ar": "كم تجاوزنا أو قللنا عن المصاريف اللي خططنا لها، وهنا كل ما النسبة أقل كان أحسن."
+        "definition_simple_ar": "كم تجاوزنا أو قللنا عن المصاريف اللي خططنا لها، وهنا كل ما النسبة أقل كان أحسن.",
+        "level_classification": "expert"
       },
       {
         "catalog_number": 6,
@@ -592,7 +597,8 @@
         "owner_dept_name_en": "Sales and Operations Department",
         "participant_dept_name_ar": "الإدارة المالية",
         "participant_dept_name_en": "Finance Department",
-        "definition_simple_ar": "كم حققت فروعنا من مبيعاتها المستهدفة، من كل ١٠٠ ريال مخطط لكل المعارض."
+        "definition_simple_ar": "كم حققت فروعنا من مبيعاتها المستهدفة، من كل ١٠٠ ريال مخطط لكل المعارض.",
+        "level_classification": "senior"
       },
       {
         "catalog_number": 7,
@@ -610,7 +616,8 @@
         "owner_dept_name_en": "Sales and Operations Department",
         "participant_dept_name_ar": "إدارة التسويق والمتجر الالكتروني",
         "participant_dept_name_en": "Marketing and E-Commerce Department",
-        "definition_simple_ar": "كم زادت مبيعاتنا هالسنة مقارنة بنفس الفترة من السنة اللي قبلها."
+        "definition_simple_ar": "كم زادت مبيعاتنا هالسنة مقارنة بنفس الفترة من السنة اللي قبلها.",
+        "level_classification": "expert"
       },
       {
         "catalog_number": 8,
@@ -628,7 +635,8 @@
         "owner_dept_name_en": "Marketing and E-Commerce Department",
         "participant_dept_name_ar": "الإدارة المالية",
         "participant_dept_name_en": "Finance Department",
-        "definition_simple_ar": "كم زادت مبيعات المتجر الإلكتروني هالسنة مقارنة بالسنة اللي قبلها."
+        "definition_simple_ar": "كم زادت مبيعات المتجر الإلكتروني هالسنة مقارنة بالسنة اللي قبلها.",
+        "level_classification": "expert"
       },
       {
         "catalog_number": 9,
@@ -646,7 +654,8 @@
         "owner_dept_name_en": "Marketing and E-Commerce Department",
         "participant_dept_name_ar": "الإدارة المالية",
         "participant_dept_name_en": "Finance Department",
-        "definition_simple_ar": "كم ريال من كل ١٠٠ ريال إيراد جانا عن طريق المتجر الإلكتروني بدل الفروع."
+        "definition_simple_ar": "كم ريال من كل ١٠٠ ريال إيراد جانا عن طريق المتجر الإلكتروني بدل الفروع.",
+        "level_classification": "expert"
       },
       {
         "catalog_number": 10,
@@ -664,7 +673,8 @@
         "owner_dept_name_en": "Marketing and E-Commerce Department",
         "participant_dept_name_ar": "إدارة المبيعات والعمليات",
         "participant_dept_name_en": "Sales and Operations Department",
-        "definition_simple_ar": "من كل ١٠٠ زائر يدخلون المتجر الإلكتروني، كم واحد منهم يكمّل عملية شراء فعلاً."
+        "definition_simple_ar": "من كل ١٠٠ زائر يدخلون المتجر الإلكتروني، كم واحد منهم يكمّل عملية شراء فعلاً.",
+        "level_classification": "senior"
       },
       {
         "catalog_number": 11,
@@ -682,7 +692,8 @@
         "owner_dept_name_en": "Marketing and E-Commerce Department",
         "participant_dept_name_ar": "الإدارة المالية",
         "participant_dept_name_en": "Finance Department",
-        "definition_simple_ar": "كم ينفق العميل في المتوسط في كل طلب يطلبه من المتجر الإلكتروني."
+        "definition_simple_ar": "كم ينفق العميل في المتوسط في كل طلب يطلبه من المتجر الإلكتروني.",
+        "level_classification": "senior"
       },
       {
         "catalog_number": 12,
@@ -700,7 +711,8 @@
         "owner_dept_name_en": "Marketing and E-Commerce Department",
         "participant_dept_name_ar": "إدارة سلاسل الإمداد والتوريد",
         "participant_dept_name_en": "Supply Chain Department",
-        "definition_simple_ar": "من كل ١٠٠ طلب يدخل على المتجر، كم طلب وصل للعميل بنجاح بدون إلغاء أو إرجاع بسبب خطأ منا."
+        "definition_simple_ar": "من كل ١٠٠ طلب يدخل على المتجر، كم طلب وصل للعميل بنجاح بدون إلغاء أو إرجاع بسبب خطأ منا.",
+        "level_classification": "junior"
       },
       {
         "catalog_number": 13,
@@ -718,7 +730,8 @@
         "owner_dept_name_en": "Sales and Operations Department",
         "participant_dept_name_ar": "إدارة الموارد البشرية والخدمات المساندة",
         "participant_dept_name_en": "HR and Support Services Department",
-        "definition_simple_ar": "كم حقق البائع أو الفريق من المبيعات المستهدفة له، من كل ١٠٠ ريال مطلوب منه."
+        "definition_simple_ar": "كم حقق البائع أو الفريق من المبيعات المستهدفة له، من كل ١٠٠ ريال مطلوب منه.",
+        "level_classification": "senior"
       },
       {
         "catalog_number": 14,
@@ -736,7 +749,8 @@
         "owner_dept_name_en": "Sales and Operations Department",
         "participant_dept_name_ar": "إدارة الموارد البشرية والخدمات المساندة",
         "participant_dept_name_en": "HR and Support Services Department",
-        "definition_simple_ar": "من كل ١٠٠ موظف بيع مطلوب منه تدريب، كم واحد منهم خلّص التدريب الإلزامي على المنتجات والعروض."
+        "definition_simple_ar": "من كل ١٠٠ موظف بيع مطلوب منه تدريب، كم واحد منهم خلّص التدريب الإلزامي على المنتجات والعروض.",
+        "level_classification": "generic"
       },
       {
         "catalog_number": 15,
@@ -754,7 +768,8 @@
         "owner_dept_name_en": "Sales and Operations Department",
         "participant_dept_name_ar": "إدارة العناية بالعملاء",
         "participant_dept_name_en": "Customer Care Department",
-        "definition_simple_ar": "كم نقطة جمعها الفرع من قائمة معايير البيع والخدمة، من أصل المجموع الكامل للنقاط."
+        "definition_simple_ar": "كم نقطة جمعها الفرع من قائمة معايير البيع والخدمة، من أصل المجموع الكامل للنقاط.",
+        "level_classification": "generic"
       },
       {
         "catalog_number": 16,
@@ -772,7 +787,8 @@
         "owner_dept_name_en": "Customer Care Department",
         "participant_dept_name_ar": "إدارة التسويق والمتجر الالكتروني",
         "participant_dept_name_en": "Marketing and E-Commerce Department",
-        "definition_simple_ar": "كم عميل طلع راضٍ أو راضٍ جداً عن تجربته معنا، من كل ١٠٠ عميل عبّوا الاستبيان."
+        "definition_simple_ar": "كم عميل طلع راضٍ أو راضٍ جداً عن تجربته معنا، من كل ١٠٠ عميل عبّوا الاستبيان.",
+        "level_classification": "generic"
       },
       {
         "catalog_number": 17,
@@ -790,7 +806,8 @@
         "owner_dept_name_en": "Customer Care Department",
         "participant_dept_name_ar": "إدارة التسويق والمتجر الالكتروني",
         "participant_dept_name_en": "Marketing and E-Commerce Department",
-        "definition_simple_ar": "نطرح نسبة العملاء اللي ينتقدوننا من نسبة اللي يرشّحوننا لغيرهم، والناتج يبيّن قوة علاقتنا فيهم."
+        "definition_simple_ar": "نطرح نسبة العملاء اللي ينتقدوننا من نسبة اللي يرشّحوننا لغيرهم، والناتج يبيّن قوة علاقتنا فيهم.",
+        "level_classification": "expert"
       },
       {
         "catalog_number": 18,
@@ -808,7 +825,8 @@
         "owner_dept_name_en": "Customer Care Department",
         "participant_dept_name_ar": "إدارة المبيعات والعمليات",
         "participant_dept_name_en": "Sales and Operations Department",
-        "definition_simple_ar": "في المتوسط، كم مرة يشتري العميل الواحد منا خلال السنة بدل ما تكون العلاقة شرّاية وحدة وخلاص."
+        "definition_simple_ar": "في المتوسط، كم مرة يشتري العميل الواحد منا خلال السنة بدل ما تكون العلاقة شرّاية وحدة وخلاص.",
+        "level_classification": "expert"
       },
       {
         "catalog_number": 19,
@@ -826,7 +844,8 @@
         "owner_dept_name_en": "Customer Care Department",
         "participant_dept_name_ar": "إدارة التسويق والمتجر الالكتروني",
         "participant_dept_name_en": "Marketing and E-Commerce Department",
-        "definition_simple_ar": "كم عميل من كل ١٠٠ رجع واشترى منا مرة ثانية، بدل ما يشتري مرة وحدة ويختفي."
+        "definition_simple_ar": "كم عميل من كل ١٠٠ رجع واشترى منا مرة ثانية، بدل ما يشتري مرة وحدة ويختفي.",
+        "level_classification": "expert"
       },
       {
         "catalog_number": 20,
@@ -844,7 +863,8 @@
         "owner_dept_name_en": "Customer Care Department",
         "participant_dept_name_ar": "إدارة خدمات ما بعد البيع",
         "participant_dept_name_en": "After-Sales Service Department",
-        "definition_simple_ar": "كم يوم ناخذ بالمتوسط من لحظة تسجيل الشكوى لين نقفلها ويرضى العميل."
+        "definition_simple_ar": "كم يوم ناخذ بالمتوسط من لحظة تسجيل الشكوى لين نقفلها ويرضى العميل.",
+        "level_classification": "senior"
       },
       {
         "catalog_number": 21,
@@ -862,7 +882,8 @@
         "owner_dept_name_en": "Customer Care Department",
         "participant_dept_name_ar": "إدارة خدمات ما بعد البيع",
         "participant_dept_name_en": "After-Sales Service Department",
-        "definition_simple_ar": "كم شكوى من كل ١٠٠ رجعت تنفتح من جديد لنفس المشكلة، لأن الحل أول مرة ما كان كافي."
+        "definition_simple_ar": "كم شكوى من كل ١٠٠ رجعت تنفتح من جديد لنفس المشكلة، لأن الحل أول مرة ما كان كافي.",
+        "level_classification": "senior"
       },
       {
         "catalog_number": 22,
@@ -880,7 +901,8 @@
         "owner_dept_name_en": "Customer Care Department",
         "participant_dept_name_ar": "إدارة خدمات ما بعد البيع",
         "participant_dept_name_en": "After-Sales Service Department",
-        "definition_simple_ar": "كم شكوى من كل ١٠٠ نقدر نخلّصها من أول مكالمة، بدون ما العميل يعاود يتواصل."
+        "definition_simple_ar": "كم شكوى من كل ١٠٠ نقدر نخلّصها من أول مكالمة، بدون ما العميل يعاود يتواصل.",
+        "level_classification": "senior"
       },
       {
         "catalog_number": 23,
@@ -898,7 +920,8 @@
         "owner_dept_name_en": "Customer Care Department",
         "participant_dept_name_ar": "إدارة خدمات ما بعد البيع",
         "participant_dept_name_en": "After-Sales Service Department",
-        "definition_simple_ar": "كم شكوى من كل ١٠٠ قفلناها داخل الوقت المتفق عليه لكل نوع شكوى (الـ SLA)."
+        "definition_simple_ar": "كم شكوى من كل ١٠٠ قفلناها داخل الوقت المتفق عليه لكل نوع شكوى (الـ SLA).",
+        "level_classification": "senior"
       },
       {
         "catalog_number": 24,
@@ -916,7 +939,8 @@
         "owner_dept_name_en": "After-Sales Service Department",
         "participant_dept_name_ar": "إدارة سلاسل الإمداد والتوريد",
         "participant_dept_name_en": "Supply Chain Department",
-        "definition_simple_ar": "كم طلب من كل ١٠٠ وصلناه أو ركّبناه في الموعد اللي وعدنا العميل فيه."
+        "definition_simple_ar": "كم طلب من كل ١٠٠ وصلناه أو ركّبناه في الموعد اللي وعدنا العميل فيه.",
+        "level_classification": "senior"
       },
       {
         "catalog_number": 25,
@@ -934,7 +958,8 @@
         "owner_dept_name_en": "After-Sales Service Department",
         "participant_dept_name_ar": "إدارة العناية بالعملاء",
         "participant_dept_name_en": "Customer Care Department",
-        "definition_simple_ar": "كم جهاز من كل ١٠٠ ينجح الفني في تركيبه من أول زيارة، بدون ما يحتاج يرجع مرة ثانية."
+        "definition_simple_ar": "كم جهاز من كل ١٠٠ ينجح الفني في تركيبه من أول زيارة، بدون ما يحتاج يرجع مرة ثانية.",
+        "level_classification": "senior"
       },
       {
         "catalog_number": 26,
@@ -952,7 +977,8 @@
         "owner_dept_name_en": "After-Sales Service Department",
         "participant_dept_name_ar": "إدارة العناية بالعملاء",
         "participant_dept_name_en": "Customer Care Department",
-        "definition_simple_ar": "كم طلب صيانة من كل ١٠٠ خلّصناه كامل داخل الوقت المتفق عليه، سواء تحت الضمان أو مدفوع."
+        "definition_simple_ar": "كم طلب صيانة من كل ١٠٠ خلّصناه كامل داخل الوقت المتفق عليه، سواء تحت الضمان أو مدفوع.",
+        "level_classification": "senior"
       },
       {
         "catalog_number": 27,
@@ -970,7 +996,8 @@
         "owner_dept_name_en": "After-Sales Service Department",
         "participant_dept_name_ar": "إدارة العناية بالعملاء",
         "participant_dept_name_en": "Customer Care Department",
-        "definition_simple_ar": "كم مرتجع من كل ١٠٠ سببه خطأ في الخدمة (توصيل غلط أو معلومة ناقصة)، مو عيب في المنتج نفسه."
+        "definition_simple_ar": "كم مرتجع من كل ١٠٠ سببه خطأ في الخدمة (توصيل غلط أو معلومة ناقصة)، مو عيب في المنتج نفسه.",
+        "level_classification": "senior"
       },
       {
         "catalog_number": 28,
@@ -988,7 +1015,8 @@
         "owner_dept_name_en": "Customer Care Department",
         "participant_dept_name_ar": "إدارة التسويق والمتجر الالكتروني",
         "participant_dept_name_en": "Marketing and E-Commerce Department",
-        "definition_simple_ar": "متوسط الدرجة اللي يعطينا إياها العملاء عن تجربتهم معنا في الفرع وفي المتجر الإلكتروني، من ٥."
+        "definition_simple_ar": "متوسط الدرجة اللي يعطينا إياها العملاء عن تجربتهم معنا في الفرع وفي المتجر الإلكتروني، من ٥.",
+        "level_classification": "generic"
       },
       {
         "catalog_number": 29,
@@ -1006,7 +1034,8 @@
         "owner_dept_name_en": "Inventory and stock Control Department",
         "participant_dept_name_ar": "إدارة سلاسل الإمداد والتوريد",
         "participant_dept_name_en": "Supply Chain Department",
-        "definition_simple_ar": "كم مرة بعنا واستبدلنا كامل المخزون خلال السنة، يعني هل بضاعتنا تتحرك بسرعة ولا واقفة."
+        "definition_simple_ar": "كم مرة بعنا واستبدلنا كامل المخزون خلال السنة، يعني هل بضاعتنا تتحرك بسرعة ولا واقفة.",
+        "level_classification": "expert"
       },
       {
         "catalog_number": 30,
@@ -1024,7 +1053,8 @@
         "owner_dept_name_en": "Inventory and stock Control Department",
         "participant_dept_name_ar": "إدارة سلاسل الإمداد والتوريد",
         "participant_dept_name_en": "Supply Chain Department",
-        "definition_simple_ar": "كم منتج من المنتجات الأساسية متوفر فعلاً وجاهز للبيع في الفروع والمتجر، من كل ١٠٠."
+        "definition_simple_ar": "كم منتج من المنتجات الأساسية متوفر فعلاً وجاهز للبيع في الفروع والمتجر، من كل ١٠٠.",
+        "level_classification": "expert"
       },
       {
         "catalog_number": 31,
@@ -1042,7 +1072,8 @@
         "owner_dept_name_en": "Inventory and stock Control Department",
         "participant_dept_name_ar": "إدارة سلاسل الإمداد والتوريد",
         "participant_dept_name_en": "Supply Chain Department",
-        "definition_simple_ar": "كم منتج من المنتجات الأساسية من كل ١٠٠ كان ناقص من المخزون لما طلبه العميل."
+        "definition_simple_ar": "كم منتج من المنتجات الأساسية من كل ١٠٠ كان ناقص من المخزون لما طلبه العميل.",
+        "level_classification": "expert"
       },
       {
         "catalog_number": 32,
@@ -1060,7 +1091,8 @@
         "owner_dept_name_en": "Inventory and stock Control Department",
         "participant_dept_name_ar": "إدارة سلاسل الإمداد والتوريد",
         "participant_dept_name_en": "Supply Chain Department",
-        "definition_simple_ar": "كم نسبة من قيمة مخزوننا واقفة بدون أي بيع لمدة طويلة، مثلاً أكثر من ١٨٠ يوم."
+        "definition_simple_ar": "كم نسبة من قيمة مخزوننا واقفة بدون أي بيع لمدة طويلة، مثلاً أكثر من ١٨٠ يوم.",
+        "level_classification": "expert"
       },
       {
         "catalog_number": 33,
@@ -1078,7 +1110,8 @@
         "owner_dept_name_en": "Supply Chain Department",
         "participant_dept_name_ar": "إدارة الجرد ومراقبة المخزون",
         "participant_dept_name_en": "Inventory and stock Control Department",
-        "definition_simple_ar": "كم كانت توقعاتنا للمبيعات قريبة من المبيعات اللي صارت فعلاً، يعني هل تخطيطنا صح."
+        "definition_simple_ar": "كم كانت توقعاتنا للمبيعات قريبة من المبيعات اللي صارت فعلاً، يعني هل تخطيطنا صح.",
+        "level_classification": "expert"
       },
       {
         "catalog_number": 34,
@@ -1096,7 +1129,8 @@
         "owner_dept_name_en": "Inventory and stock Control Department",
         "participant_dept_name_ar": "إدارة سلاسل الإمداد والتوريد",
         "participant_dept_name_en": "Supply Chain Department",
-        "definition_simple_ar": "كم صنف من كل ١٠٠ طابقت كميته في النظام الكمية الفعلية الموجودة في المستودع أو الفرع."
+        "definition_simple_ar": "كم صنف من كل ١٠٠ طابقت كميته في النظام الكمية الفعلية الموجودة في المستودع أو الفرع.",
+        "level_classification": "junior"
       },
       {
         "catalog_number": 35,
@@ -1114,7 +1148,8 @@
         "owner_dept_name_en": "Supply Chain Department",
         "participant_dept_name_ar": "إدارة الجرد ومراقبة المخزون",
         "participant_dept_name_en": "Inventory and stock Control Department",
-        "definition_simple_ar": "كم أمر نقل من المستودع للفرع من كل ١٠٠ وصل كامل بالكمية الصحيحة وفي تاريخه المتفق عليه."
+        "definition_simple_ar": "كم أمر نقل من المستودع للفرع من كل ١٠٠ وصل كامل بالكمية الصحيحة وفي تاريخه المتفق عليه.",
+        "level_classification": "expert"
       },
       {
         "catalog_number": 36,
@@ -1132,7 +1167,8 @@
         "owner_dept_name_en": "Supply Chain Department",
         "participant_dept_name_ar": "إدارة الجرد ومراقبة المخزون",
         "participant_dept_name_en": "Inventory and stock Control Department",
-        "definition_simple_ar": "كم طلب فرع من كل ١٠٠ جهّزه المستودع وشحنه في الموعد المخطط له."
+        "definition_simple_ar": "كم طلب فرع من كل ١٠٠ جهّزه المستودع وشحنه في الموعد المخطط له.",
+        "level_classification": "expert"
       },
       {
         "catalog_number": 37,
@@ -1150,7 +1186,8 @@
         "owner_dept_name_en": "Inventory and stock Control Department",
         "participant_dept_name_ar": "إدارة سلاسل الإمداد والتوريد",
         "participant_dept_name_en": "Supply Chain Department",
-        "definition_simple_ar": "كم عملية مستودع طلعت صحيحة (استلام وتخزين وصرف) من كل ١٠٠ عملية نسويها."
+        "definition_simple_ar": "كم عملية مستودع طلعت صحيحة (استلام وتخزين وصرف) من كل ١٠٠ عملية نسويها.",
+        "level_classification": "junior"
       },
       {
         "catalog_number": 38,
@@ -1168,7 +1205,8 @@
         "owner_dept_name_en": "Supply Chain Department",
         "participant_dept_name_ar": "إدارة الجرد ومراقبة المخزون",
         "participant_dept_name_en": "Inventory and stock Control Department",
-        "definition_simple_ar": "كم طلب شحنّاه فيه خطأ (صنف غلط أو كمية ناقصة أو تلف) من كل ١٠٠ طلب نشحنه."
+        "definition_simple_ar": "كم طلب شحنّاه فيه خطأ (صنف غلط أو كمية ناقصة أو تلف) من كل ١٠٠ طلب نشحنه.",
+        "level_classification": "expert"
       },
       {
         "catalog_number": 39,
@@ -1186,7 +1224,8 @@
         "owner_dept_name_en": "Supply Chain Department",
         "participant_dept_name_ar": "إدارة الموارد البشرية والخدمات المساندة",
         "participant_dept_name_en": "HR and Support Services Department",
-        "definition_simple_ar": "كم وحدة نجهّزها في كل ساعة عمل وحدة، يعني قد إيش ننجز في الوقت نفسه."
+        "definition_simple_ar": "كم وحدة نجهّزها في كل ساعة عمل وحدة، يعني قد إيش ننجز في الوقت نفسه.",
+        "level_classification": "expert"
       },
       {
         "catalog_number": 40,
@@ -1204,7 +1243,8 @@
         "owner_dept_name_en": "Supply Chain Department",
         "participant_dept_name_ar": "إدارة الجرد ومراقبة المخزون",
         "participant_dept_name_en": "Inventory and stock Control Department",
-        "definition_simple_ar": "كم نسبة المساحة المشغولة فعلياً بالبضاعة من إجمالي مساحة المستودع المتاحة."
+        "definition_simple_ar": "كم نسبة المساحة المشغولة فعلياً بالبضاعة من إجمالي مساحة المستودع المتاحة.",
+        "level_classification": "senior"
       },
       {
         "catalog_number": 41,
@@ -1222,7 +1262,8 @@
         "owner_dept_name_en": "Supply Chain Department",
         "participant_dept_name_ar": "إدارة الجرد ومراقبة المخزون",
         "participant_dept_name_en": "Inventory and stock Control Department",
-        "definition_simple_ar": "كم قيمة البضاعة اللي تلفت أثناء التخزين أو الرفع أو النقل، نسبة من قيمة المخزون."
+        "definition_simple_ar": "كم قيمة البضاعة اللي تلفت أثناء التخزين أو الرفع أو النقل، نسبة من قيمة المخزون.",
+        "level_classification": "expert"
       },
       {
         "catalog_number": 42,
@@ -1240,7 +1281,8 @@
         "owner_dept_name_en": "Supply Chain Department",
         "participant_dept_name_ar": "الإدارة المالية",
         "participant_dept_name_en": "Finance Department",
-        "definition_simple_ar": "كم أمر شراء وصلنا في موعده المتفق عليه من كل ١٠٠ أمر شراء استلمناه."
+        "definition_simple_ar": "كم أمر شراء وصلنا في موعده المتفق عليه من كل ١٠٠ أمر شراء استلمناه.",
+        "level_classification": "expert"
       },
       {
         "catalog_number": 43,
@@ -1258,7 +1300,8 @@
         "owner_dept_name_en": "Supply Chain Department",
         "participant_dept_name_ar": "إدارة المبيعات والعمليات",
         "participant_dept_name_en": "Sales and Operations Department",
-        "definition_simple_ar": "كم نسبة مبيعاتنا اللي جت من المنتجات ذات الربح المرتفع من إجمالي مبيعات الشركة."
+        "definition_simple_ar": "كم نسبة مبيعاتنا اللي جت من المنتجات ذات الربح المرتفع من إجمالي مبيعات الشركة.",
+        "level_classification": "expert"
       },
       {
         "catalog_number": 44,
@@ -1276,7 +1319,8 @@
         "owner_dept_name_en": "HR and Support Services Department",
         "participant_dept_name_ar": null,
         "participant_dept_name_en": null,
-        "definition_simple_ar": "قد إيش الموظفين راضين عن شغلهم وبيئة العمل، نقيسها باستبيان سرّي ونطلّعها نسبة."
+        "definition_simple_ar": "قد إيش الموظفين راضين عن شغلهم وبيئة العمل، نقيسها باستبيان سرّي ونطلّعها نسبة.",
+        "level_classification": "generic"
       },
       {
         "catalog_number": 45,
@@ -1294,7 +1338,8 @@
         "owner_dept_name_en": "HR and Support Services Department",
         "participant_dept_name_ar": null,
         "participant_dept_name_en": null,
-        "definition_simple_ar": "قد إيش الموظف مرتبط بشغله ويبذل جهد إضافي بإرادته، وهو أعمق من مجرد الرضا."
+        "definition_simple_ar": "قد إيش الموظف مرتبط بشغله ويبذل جهد إضافي بإرادته، وهو أعمق من مجرد الرضا.",
+        "level_classification": "generic"
       },
       {
         "catalog_number": 46,
@@ -1312,7 +1357,8 @@
         "owner_dept_name_en": "HR and Support Services Department",
         "participant_dept_name_ar": null,
         "participant_dept_name_en": null,
-        "definition_simple_ar": "كم نسبة الموظفين اللي استقالوا بإرادتهم خلال السنة من متوسط عدد موظفينا."
+        "definition_simple_ar": "كم نسبة الموظفين اللي استقالوا بإرادتهم خلال السنة من متوسط عدد موظفينا.",
+        "level_classification": "expert"
       },
       {
         "catalog_number": 47,
@@ -1330,7 +1376,8 @@
         "owner_dept_name_en": "HR and Support Services Department",
         "participant_dept_name_ar": null,
         "participant_dept_name_en": null,
-        "definition_simple_ar": "كم نسبة أيام العمل اللي ضاعت بغياب مفاجئ أو بدون عذر، من إجمالي أيام العمل المتاحة."
+        "definition_simple_ar": "كم نسبة أيام العمل اللي ضاعت بغياب مفاجئ أو بدون عذر، من إجمالي أيام العمل المتاحة.",
+        "level_classification": "generic"
       },
       {
         "catalog_number": 48,
@@ -1348,7 +1395,8 @@
         "owner_dept_name_en": "HR and Support Services Department",
         "participant_dept_name_ar": null,
         "participant_dept_name_en": null,
-        "definition_simple_ar": "كم نسبة أصحاب الأداء العالي والأدوار المهمة اللي بقوا معنا من بداية السنة لنهايتها."
+        "definition_simple_ar": "كم نسبة أصحاب الأداء العالي والأدوار المهمة اللي بقوا معنا من بداية السنة لنهايتها.",
+        "level_classification": "expert"
       },
       {
         "catalog_number": 49,
@@ -1366,7 +1414,8 @@
         "owner_dept_name_en": "HR and Support Services Department",
         "participant_dept_name_ar": null,
         "participant_dept_name_en": null,
-        "definition_simple_ar": "كم نسبة المناصب الحرجة اللي لها بديل واحد على الأقل جاهز يتسلّم المنصب بسرعة."
+        "definition_simple_ar": "كم نسبة المناصب الحرجة اللي لها بديل واحد على الأقل جاهز يتسلّم المنصب بسرعة.",
+        "level_classification": "expert"
       },
       {
         "catalog_number": 50,
@@ -1384,7 +1433,8 @@
         "owner_dept_name_en": "HR and Support Services Department",
         "participant_dept_name_ar": "إدارة الشؤون القانونية",
         "participant_dept_name_en": "Legal Affairs Department",
-        "definition_simple_ar": "كم نسبة السعوديين اللي يشغلون وظائف مستهدفة محددة (مثل مدراء المعارض والمشرفين)، مو السعودة الإجمالية."
+        "definition_simple_ar": "كم نسبة السعوديين اللي يشغلون وظائف مستهدفة محددة (مثل مدراء المعارض والمشرفين)، مو السعودة الإجمالية.",
+        "level_classification": "expert"
       },
       {
         "catalog_number": 51,
@@ -1402,7 +1452,8 @@
         "owner_dept_name_en": "HR and Support Services Department",
         "participant_dept_name_ar": null,
         "participant_dept_name_en": null,
-        "definition_simple_ar": "كم نسبة الوظائف الحرجة اللي عيّنّا لها موظف خلال المدة المستهدفة (٦٠ يوم) من إجمالي اللي شغّلناها."
+        "definition_simple_ar": "كم نسبة الوظائف الحرجة اللي عيّنّا لها موظف خلال المدة المستهدفة (٦٠ يوم) من إجمالي اللي شغّلناها.",
+        "level_classification": "expert"
       },
       {
         "catalog_number": 52,
@@ -1420,7 +1471,8 @@
         "owner_dept_name_en": "HR and Support Services Department",
         "participant_dept_name_ar": null,
         "participant_dept_name_en": null,
-        "definition_simple_ar": "كم نسبة الموظفين المرشّحين للبرامج التدريبية المهمة اللي أكملوها فعلاً من إجمالي المرشّحين."
+        "definition_simple_ar": "كم نسبة الموظفين المرشّحين للبرامج التدريبية المهمة اللي أكملوها فعلاً من إجمالي المرشّحين.",
+        "level_classification": "senior"
       },
       {
         "catalog_number": 53,
@@ -1438,7 +1490,8 @@
         "owner_dept_name_en": "HR and Support Services Department",
         "participant_dept_name_ar": null,
         "participant_dept_name_en": null,
-        "definition_simple_ar": "كم نسبة البرامج التدريبية اللي قسنا أثرها الفعلي على شغل الموظف أو على النتائج، من إجمالي البرامج."
+        "definition_simple_ar": "كم نسبة البرامج التدريبية اللي قسنا أثرها الفعلي على شغل الموظف أو على النتائج، من إجمالي البرامج.",
+        "level_classification": "senior"
       },
       {
         "catalog_number": 54,
@@ -1456,7 +1509,8 @@
         "owner_dept_name_en": "HR and Support Services Department",
         "participant_dept_name_ar": "إدارة المبيعات والعمليات",
         "participant_dept_name_en": "Sales and Operations Department",
-        "definition_simple_ar": "كم إيراد يحقّقه كل موظف في المتوسط خلال السنة، يعني قيمة شغل الفرد بالريال."
+        "definition_simple_ar": "كم إيراد يحقّقه كل موظف في المتوسط خلال السنة، يعني قيمة شغل الفرد بالريال.",
+        "level_classification": "expert"
       },
       {
         "catalog_number": 55,
@@ -1474,7 +1528,8 @@
         "owner_dept_name_en": "HR and Support Services Department",
         "participant_dept_name_ar": null,
         "participant_dept_name_en": null,
-        "definition_simple_ar": "كم موظف من اللي عندهم خطة تطوير خلّصوا فعلاً الأنشطة المتفق عليها في وقتها، من كل ١٠٠."
+        "definition_simple_ar": "كم موظف من اللي عندهم خطة تطوير خلّصوا فعلاً الأنشطة المتفق عليها في وقتها، من كل ١٠٠.",
+        "level_classification": "senior"
       },
       {
         "catalog_number": 56,
@@ -1492,7 +1547,8 @@
         "owner_dept_name_en": "HR and Support Services Department",
         "participant_dept_name_ar": null,
         "participant_dept_name_en": null,
-        "definition_simple_ar": "كم تقييم أداء انختم واعتمده الموظف ومديره قبل الموعد النهائي، من كل ١٠٠ تقييم مطلوب."
+        "definition_simple_ar": "كم تقييم أداء انختم واعتمده الموظف ومديره قبل الموعد النهائي، من كل ١٠٠ تقييم مطلوب.",
+        "level_classification": "generic"
       },
       {
         "catalog_number": 57,
@@ -1510,7 +1566,8 @@
         "owner_dept_name_en": "HR and Support Services Department",
         "participant_dept_name_ar": "إدارة الشؤون القانونية",
         "participant_dept_name_en": "Legal Affairs Department",
-        "definition_simple_ar": "كم موظف صار عليه إجراء تأديبي رسمي من كل ١٠٠ موظف؛ وكل ما قلّ الرقم صار أحسن."
+        "definition_simple_ar": "كم موظف صار عليه إجراء تأديبي رسمي من كل ١٠٠ موظف؛ وكل ما قلّ الرقم صار أحسن.",
+        "level_classification": "generic"
       },
       {
         "catalog_number": 58,
@@ -1528,7 +1585,8 @@
         "owner_dept_name_en": "HR and Support Services Department",
         "participant_dept_name_ar": "إدارة الشؤون القانونية",
         "participant_dept_name_en": "Legal Affairs Department",
-        "definition_simple_ar": "كم تظلّم أو ملاحظة من الموظفين انحلّت وانقفلت داخل المدة اللي حددتها السياسة، من كل ١٠٠."
+        "definition_simple_ar": "كم تظلّم أو ملاحظة من الموظفين انحلّت وانقفلت داخل المدة اللي حددتها السياسة، من كل ١٠٠.",
+        "level_classification": "senior"
       },
       {
         "catalog_number": 59,
@@ -1546,7 +1604,8 @@
         "owner_dept_name_en": "Sales and Operations Department",
         "participant_dept_name_ar": "إدارة تقنية المعلومات",
         "participant_dept_name_en": "IT Department",
-        "definition_simple_ar": "كم مشروع من اللي كان مخطط يخلص هالفترة فعلاً انجز في موعده، من كل ١٠٠ مشروع."
+        "definition_simple_ar": "كم مشروع من اللي كان مخطط يخلص هالفترة فعلاً انجز في موعده، من كل ١٠٠ مشروع.",
+        "level_classification": "expert"
       },
       {
         "catalog_number": 60,
@@ -1564,7 +1623,8 @@
         "owner_dept_name_en": "IT Department",
         "participant_dept_name_ar": "إدارة المبيعات والعمليات",
         "participant_dept_name_en": "Sales and Operations Department",
-        "definition_simple_ar": "كم إجراء داخلي حوّلناه من يدوي إلى مؤتمت، من إجمالي الإجراءات اللي قررنا نأتمتها."
+        "definition_simple_ar": "كم إجراء داخلي حوّلناه من يدوي إلى مؤتمت، من إجمالي الإجراءات اللي قررنا نأتمتها.",
+        "level_classification": "expert"
       },
       {
         "catalog_number": 61,
@@ -1582,7 +1642,8 @@
         "owner_dept_name_en": "Sales and Operations Department",
         "participant_dept_name_ar": "إدارة تقنية المعلومات",
         "participant_dept_name_en": "IT Department",
-        "definition_simple_ar": "كم طلب بين الإدارات انجز داخل الوقت المتفق عليه في اتفاقية الخدمة، من كل ١٠٠ طلب."
+        "definition_simple_ar": "كم طلب بين الإدارات انجز داخل الوقت المتفق عليه في اتفاقية الخدمة، من كل ١٠٠ طلب.",
+        "level_classification": "generic"
       },
       {
         "catalog_number": 62,
@@ -1600,7 +1661,8 @@
         "owner_dept_name_en": "IT Department",
         "participant_dept_name_ar": "إدارة المبيعات والعمليات",
         "participant_dept_name_en": "Sales and Operations Department",
-        "definition_simple_ar": "كم نسبة من ساعات الدوام تشتغل فيها الأنظمة المهمة (الكاشير وERP والمتجر) بدون توقف مفاجئ."
+        "definition_simple_ar": "كم نسبة من ساعات الدوام تشتغل فيها الأنظمة المهمة (الكاشير وERP والمتجر) بدون توقف مفاجئ.",
+        "level_classification": "expert"
       },
       {
         "catalog_number": 63,
@@ -1618,7 +1680,8 @@
         "owner_dept_name_en": "Sales and Operations Department",
         "participant_dept_name_ar": "إدارة تقنية المعلومات",
         "participant_dept_name_en": "IT Department",
-        "definition_simple_ar": "كم تقرير دوري طلع بدون أخطاء جوهرية تأثر على القرار، من كل ١٠٠ تقرير صادر."
+        "definition_simple_ar": "كم تقرير دوري طلع بدون أخطاء جوهرية تأثر على القرار، من كل ١٠٠ تقرير صادر.",
+        "level_classification": "senior"
       },
       {
         "catalog_number": 64,
@@ -1636,7 +1699,8 @@
         "owner_dept_name_en": "Sales and Operations Department",
         "participant_dept_name_ar": "إدارة خدمات ما بعد البيع",
         "participant_dept_name_en": "After-Sales Service Department",
-        "definition_simple_ar": "كم بلاغ صيانة في الفروع انقفل داخل الوقت المتفق عليه، من كل ١٠٠ بلاغ وصلنا."
+        "definition_simple_ar": "كم بلاغ صيانة في الفروع انقفل داخل الوقت المتفق عليه، من كل ١٠٠ بلاغ وصلنا.",
+        "level_classification": "senior"
       },
       {
         "catalog_number": 65,
@@ -1654,7 +1718,8 @@
         "owner_dept_name_en": "Sales and Operations Department",
         "participant_dept_name_ar": "إدارة تقنية المعلومات",
         "participant_dept_name_en": "IT Department",
-        "definition_simple_ar": "كم ساعة بالمتوسط ناخذ عشان نبدأ نشتغل على العطل الحرج بعد ما ينبلغ عنه؛ وكل ما قلّت الساعات صار أحسن."
+        "definition_simple_ar": "كم ساعة بالمتوسط ناخذ عشان نبدأ نشتغل على العطل الحرج بعد ما ينبلغ عنه؛ وكل ما قلّت الساعات صار أحسن.",
+        "level_classification": "senior"
       },
       {
         "catalog_number": 66,
@@ -1672,7 +1737,8 @@
         "owner_dept_name_en": "Sales and Operations Department",
         "participant_dept_name_ar": "إدارة سلاسل الإمداد والتوريد",
         "participant_dept_name_en": "Supply Chain Department",
-        "definition_simple_ar": "كم مهمة صيانة وقائية مجدولة سوّيناها في وقتها، من إجمالي المهام اللي بالخطة."
+        "definition_simple_ar": "كم مهمة صيانة وقائية مجدولة سوّيناها في وقتها، من إجمالي المهام اللي بالخطة.",
+        "level_classification": "senior"
       },
       {
         "catalog_number": 67,
@@ -1690,7 +1756,8 @@
         "owner_dept_name_en": "Sales and Operations Department",
         "participant_dept_name_ar": "إدارة تقنية المعلومات",
         "participant_dept_name_en": "IT Department",
-        "definition_simple_ar": "كم عطل رجع لنفس الجهاز خلال ٣٠ يوم، من كل ١٠٠ عطل؛ وكل ما قلّ الرقم دلّ إن الإصلاح جذري."
+        "definition_simple_ar": "كم عطل رجع لنفس الجهاز خلال ٣٠ يوم، من كل ١٠٠ عطل؛ وكل ما قلّ الرقم دلّ إن الإصلاح جذري.",
+        "level_classification": "senior"
       },
       {
         "catalog_number": 68,
@@ -1708,7 +1775,8 @@
         "owner_dept_name_en": "Sales and Operations Department",
         "participant_dept_name_ar": "الإدارة المالية",
         "participant_dept_name_en": "Finance Department",
-        "definition_simple_ar": "كم نصرف على الصيانة (قطع غيار وعمالة) لكل فرع بالمتوسط في الشهر؛ وكل ما قلّ المبلغ صار أوفر."
+        "definition_simple_ar": "كم نصرف على الصيانة (قطع غيار وعمالة) لكل فرع بالمتوسط في الشهر؛ وكل ما قلّ المبلغ صار أوفر.",
+        "level_classification": "expert"
       },
       {
         "catalog_number": 69,
@@ -1726,7 +1794,8 @@
         "owner_dept_name_en": "Sales and Operations Department",
         "participant_dept_name_ar": "إدارة سلاسل الإمداد والتوريد",
         "participant_dept_name_en": "Supply Chain Department",
-        "definition_simple_ar": "كم درجة حقق الفرع في قائمة التحقق (إنارة وتكييف ونظافة وأجهزة)، من إجمالي الدرجات الممكنة."
+        "definition_simple_ar": "كم درجة حقق الفرع في قائمة التحقق (إنارة وتكييف ونظافة وأجهزة)، من إجمالي الدرجات الممكنة.",
+        "level_classification": "senior"
       },
       {
         "catalog_number": 70,
@@ -1744,7 +1813,8 @@
         "owner_dept_name_en": "HR and Support Services Department",
         "participant_dept_name_ar": "الإدارة المالية",
         "participant_dept_name_en": "Finance Department",
-        "definition_simple_ar": "كم مورّد خدمة طلع تقييمه «ملتزم» ببنود العقد، من كل ١٠٠ تقييم سوّيناه للموردين."
+        "definition_simple_ar": "كم مورّد خدمة طلع تقييمه «ملتزم» ببنود العقد، من كل ١٠٠ تقييم سوّيناه للموردين.",
+        "level_classification": "expert"
       },
       {
         "catalog_number": 71,
@@ -1762,7 +1832,8 @@
         "owner_dept_name_en": "Legal Affairs Department",
         "participant_dept_name_ar": "الإدارة المالية",
         "participant_dept_name_en": "Finance Department",
-        "definition_simple_ar": "كم قرار أو معاملة صارت من الشخص صاحب الصلاحية الصحيحة، من كل ١٠٠ معاملة فحصناها."
+        "definition_simple_ar": "كم قرار أو معاملة صارت من الشخص صاحب الصلاحية الصحيحة، من كل ١٠٠ معاملة فحصناها.",
+        "level_classification": "generic"
       },
       {
         "catalog_number": 72,
@@ -1780,7 +1851,8 @@
         "owner_dept_name_en": "Legal Affairs Department",
         "participant_dept_name_ar": "إدارة الموارد البشرية والخدمات المساندة",
         "participant_dept_name_en": "HR and Support Services Department",
-        "definition_simple_ar": "كم عملية انفحصت وطلعت متوافقة مع السياسات والإجراءات المعتمدة، من كل ١٠٠ عملية."
+        "definition_simple_ar": "كم عملية انفحصت وطلعت متوافقة مع السياسات والإجراءات المعتمدة، من كل ١٠٠ عملية.",
+        "level_classification": "generic"
       },
       {
         "catalog_number": 73,
@@ -1798,7 +1870,8 @@
         "owner_dept_name_en": "Legal Affairs Department",
         "participant_dept_name_ar": "الإدارة المالية",
         "participant_dept_name_en": "Finance Department",
-        "definition_simple_ar": "كم ملاحظة من ملاحظات المراجعة قفلناها في وقتها المحدد من كل ١٠٠ ملاحظة لازم تُقفل."
+        "definition_simple_ar": "كم ملاحظة من ملاحظات المراجعة قفلناها في وقتها المحدد من كل ١٠٠ ملاحظة لازم تُقفل.",
+        "level_classification": "senior"
       },
       {
         "catalog_number": 74,
@@ -1816,7 +1889,8 @@
         "owner_dept_name_en": "Legal Affairs Department",
         "participant_dept_name_ar": "الإدارة المالية",
         "participant_dept_name_en": "Finance Department",
-        "definition_simple_ar": "كم ملاحظة مهمة أو تكررت من تقارير قبل، لأن تكرارها يعني فيه خلل ما اتعالج."
+        "definition_simple_ar": "كم ملاحظة مهمة أو تكررت من تقارير قبل، لأن تكرارها يعني فيه خلل ما اتعالج.",
+        "level_classification": "expert"
       },
       {
         "catalog_number": 75,
@@ -1834,7 +1908,8 @@
         "owner_dept_name_en": "Legal Affairs Department",
         "participant_dept_name_ar": "الإدارة المالية",
         "participant_dept_name_en": "Finance Department",
-        "definition_simple_ar": "كم خطر كبير عالجناه وطبقنا خطته في وقته من كل ١٠٠ خطر كبير لازم نعالجه."
+        "definition_simple_ar": "كم خطر كبير عالجناه وطبقنا خطته في وقته من كل ١٠٠ خطر كبير لازم نعالجه.",
+        "level_classification": "expert"
       },
       {
         "catalog_number": 76,
@@ -1852,7 +1927,8 @@
         "owner_dept_name_en": "Legal Affairs Department",
         "participant_dept_name_ar": "الإدارة المالية",
         "participant_dept_name_en": "Finance Department",
-        "definition_simple_ar": "كم تقرير من التقارير المطلوبة للمجلس واللجان سلّمناه في وقته من كل ١٠٠ تقرير مطلوب."
+        "definition_simple_ar": "كم تقرير من التقارير المطلوبة للمجلس واللجان سلّمناه في وقته من كل ١٠٠ تقرير مطلوب.",
+        "level_classification": "expert"
       },
       {
         "catalog_number": 77,
@@ -1870,7 +1946,8 @@
         "owner_dept_name_en": "Legal Affairs Department",
         "participant_dept_name_ar": "الإدارة المالية",
         "participant_dept_name_en": "Finance Department",
-        "definition_simple_ar": "كم متطلب من متطلبات الإفصاح والحوكمة (هيئة السوق المالية وتداول) التزمنا فيه من كل ١٠٠ متطلب علينا."
+        "definition_simple_ar": "كم متطلب من متطلبات الإفصاح والحوكمة (هيئة السوق المالية وتداول) التزمنا فيه من كل ١٠٠ متطلب علينا.",
+        "level_classification": "expert"
       },
       {
         "catalog_number": 78,
@@ -1888,7 +1965,8 @@
         "owner_dept_name_en": "Legal Affairs Department",
         "participant_dept_name_ar": "إدارة الموارد البشرية والخدمات المساندة",
         "participant_dept_name_en": "HR and Support Services Department",
-        "definition_simple_ar": "كم مخالفة أو غرامة رسمية جتنا من الجهات التنظيمية (هيئة السوق، التجارة، الزكاة والضريبة) خلال الفترة."
+        "definition_simple_ar": "كم مخالفة أو غرامة رسمية جتنا من الجهات التنظيمية (هيئة السوق، التجارة، الزكاة والضريبة) خلال الفترة.",
+        "level_classification": "expert"
       },
       {
         "catalog_number": 79,
@@ -1906,7 +1984,8 @@
         "owner_dept_name_en": "Legal Affairs Department",
         "participant_dept_name_ar": "الإدارة المالية",
         "participant_dept_name_en": "Finance Department",
-        "definition_simple_ar": "كم عقد أو قرار مشى على دورة الاعتماد الرسمية صح من كل ١٠٠ عقد أو قرار فحصناه."
+        "definition_simple_ar": "كم عقد أو قرار مشى على دورة الاعتماد الرسمية صح من كل ١٠٠ عقد أو قرار فحصناه.",
+        "level_classification": "generic"
       },
       {
         "catalog_number": 80,
@@ -1924,7 +2003,8 @@
         "owner_dept_name_en": "Legal Affairs Department",
         "participant_dept_name_ar": "إدارة الموارد البشرية والخدمات المساندة",
         "participant_dept_name_en": "HR and Support Services Department",
-        "definition_simple_ar": "كم سياسة أو لائحة راجعناها وحدّثناها في موعدها من كل ١٠٠ سياسة مستحقة للمراجعة."
+        "definition_simple_ar": "كم سياسة أو لائحة راجعناها وحدّثناها في موعدها من كل ١٠٠ سياسة مستحقة للمراجعة.",
+        "level_classification": "senior"
       },
       {
         "catalog_number": 81,
@@ -1942,7 +2022,8 @@
         "owner_dept_name_en": "Legal Affairs Department",
         "participant_dept_name_ar": "الإدارة المالية",
         "participant_dept_name_en": "Finance Department",
-        "definition_simple_ar": "كم حالة تعارض مصالح أو طرف ذي علاقة عالجناها وأفصحنا عنها صح من كل ١٠٠ حالة اكتشفناها."
+        "definition_simple_ar": "كم حالة تعارض مصالح أو طرف ذي علاقة عالجناها وأفصحنا عنها صح من كل ١٠٠ حالة اكتشفناها.",
+        "level_classification": "expert"
       },
       {
         "catalog_number": 82,
@@ -1960,7 +2041,8 @@
         "owner_dept_name_en": "Marketing and E-Commerce Department",
         "participant_dept_name_ar": "الإدارة المالية",
         "participant_dept_name_en": "Finance Department",
-        "definition_simple_ar": "كم ريال إيراد صافي إضافي رجع لنا مقابل كل ريال صرفناه على التسويق المدفوع."
+        "definition_simple_ar": "كم ريال إيراد صافي إضافي رجع لنا مقابل كل ريال صرفناه على التسويق المدفوع.",
+        "level_classification": "expert"
       },
       {
         "catalog_number": 83,
@@ -1978,7 +2060,8 @@
         "owner_dept_name_en": "Marketing and E-Commerce Department",
         "participant_dept_name_ar": "الإدارة المالية",
         "participant_dept_name_en": "Finance Department",
-        "definition_simple_ar": "كم ريال نصرف بالمتوسط على التسويق عشان نكسب عميل جديد يسوي أول شرايه عبر القنوات الرقمية."
+        "definition_simple_ar": "كم ريال نصرف بالمتوسط على التسويق عشان نكسب عميل جديد يسوي أول شرايه عبر القنوات الرقمية.",
+        "level_classification": "expert"
       },
       {
         "catalog_number": 84,
@@ -1996,7 +2079,8 @@
         "owner_dept_name_en": "Marketing and E-Commerce Department",
         "participant_dept_name_ar": "إدارة العناية بالعملاء",
         "participant_dept_name_en": "Customer Care Department",
-        "definition_simple_ar": "كم عميل من كل ١٠٠ اشترى رقمياً رجع وسوّى شراية ثانية خلال ٩٠ يوم."
+        "definition_simple_ar": "كم عميل من كل ١٠٠ اشترى رقمياً رجع وسوّى شراية ثانية خلال ٩٠ يوم.",
+        "level_classification": "expert"
       },
       {
         "catalog_number": 85,
@@ -2014,7 +2098,8 @@
         "owner_dept_name_en": "Marketing and E-Commerce Department",
         "participant_dept_name_ar": "إدارة تقنية المعلومات",
         "participant_dept_name_en": "IT Department",
-        "definition_simple_ar": "كم رسالة وإشعار اتفتحوا من كل ١٠٠ رسالة وإشعار وصلوا للعملاء."
+        "definition_simple_ar": "كم رسالة وإشعار اتفتحوا من كل ١٠٠ رسالة وإشعار وصلوا للعملاء.",
+        "level_classification": "senior"
       },
       {
         "catalog_number": 86,
@@ -2032,7 +2117,8 @@
         "owner_dept_name_en": "Marketing and E-Commerce Department",
         "participant_dept_name_ar": "إدارة تقنية المعلومات",
         "participant_dept_name_en": "IT Department",
-        "definition_simple_ar": "كم من مستخدمي التطبيق الشهريين يدخلون كل يوم، يعني قد إيش صار التطبيق عادة يومية عندهم."
+        "definition_simple_ar": "كم من مستخدمي التطبيق الشهريين يدخلون كل يوم، يعني قد إيش صار التطبيق عادة يومية عندهم.",
+        "level_classification": "expert"
       },
       {
         "catalog_number": 87,
@@ -2050,7 +2136,8 @@
         "owner_dept_name_en": "Marketing and E-Commerce Department",
         "participant_dept_name_ar": "إدارة سلاسل الإمداد والتوريد",
         "participant_dept_name_en": "Supply Chain Department",
-        "definition_simple_ar": "كم صفحة منتج في المتجر والتطبيق مستوفية كل معايير الجودة الست من كل ١٠٠ صفحة منتج نشطة."
+        "definition_simple_ar": "كم صفحة منتج في المتجر والتطبيق مستوفية كل معايير الجودة الست من كل ١٠٠ صفحة منتج نشطة.",
+        "level_classification": "senior"
       },
       {
         "catalog_number": 88,
@@ -2068,7 +2155,8 @@
         "owner_dept_name_en": "Marketing and E-Commerce Department",
         "participant_dept_name_ar": "إدارة العناية بالعملاء",
         "participant_dept_name_en": "Customer Care Department",
-        "definition_simple_ar": "قد إيش الناس تتفاعل (إعجاب وتعليق ومشاركة وحفظ) مع منشوراتنا نسبةً لعدد المتابعين."
+        "definition_simple_ar": "قد إيش الناس تتفاعل (إعجاب وتعليق ومشاركة وحفظ) مع منشوراتنا نسبةً لعدد المتابعين.",
+        "level_classification": "expert"
       },
       {
         "catalog_number": 89,
@@ -2086,7 +2174,8 @@
         "owner_dept_name_en": "Marketing and E-Commerce Department",
         "participant_dept_name_ar": "إدارة العناية بالعملاء",
         "participant_dept_name_en": "Customer Care Department",
-        "definition_simple_ar": "درجة مركّبة من ٠ لـ ١٠٠ تجمع المشاعر الإيجابية عن العلامة، والوعي العفوي فيها، ومتوسط تقييمها في متاجر التطبيقات."
+        "definition_simple_ar": "درجة مركّبة من ٠ لـ ١٠٠ تجمع المشاعر الإيجابية عن العلامة، والوعي العفوي فيها، ومتوسط تقييمها في متاجر التطبيقات.",
+        "level_classification": "expert"
       }
     ],
     "by_catalog": {
@@ -2238,7 +2327,8 @@
           ]
         },
         "definition_simple_ar": "كم حققنا من خطة المبيعات اللي وعدنا فيها، من كل ١٠٠ ريال مستهدف نشوف وش اللي دخل فعلاً.",
-        "worked_example_ar": "لو خطتنا للشهر ٨٠ مليون ريال وحققنا ٧٦ مليون → النسبة = ٩٥٪ ✓ (أخضر، لأنها ٩٥٪ فأعلى). لو نزلنا تحت ٨٥٪ نصير في الأحمر ولازم نعرف السبب ونصحح."
+        "worked_example_ar": "لو خطتنا للشهر ٨٠ مليون ريال وحققنا ٧٦ مليون → النسبة = ٩٥٪ ✓ (أخضر، لأنها ٩٥٪ فأعلى). لو نزلنا تحت ٨٥٪ نصير في الأحمر ولازم نعرف السبب ونصحح.",
+        "level_classification": "expert"
       },
       "2": {
         "catalog_number": 2,
@@ -2385,7 +2475,8 @@
           ]
         },
         "definition_simple_ar": "كم حققنا من الربح الصافي المستهدف بعد ما نخصم كل التكاليف والمصاريف، من كل ١٠٠ ريال ربح مخطط.",
-        "worked_example_ar": "لو المستهدف ربح صافي ٦٥ مليون ريال وحققنا ٦٠ مليون → النسبة = ٩٢٪ ✓ (أخضر، ٩٥٪ فأقل بقليل لكنها فوق ٨٥٪ ودخلت المنطقة الجيدة). تحت ٨٥٪ تصير أحمر. المهم نبيع بذكاء وننفق بانضباط، مو بس مبيعات عالية."
+        "worked_example_ar": "لو المستهدف ربح صافي ٦٥ مليون ريال وحققنا ٦٠ مليون → النسبة = ٩٢٪ ✓ (أخضر، ٩٥٪ فأقل بقليل لكنها فوق ٨٥٪ ودخلت المنطقة الجيدة). تحت ٨٥٪ تصير أحمر. المهم نبيع بذكاء وننفق بانضباط، مو بس مبيعات عالية.",
+        "level_classification": "expert"
       },
       "3": {
         "catalog_number": 3,
@@ -2508,7 +2599,8 @@
           ]
         },
         "definition_simple_ar": "كم يتبقى لنا من كل ١٠٠ ريال مبيعات بعد ما نخصم تكلفة شراء البضاعة نفسها.",
-        "worked_example_ar": "لو بعنا بـ ١٠٠٠ ريال وتكلفة البضاعة ٧٥٥ ريال → يتبقى ٢٤٥، يعني الهامش ٢٤٫٥٪ ✓ (وصلنا المستهدف ٢٤٫٥٪ وفوق الأساس ٢٣٫٥٪ حقّ ٢٠٢٥). نرفعه عن طريق العلامات الخاصة وضبط التخفيضات."
+        "worked_example_ar": "لو بعنا بـ ١٠٠٠ ريال وتكلفة البضاعة ٧٥٥ ريال → يتبقى ٢٤٥، يعني الهامش ٢٤٫٥٪ ✓ (وصلنا المستهدف ٢٤٫٥٪ وفوق الأساس ٢٣٫٥٪ حقّ ٢٠٢٥). نرفعه عن طريق العلامات الخاصة وضبط التخفيضات.",
+        "level_classification": "expert"
       },
       "4": {
         "catalog_number": 4,
@@ -2631,7 +2723,8 @@
           ]
         },
         "definition_simple_ar": "كم يتبقى لنا ربح من عملياتنا الأساسية من كل ١٠٠ ريال إيراد، قبل الفوائد والضرائب.",
-        "worked_example_ar": "لو صافي الإيرادات ١٠٠ مليون والدخل التشغيلي ١٠ مليون → الهامش = ١٠٪ ✓ (أخضر، لأنه ١٥٪ المثالي لكن ١٠٪ فوق الأساس ٩٫٣٪ ودخل المنطقة الجيدة). تحت ٥٪ يصير أحمر. السر إن الإيراد ينمو والمصاريف ما تنمو بنفس السرعة."
+        "worked_example_ar": "لو صافي الإيرادات ١٠٠ مليون والدخل التشغيلي ١٠ مليون → الهامش = ١٠٪ ✓ (أخضر، لأنه ١٥٪ المثالي لكن ١٠٪ فوق الأساس ٩٫٣٪ ودخل المنطقة الجيدة). تحت ٥٪ يصير أحمر. السر إن الإيراد ينمو والمصاريف ما تنمو بنفس السرعة.",
+        "level_classification": "expert"
       },
       "5": {
         "catalog_number": 5,
@@ -2756,7 +2849,8 @@
           ]
         },
         "definition_simple_ar": "كم تجاوزنا أو قللنا عن المصاريف اللي خططنا لها، وهنا كل ما النسبة أقل كان أحسن.",
-        "worked_example_ar": "لو الميزانية المعتمدة للمصاريف ١٠٠ مليون وصرفنا فعلاً ١٠٤ مليون → الانحراف = ٤٪ ✓ (أخضر، لأنه ٥٪ فأقل). لو تجاوزنا وصرفنا ١١٦ مليون يصير الانحراف ١٦٪ وندخل الأحمر. المهم أي تجاوز يكون موثّق ومعتمد مسبقاً."
+        "worked_example_ar": "لو الميزانية المعتمدة للمصاريف ١٠٠ مليون وصرفنا فعلاً ١٠٤ مليون → الانحراف = ٤٪ ✓ (أخضر، لأنه ٥٪ فأقل). لو تجاوزنا وصرفنا ١١٦ مليون يصير الانحراف ١٦٪ وندخل الأحمر. المهم أي تجاوز يكون موثّق ومعتمد مسبقاً.",
+        "level_classification": "expert"
       },
       "6": {
         "catalog_number": 6,
@@ -2879,7 +2973,8 @@
           ]
         },
         "definition_simple_ar": "كم حققت فروعنا من مبيعاتها المستهدفة، من كل ١٠٠ ريال مخطط لكل المعارض.",
-        "worked_example_ar": "لو مستهدف الفروع للربع ٥٠ مليون ريال وحققوا ٤٨ مليون → النسبة = ٩٦٪ ✓ (أخضر، ٩٥٪ فأعلى). لو نزلت تحت ٨٥٪ نصير في الأحمر. ونراقب إن ما يتأخر فرع عن البقية بفارق كبير."
+        "worked_example_ar": "لو مستهدف الفروع للربع ٥٠ مليون ريال وحققوا ٤٨ مليون → النسبة = ٩٦٪ ✓ (أخضر، ٩٥٪ فأعلى). لو نزلت تحت ٨٥٪ نصير في الأحمر. ونراقب إن ما يتأخر فرع عن البقية بفارق كبير.",
+        "level_classification": "senior"
       },
       "7": {
         "catalog_number": 7,
@@ -2981,7 +3076,8 @@
           ]
         },
         "definition_simple_ar": "كم زادت مبيعاتنا هالسنة مقارنة بنفس الفترة من السنة اللي قبلها.",
-        "worked_example_ar": "لو مبيعات ٢٠٢٥ كانت ٧٥٨ مليون ريال ووصلنا في ٢٠٢٦ إلى ٧٩٥ مليون → النمو = ٥٪ تقريباً ✓ (أخضر، ٥٪ فأعلى... والمستهدف الطموح ١٢٪). لو النمو صفر أو تحت نصير في الأحمر. نبي ننمو أسرع من العام اللي راح."
+        "worked_example_ar": "لو مبيعات ٢٠٢٥ كانت ٧٥٨ مليون ريال ووصلنا في ٢٠٢٦ إلى ٧٩٥ مليون → النمو = ٥٪ تقريباً ✓ (أخضر، ٥٪ فأعلى... والمستهدف الطموح ١٢٪). لو النمو صفر أو تحت نصير في الأحمر. نبي ننمو أسرع من العام اللي راح.",
+        "level_classification": "expert"
       },
       "8": {
         "catalog_number": 8,
@@ -3110,7 +3206,8 @@
           ]
         },
         "definition_simple_ar": "كم زادت مبيعات المتجر الإلكتروني هالسنة مقارنة بالسنة اللي قبلها.",
-        "worked_example_ar": "لو إيرادات المتجر كانت ٩٤ مليون ريال في ٢٠٢٥ ووصلت ١١٨ مليون في ٢٠٢٦ → النمو = ٢٥٪ تقريباً ✓ (أخضر، ١٥٪ فأعلى، والطموح ٢٥٪). تحت ٥٪ يصير أحمر. ونبي المتجر ينمو أسرع من الفروع وبدون تخفيضات دائمة."
+        "worked_example_ar": "لو إيرادات المتجر كانت ٩٤ مليون ريال في ٢٠٢٥ ووصلت ١١٨ مليون في ٢٠٢٦ → النمو = ٢٥٪ تقريباً ✓ (أخضر، ١٥٪ فأعلى، والطموح ٢٥٪). تحت ٥٪ يصير أحمر. ونبي المتجر ينمو أسرع من الفروع وبدون تخفيضات دائمة.",
+        "level_classification": "expert"
       },
       "9": {
         "catalog_number": 9,
@@ -3239,7 +3336,8 @@
           ]
         },
         "definition_simple_ar": "كم ريال من كل ١٠٠ ريال إيراد جانا عن طريق المتجر الإلكتروني بدل الفروع.",
-        "worked_example_ar": "لو إجمالي إيرادات الشركة ٨٠٠ مليون ومنها ١١٢ مليون من المتجر الإلكتروني → الحصة = ١٤٪ ✓ (أخضر، ٢٠٪ المثالي و١٤٪ فوق الأساس ١٢٫٤٪ وداخلة المنطقة الجيدة). تحت ١٠٪ تصير أحمر. والهدف إن الرقمي ينمو بدون ما ياكل من مبيعات الفروع."
+        "worked_example_ar": "لو إجمالي إيرادات الشركة ٨٠٠ مليون ومنها ١١٢ مليون من المتجر الإلكتروني → الحصة = ١٤٪ ✓ (أخضر، ٢٠٪ المثالي و١٤٪ فوق الأساس ١٢٫٤٪ وداخلة المنطقة الجيدة). تحت ١٠٪ تصير أحمر. والهدف إن الرقمي ينمو بدون ما ياكل من مبيعات الفروع.",
+        "level_classification": "expert"
       },
       "10": {
         "catalog_number": 10,
@@ -3368,7 +3466,8 @@
           ]
         },
         "definition_simple_ar": "من كل ١٠٠ زائر يدخلون المتجر الإلكتروني، كم واحد منهم يكمّل عملية شراء فعلاً.",
-        "worked_example_ar": "لو دخل المتجر ١٠٠٠ زائر وكمّلوا ٢٥ طلب → المعدل = ٢٫٥٪ ✓ (يحقق المستهدف ٢٫٥٪، والأساس الأخضر ٣٪ فأعلى). تحت الصفر يصير أحمر. نرفعه بصفحات أسرع وبحث أفضل ودفع سلس."
+        "worked_example_ar": "لو دخل المتجر ١٠٠٠ زائر وكمّلوا ٢٥ طلب → المعدل = ٢٫٥٪ ✓ (يحقق المستهدف ٢٫٥٪، والأساس الأخضر ٣٪ فأعلى). تحت الصفر يصير أحمر. نرفعه بصفحات أسرع وبحث أفضل ودفع سلس.",
+        "level_classification": "senior"
       },
       "11": {
         "catalog_number": 11,
@@ -3497,7 +3596,8 @@
           ]
         },
         "definition_simple_ar": "كم ينفق العميل في المتوسط في كل طلب يطلبه من المتجر الإلكتروني.",
-        "worked_example_ar": "لو إجمالي إيرادات المتجر ٤٥٠ ألف ريال على ١٠٠٠ طلب → المتوسط = ٤٥٠ ريال ✓ (يحقق المستهدف ٤٥٠ ريال، والأساس الأخضر ٣٥٠ فأعلى). تحت ٣١٥ ريال يصير أحمر. نرفعه بالعروض المجمّعة والشحن المجاني عند حد معين."
+        "worked_example_ar": "لو إجمالي إيرادات المتجر ٤٥٠ ألف ريال على ١٠٠٠ طلب → المتوسط = ٤٥٠ ريال ✓ (يحقق المستهدف ٤٥٠ ريال، والأساس الأخضر ٣٥٠ فأعلى). تحت ٣١٥ ريال يصير أحمر. نرفعه بالعروض المجمّعة والشحن المجاني عند حد معين.",
+        "level_classification": "senior"
       },
       "12": {
         "catalog_number": 12,
@@ -3626,7 +3726,8 @@
           ]
         },
         "definition_simple_ar": "من كل ١٠٠ طلب يدخل على المتجر، كم طلب وصل للعميل بنجاح بدون إلغاء أو إرجاع بسبب خطأ منا.",
-        "worked_example_ar": "لو استلمنا ١٠٠٠ طلب ووصل منها ٩٧٠ طلب بنجاح → النسبة = ٩٧٪ ✓ (أخضر، ٩٦٪ فأعلى، والمستهدف ٩٧٪). تحت ٨٦٪ تصير أحمر. يعني العميل يستلم طلبه بدون مشاكل ويندر الإلغاء بسببنا."
+        "worked_example_ar": "لو استلمنا ١٠٠٠ طلب ووصل منها ٩٧٠ طلب بنجاح → النسبة = ٩٧٪ ✓ (أخضر، ٩٦٪ فأعلى، والمستهدف ٩٧٪). تحت ٨٦٪ تصير أحمر. يعني العميل يستلم طلبه بدون مشاكل ويندر الإلغاء بسببنا.",
+        "level_classification": "junior"
       },
       "13": {
         "catalog_number": 13,
@@ -3749,7 +3850,8 @@
           ]
         },
         "definition_simple_ar": "كم حقق البائع أو الفريق من المبيعات المستهدفة له، من كل ١٠٠ ريال مطلوب منه.",
-        "worked_example_ar": "لو مستهدف الفريق للربع ٢ مليون ريال وحققوا ١٫٩ مليون → النسبة = ٩٥٪ ✓ (أخضر، ٩٢٪ فأعلى، والمستهدف ٩٥٪). تحت ٨٢٪ يصير أحمر. وكل بائع يعرف رقمه والمشرف ينبّه المتأخر بدري."
+        "worked_example_ar": "لو مستهدف الفريق للربع ٢ مليون ريال وحققوا ١٫٩ مليون → النسبة = ٩٥٪ ✓ (أخضر، ٩٢٪ فأعلى، والمستهدف ٩٥٪). تحت ٨٢٪ يصير أحمر. وكل بائع يعرف رقمه والمشرف ينبّه المتأخر بدري.",
+        "level_classification": "senior"
       },
       "14": {
         "catalog_number": 14,
@@ -3872,7 +3974,8 @@
           ]
         },
         "definition_simple_ar": "من كل ١٠٠ موظف بيع مطلوب منه تدريب، كم واحد منهم خلّص التدريب الإلزامي على المنتجات والعروض.",
-        "worked_example_ar": "لو المستهدفين للتدريب ٢٠٠ موظف وأكمله ١٩٠ → النسبة = ٩٥٪ ✓ (أخضر، ٩٥٪ فأعلى). تحت ٨٥٪ تصير أحمر. الهدف إن ما يوقف بائع أمام منتج وهو ما يعرف مزاياه؛ التدريب يكتمل قبل العرض مو بعده."
+        "worked_example_ar": "لو المستهدفين للتدريب ٢٠٠ موظف وأكمله ١٩٠ → النسبة = ٩٥٪ ✓ (أخضر، ٩٥٪ فأعلى). تحت ٨٥٪ تصير أحمر. الهدف إن ما يوقف بائع أمام منتج وهو ما يعرف مزاياه؛ التدريب يكتمل قبل العرض مو بعده.",
+        "level_classification": "generic"
       },
       "15": {
         "catalog_number": 15,
@@ -3985,7 +4088,8 @@
           ]
         },
         "definition_simple_ar": "كم نقطة جمعها الفرع من قائمة معايير البيع والخدمة، من أصل المجموع الكامل للنقاط.",
-        "worked_example_ar": "لو زيارة المتسوق السري فيها ٥٠ نقطة وحقق الفرع ٤٥ → النسبة = ٩٠٪ ✓ (أخضر، ٩٠٪ فأعلى). تحت ٨٠٪ تصير أحمر. الهدف إن العميل يلقى نفس مستوى الاستقبال والشرح في أي فرع، مهما كان الموظف الموجود."
+        "worked_example_ar": "لو زيارة المتسوق السري فيها ٥٠ نقطة وحقق الفرع ٤٥ → النسبة = ٩٠٪ ✓ (أخضر، ٩٠٪ فأعلى). تحت ٨٠٪ تصير أحمر. الهدف إن العميل يلقى نفس مستوى الاستقبال والشرح في أي فرع، مهما كان الموظف الموجود.",
+        "level_classification": "generic"
       },
       "16": {
         "catalog_number": 16,
@@ -4087,7 +4191,8 @@
           ]
         },
         "definition_simple_ar": "كم عميل طلع راضٍ أو راضٍ جداً عن تجربته معنا، من كل ١٠٠ عميل عبّوا الاستبيان.",
-        "worked_example_ar": "لو ٨٨ عميل من أصل ١٠٠ قيّموا تجربتهم راضٍ أو راضٍ جداً → النسبة = ٨٨٪ ✓ (نحقق المستهدف ٨٨٪، أي حوالي ٤٫٢ من ٥ وهو حدّ الأخضر). تحت ٣٫٦ من ٥ يصير أحمر. وأي عميل غير راضٍ نتواصل معه ونعرف السبب."
+        "worked_example_ar": "لو ٨٨ عميل من أصل ١٠٠ قيّموا تجربتهم راضٍ أو راضٍ جداً → النسبة = ٨٨٪ ✓ (نحقق المستهدف ٨٨٪، أي حوالي ٤٫٢ من ٥ وهو حدّ الأخضر). تحت ٣٫٦ من ٥ يصير أحمر. وأي عميل غير راضٍ نتواصل معه ونعرف السبب.",
+        "level_classification": "generic"
       },
       "17": {
         "catalog_number": 17,
@@ -4189,7 +4294,8 @@
           ]
         },
         "definition_simple_ar": "نطرح نسبة العملاء اللي ينتقدوننا من نسبة اللي يرشّحوننا لغيرهم، والناتج يبيّن قوة علاقتنا فيهم.",
-        "worked_example_ar": "لو ٦٠٪ من العملاء مروّجين (قيّموا ٩-١٠) و٢٠٪ منتقدين (٠-٦) → المؤشر = ٦٠ ناقص ٢٠ = +٤٠ نقطة ✓ (نحقق المستهدف +٤٠ وفوق الأساس +٣٥). يعني العميل يرشّح السيف غاليري لأهله وأصحابه من نفسه."
+        "worked_example_ar": "لو ٦٠٪ من العملاء مروّجين (قيّموا ٩-١٠) و٢٠٪ منتقدين (٠-٦) → المؤشر = ٦٠ ناقص ٢٠ = +٤٠ نقطة ✓ (نحقق المستهدف +٤٠ وفوق الأساس +٣٥). يعني العميل يرشّح السيف غاليري لأهله وأصحابه من نفسه.",
+        "level_classification": "expert"
       },
       "18": {
         "catalog_number": 18,
@@ -4312,7 +4418,8 @@
           ]
         },
         "definition_simple_ar": "في المتوسط، كم مرة يشتري العميل الواحد منا خلال السنة بدل ما تكون العلاقة شرّاية وحدة وخلاص.",
-        "worked_example_ar": "لو عندنا ١٠٠٠ عميل فريد وسوّوا بينهم ١٩٠٠ طلب خلال السنة → المعدل = ١٫٩ طلب لكل عميل ✓ (نحقق المستهدف ١٫٩ وفوق الأساس ١٫٨). الهدف إن العميل اللي اشترى مرة يرجع مرة ثانية وثالثة."
+        "worked_example_ar": "لو عندنا ١٠٠٠ عميل فريد وسوّوا بينهم ١٩٠٠ طلب خلال السنة → المعدل = ١٫٩ طلب لكل عميل ✓ (نحقق المستهدف ١٫٩ وفوق الأساس ١٫٨). الهدف إن العميل اللي اشترى مرة يرجع مرة ثانية وثالثة.",
+        "level_classification": "expert"
       },
       "19": {
         "catalog_number": 19,
@@ -4414,7 +4521,8 @@
           ]
         },
         "definition_simple_ar": "كم عميل من كل ١٠٠ رجع واشترى منا مرة ثانية، بدل ما يشتري مرة وحدة ويختفي.",
-        "worked_example_ar": "عندنا ١٠٠٠ عميل، منهم ٤٨٠ اشتروا أكثر من مرة → النسبة = ٤٨٪ ✓ (تجاوزنا المستهدف ٤٥٪). كل ما رجع العميل لنا أكثر، دل إنه راضي ومرتبط فينا."
+        "worked_example_ar": "عندنا ١٠٠٠ عميل، منهم ٤٨٠ اشتروا أكثر من مرة → النسبة = ٤٨٪ ✓ (تجاوزنا المستهدف ٤٥٪). كل ما رجع العميل لنا أكثر، دل إنه راضي ومرتبط فينا.",
+        "level_classification": "expert"
       },
       "20": {
         "catalog_number": 20,
@@ -4559,7 +4667,8 @@
           ]
         },
         "definition_simple_ar": "كم يوم ناخذ بالمتوسط من لحظة تسجيل الشكوى لين نقفلها ويرضى العميل.",
-        "worked_example_ar": "حلّينا ١٠ شكاوى وإجمالي وقت الحل ٢٠ يوم → المتوسط = ٢ يوم ✓ (مطابق للمستهدف ٢ يوم أو أقل). هنا الأقل أحسن، يعني كل ما قصّرنا الوقت كان أفضل."
+        "worked_example_ar": "حلّينا ١٠ شكاوى وإجمالي وقت الحل ٢٠ يوم → المتوسط = ٢ يوم ✓ (مطابق للمستهدف ٢ يوم أو أقل). هنا الأقل أحسن، يعني كل ما قصّرنا الوقت كان أفضل.",
+        "level_classification": "senior"
       },
       "21": {
         "catalog_number": 21,
@@ -4677,7 +4786,8 @@
           ]
         },
         "definition_simple_ar": "كم شكوى من كل ١٠٠ رجعت تنفتح من جديد لنفس المشكلة، لأن الحل أول مرة ما كان كافي.",
-        "worked_example_ar": "أقفلنا ٢٠٠ شكوى، منها ٨ رجعت تنفتح لنفس السبب → النسبة = ٤٪ ✓ (تحت المستهدف ٥٪). هنا الأقل أحسن، لأن الرقم العالي معناه حلولنا ما تثبت."
+        "worked_example_ar": "أقفلنا ٢٠٠ شكوى، منها ٨ رجعت تنفتح لنفس السبب → النسبة = ٤٪ ✓ (تحت المستهدف ٥٪). هنا الأقل أحسن، لأن الرقم العالي معناه حلولنا ما تثبت.",
+        "level_classification": "senior"
       },
       "22": {
         "catalog_number": 22,
@@ -4795,7 +4905,8 @@
           ]
         },
         "definition_simple_ar": "كم شكوى من كل ١٠٠ نقدر نخلّصها من أول مكالمة، بدون ما العميل يعاود يتواصل.",
-        "worked_example_ar": "استلمنا ١٠٠ شكوى، حلّينا ٨٢ منها من أول تواصل → النسبة = ٨٢٪ ✓ (تجاوزنا المستهدف ٨٠٪). كل ما حلّينا من أول مرة، وفّرنا وقت العميل ووقتنا."
+        "worked_example_ar": "استلمنا ١٠٠ شكوى، حلّينا ٨٢ منها من أول تواصل → النسبة = ٨٢٪ ✓ (تجاوزنا المستهدف ٨٠٪). كل ما حلّينا من أول مرة، وفّرنا وقت العميل ووقتنا.",
+        "level_classification": "senior"
       },
       "23": {
         "catalog_number": 23,
@@ -4913,7 +5024,8 @@
           ]
         },
         "definition_simple_ar": "كم شكوى من كل ١٠٠ قفلناها داخل الوقت المتفق عليه لكل نوع شكوى (الـ SLA).",
-        "worked_example_ar": "استلمنا ٢٠٠ شكوى، منها ١٨٦ قفلناها في وقتها المحدد → النسبة = ٩٣٪ ✓ (تجاوزنا المستهدف ٩٢٪). الالتزام بالوقت يطمّن العميل إن شكواه ما تنسى."
+        "worked_example_ar": "استلمنا ٢٠٠ شكوى، منها ١٨٦ قفلناها في وقتها المحدد → النسبة = ٩٣٪ ✓ (تجاوزنا المستهدف ٩٢٪). الالتزام بالوقت يطمّن العميل إن شكواه ما تنسى.",
+        "level_classification": "senior"
       },
       "24": {
         "catalog_number": 24,
@@ -5036,7 +5148,8 @@
           ]
         },
         "definition_simple_ar": "كم طلب من كل ١٠٠ وصلناه أو ركّبناه في الموعد اللي وعدنا العميل فيه.",
-        "worked_example_ar": "عندنا ٥٠٠ طلب توصيل وتركيب، منها ٤٧٧ وصلت في موعدها → النسبة = ٩٥٪ ٪ ✓ (مطابق للمستهدف ٩٥٪). الموعد اللي نعطيه للعميل لازم نمشي عليه."
+        "worked_example_ar": "عندنا ٥٠٠ طلب توصيل وتركيب، منها ٤٧٧ وصلت في موعدها → النسبة = ٩٥٪ ٪ ✓ (مطابق للمستهدف ٩٥٪). الموعد اللي نعطيه للعميل لازم نمشي عليه.",
+        "level_classification": "senior"
       },
       "25": {
         "catalog_number": 25,
@@ -5159,7 +5272,8 @@
           ]
         },
         "definition_simple_ar": "كم جهاز من كل ١٠٠ ينجح الفني في تركيبه من أول زيارة، بدون ما يحتاج يرجع مرة ثانية.",
-        "worked_example_ar": "جدولنا ٢٠٠ عملية تركيب، نجحت ١٨٦ منها من أول زيارة → النسبة = ٩٣٪ ✓ (تجاوزنا المستهدف ٩٣٪). إذا الفني جاء جاهز بالقطع والأدوات، ما يحتاج يعاود الزيارة."
+        "worked_example_ar": "جدولنا ٢٠٠ عملية تركيب، نجحت ١٨٦ منها من أول زيارة → النسبة = ٩٣٪ ✓ (تجاوزنا المستهدف ٩٣٪). إذا الفني جاء جاهز بالقطع والأدوات، ما يحتاج يعاود الزيارة.",
+        "level_classification": "senior"
       },
       "26": {
         "catalog_number": 26,
@@ -5282,7 +5396,8 @@
           ]
         },
         "definition_simple_ar": "كم طلب صيانة من كل ١٠٠ خلّصناه كامل داخل الوقت المتفق عليه، سواء تحت الضمان أو مدفوع.",
-        "worked_example_ar": "عندنا ٢٥٠ طلب صيانة، أنجزنا ٢٣٠ منها في وقتها → النسبة = ٩٢٪ ✓ (مطابق للمستهدف ٩٢٪). الصيانة في وقتها تخلي العميل يثق بخدمة ما بعد البيع."
+        "worked_example_ar": "عندنا ٢٥٠ طلب صيانة، أنجزنا ٢٣٠ منها في وقتها → النسبة = ٩٢٪ ✓ (مطابق للمستهدف ٩٢٪). الصيانة في وقتها تخلي العميل يثق بخدمة ما بعد البيع.",
+        "level_classification": "senior"
       },
       "27": {
         "catalog_number": 27,
@@ -5405,7 +5520,8 @@
           ]
         },
         "definition_simple_ar": "كم مرتجع من كل ١٠٠ سببه خطأ في الخدمة (توصيل غلط أو معلومة ناقصة)، مو عيب في المنتج نفسه.",
-        "worked_example_ar": "رجع لنا ١٠٠ منتج، منها ٣ بسبب أخطاء خدمية → النسبة = ٣٪ ✓ (تحت المستهدف ٤٪). هنا الأقل أحسن، لأن الرقم العالي معناه أخطاءنا نحن مو المنتج."
+        "worked_example_ar": "رجع لنا ١٠٠ منتج، منها ٣ بسبب أخطاء خدمية → النسبة = ٣٪ ✓ (تحت المستهدف ٤٪). هنا الأقل أحسن، لأن الرقم العالي معناه أخطاءنا نحن مو المنتج.",
+        "level_classification": "senior"
       },
       "28": {
         "catalog_number": 28,
@@ -5529,7 +5645,8 @@
           ]
         },
         "definition_simple_ar": "متوسط الدرجة اللي يعطينا إياها العملاء عن تجربتهم معنا في الفرع وفي المتجر الإلكتروني، من ٥.",
-        "worked_example_ar": "جمعنا تقييمات ٢٠٠ عميل وكان مجموع نقاطهم ٩٠٠ → المتوسط = ٤٫٥ من ٥ ✓ (مطابق للمستهدف ٤٫٥ من ٥). كل ما قربنا من الـ ٥، دل إن تجربة العميل ممتازة."
+        "worked_example_ar": "جمعنا تقييمات ٢٠٠ عميل وكان مجموع نقاطهم ٩٠٠ → المتوسط = ٤٫٥ من ٥ ✓ (مطابق للمستهدف ٤٫٥ من ٥). كل ما قربنا من الـ ٥، دل إن تجربة العميل ممتازة.",
+        "level_classification": "generic"
       },
       "29": {
         "catalog_number": 29,
@@ -5652,7 +5769,8 @@
           ]
         },
         "definition_simple_ar": "كم مرة بعنا واستبدلنا كامل المخزون خلال السنة، يعني هل بضاعتنا تتحرك بسرعة ولا واقفة.",
-        "worked_example_ar": "تكلفة البضاعة المباعة ٤٠٠ مليون ريال ومتوسط قيمة المخزون ٢٠٠ مليون → الدوران = ٢ مرة ✓ (مطابق للمستهدف ٢ مرة، وأعلى من أساس ١٫٨ مرة). كل ما زاد الرقم، دل إن المخزون يتصرّف أسرع."
+        "worked_example_ar": "تكلفة البضاعة المباعة ٤٠٠ مليون ريال ومتوسط قيمة المخزون ٢٠٠ مليون → الدوران = ٢ مرة ✓ (مطابق للمستهدف ٢ مرة، وأعلى من أساس ١٫٨ مرة). كل ما زاد الرقم، دل إن المخزون يتصرّف أسرع.",
+        "level_classification": "expert"
       },
       "30": {
         "catalog_number": 30,
@@ -5802,7 +5920,8 @@
           ]
         },
         "definition_simple_ar": "كم منتج من المنتجات الأساسية متوفر فعلاً وجاهز للبيع في الفروع والمتجر، من كل ١٠٠.",
-        "worked_example_ar": "عندنا ٥٠٠ منتج أساسي، منها ٤٨٥ متوفرة في الرفوف → النسبة = ٩٧٪ ✓ (مطابق للمستهدف ٩٧٪). إذا المنتج الأساسي موجود دايم، العميل ما يطلع من عندنا بإيد فاضية."
+        "worked_example_ar": "عندنا ٥٠٠ منتج أساسي، منها ٤٨٥ متوفرة في الرفوف → النسبة = ٩٧٪ ✓ (مطابق للمستهدف ٩٧٪). إذا المنتج الأساسي موجود دايم، العميل ما يطلع من عندنا بإيد فاضية.",
+        "level_classification": "expert"
       },
       "31": {
         "catalog_number": 31,
@@ -5925,7 +6044,8 @@
           ]
         },
         "definition_simple_ar": "كم منتج من المنتجات الأساسية من كل ١٠٠ كان ناقص من المخزون لما طلبه العميل.",
-        "worked_example_ar": "عندنا ٥٠٠ منتج أساسي، منها ١٥ نفدت وقت طلب العميل → النسبة = ٣٪ ✓ (مطابق للمستهدف ٣٪). هنا الأقل أحسن، لأن نفاد المنتج الأساسي معناه بيعة ضاعت."
+        "worked_example_ar": "عندنا ٥٠٠ منتج أساسي، منها ١٥ نفدت وقت طلب العميل → النسبة = ٣٪ ✓ (مطابق للمستهدف ٣٪). هنا الأقل أحسن، لأن نفاد المنتج الأساسي معناه بيعة ضاعت.",
+        "level_classification": "expert"
       },
       "32": {
         "catalog_number": 32,
@@ -6048,7 +6168,8 @@
           ]
         },
         "definition_simple_ar": "كم نسبة من قيمة مخزوننا واقفة بدون أي بيع لمدة طويلة، مثلاً أكثر من ١٨٠ يوم.",
-        "worked_example_ar": "إجمالي قيمة المخزون ١٠٠ مليون ريال، منها ٨ مليون ما تحرّكت من ١٨٠ يوم → النسبة = ٨٪ ✓ (تحت المستهدف ٨٪). هنا الأقل أحسن، لأن البضاعة الواقفة تجمّد فلوسنا."
+        "worked_example_ar": "إجمالي قيمة المخزون ١٠٠ مليون ريال، منها ٨ مليون ما تحرّكت من ١٨٠ يوم → النسبة = ٨٪ ✓ (تحت المستهدف ٨٪). هنا الأقل أحسن، لأن البضاعة الواقفة تجمّد فلوسنا.",
+        "level_classification": "expert"
       },
       "33": {
         "catalog_number": 33,
@@ -6171,7 +6292,8 @@
           ]
         },
         "definition_simple_ar": "كم كانت توقعاتنا للمبيعات قريبة من المبيعات اللي صارت فعلاً، يعني هل تخطيطنا صح.",
-        "worked_example_ar": "توقعنا نبيع ١٠٠٠ قطعة وبعنا فعلاً ٩١٥ قطعة، الفرق ٨٥ → الدقة = ٩١٪ تقريباً ✓ (تجاوزنا المستهدف ٨٥٪). كل ما قرّبت توقعاتنا من الواقع، طلبنا للبضاعة يصير أدق."
+        "worked_example_ar": "توقعنا نبيع ١٠٠٠ قطعة وبعنا فعلاً ٩١٥ قطعة، الفرق ٨٥ → الدقة = ٩١٪ تقريباً ✓ (تجاوزنا المستهدف ٨٥٪). كل ما قرّبت توقعاتنا من الواقع، طلبنا للبضاعة يصير أدق.",
+        "level_classification": "expert"
       },
       "34": {
         "catalog_number": 34,
@@ -6316,7 +6438,8 @@
           ]
         },
         "definition_simple_ar": "كم صنف من كل ١٠٠ طابقت كميته في النظام الكمية الفعلية الموجودة في المستودع أو الفرع.",
-        "worked_example_ar": "جردنا ١٠٠٠ صنف، منها ٩٩٢ طابقت النظام → النسبة = ٩٩٫٢٪ ✓ (تجاوزنا المستهدف ٩٩٪). كل ما طابق النظام الواقع، قراراتنا عن المخزون تصير على أرقام صحيحة."
+        "worked_example_ar": "جردنا ١٠٠٠ صنف، منها ٩٩٢ طابقت النظام → النسبة = ٩٩٫٢٪ ✓ (تجاوزنا المستهدف ٩٩٪). كل ما طابق النظام الواقع، قراراتنا عن المخزون تصير على أرقام صحيحة.",
+        "level_classification": "junior"
       },
       "35": {
         "catalog_number": 35,
@@ -6439,7 +6562,8 @@
           ]
         },
         "definition_simple_ar": "كم أمر نقل من المستودع للفرع من كل ١٠٠ وصل كامل بالكمية الصحيحة وفي تاريخه المتفق عليه.",
-        "worked_example_ar": "عندنا ٢٠٠ أمر توريد للفروع، منها ١٩٠ وصلت كاملة وفي وقتها → النسبة = ٩٥٪ ✓ (مطابق للمستهدف ٩٥٪). إذا وصلت البضاعة للفرع في وقتها، الرفوف ما تفضى."
+        "worked_example_ar": "عندنا ٢٠٠ أمر توريد للفروع، منها ١٩٠ وصلت كاملة وفي وقتها → النسبة = ٩٥٪ ✓ (مطابق للمستهدف ٩٥٪). إذا وصلت البضاعة للفرع في وقتها، الرفوف ما تفضى.",
+        "level_classification": "expert"
       },
       "36": {
         "catalog_number": 36,
@@ -6562,7 +6686,8 @@
           ]
         },
         "definition_simple_ar": "كم طلب فرع من كل ١٠٠ جهّزه المستودع وشحنه في الموعد المخطط له.",
-        "worked_example_ar": "استلم المستودع ٢٠٠ طلب فرع، جهّز وشحن ١٩٢ منها في موعدها → النسبة = ٩٦٪ ✓ (مطابق للمستهدف ٩٦٪). تجهيز الطلب في وقته يضمن إن الفرع يستلم بضاعته بدون تأخير."
+        "worked_example_ar": "استلم المستودع ٢٠٠ طلب فرع، جهّز وشحن ١٩٢ منها في موعدها → النسبة = ٩٦٪ ✓ (مطابق للمستهدف ٩٦٪). تجهيز الطلب في وقته يضمن إن الفرع يستلم بضاعته بدون تأخير.",
+        "level_classification": "expert"
       },
       "37": {
         "catalog_number": 37,
@@ -6680,7 +6805,8 @@
           ]
         },
         "definition_simple_ar": "كم عملية مستودع طلعت صحيحة (استلام وتخزين وصرف) من كل ١٠٠ عملية نسويها.",
-        "worked_example_ar": "لو سوّينا ٢٠٠٠ عملية وطلع منها ١٩٨٤ صحيحة، تصير الدقة ٩٩٫٢٪ ✓ (تجاوزنا المستهدف ٩٩٪). كل ما قلّت أخطاء الكراتين والخلط، ارتفعت النسبة."
+        "worked_example_ar": "لو سوّينا ٢٠٠٠ عملية وطلع منها ١٩٨٤ صحيحة، تصير الدقة ٩٩٫٢٪ ✓ (تجاوزنا المستهدف ٩٩٪). كل ما قلّت أخطاء الكراتين والخلط، ارتفعت النسبة.",
+        "level_classification": "junior"
       },
       "38": {
         "catalog_number": 38,
@@ -6803,7 +6929,8 @@
           ]
         },
         "definition_simple_ar": "كم طلب شحنّاه فيه خطأ (صنف غلط أو كمية ناقصة أو تلف) من كل ١٠٠ طلب نشحنه.",
-        "worked_example_ar": "لو شحنّا ١٠٠٠ طلب وطلع فيها ٨ طلبات فيها خطأ، تصير النسبة ٠٫٨٪ ✓ (أقل من المستهدف ١٪). هنا الأقل أحسن، فكل ما نزلت النسبة صار الأداء أفضل."
+        "worked_example_ar": "لو شحنّا ١٠٠٠ طلب وطلع فيها ٨ طلبات فيها خطأ، تصير النسبة ٠٫٨٪ ✓ (أقل من المستهدف ١٪). هنا الأقل أحسن، فكل ما نزلت النسبة صار الأداء أفضل.",
+        "level_classification": "expert"
       },
       "39": {
         "catalog_number": 39,
@@ -6926,7 +7053,8 @@
           ]
         },
         "definition_simple_ar": "كم وحدة نجهّزها في كل ساعة عمل وحدة، يعني قد إيش ننجز في الوقت نفسه.",
-        "worked_example_ar": "لو جهّزنا ٢٦٠٠٠ وحدة في ٢٠٠ ساعة عمل، يصير المعدل ١٣٠ وحدة/ساعة ✓ (وصلنا المستهدف ١٣٠). كل ما ارتفع الرقم، يعني نفس الفريق ينجز أكثر بدون توظيف زيادة."
+        "worked_example_ar": "لو جهّزنا ٢٦٠٠٠ وحدة في ٢٠٠ ساعة عمل، يصير المعدل ١٣٠ وحدة/ساعة ✓ (وصلنا المستهدف ١٣٠). كل ما ارتفع الرقم، يعني نفس الفريق ينجز أكثر بدون توظيف زيادة.",
+        "level_classification": "expert"
       },
       "40": {
         "catalog_number": 40,
@@ -7044,7 +7172,8 @@
           ]
         },
         "definition_simple_ar": "كم نسبة المساحة المشغولة فعلياً بالبضاعة من إجمالي مساحة المستودع المتاحة.",
-        "worked_example_ar": "لو عندنا ١٠٠٠٠ متر متاحة ومشغول منها ٨٧٠٠ متر، تصير النسبة ٨٧٪ ✓ (داخل النطاق المثالي ٨٠٪-٩٠٪). نتجنّب الـ١٠٠٪ عشان يبقى مجال للحركة، ونتجنّب الفراغ الزايد."
+        "worked_example_ar": "لو عندنا ١٠٠٠٠ متر متاحة ومشغول منها ٨٧٠٠ متر، تصير النسبة ٨٧٪ ✓ (داخل النطاق المثالي ٨٠٪-٩٠٪). نتجنّب الـ١٠٠٪ عشان يبقى مجال للحركة، ونتجنّب الفراغ الزايد.",
+        "level_classification": "senior"
       },
       "41": {
         "catalog_number": 41,
@@ -7162,7 +7291,8 @@
           ]
         },
         "definition_simple_ar": "كم قيمة البضاعة اللي تلفت أثناء التخزين أو الرفع أو النقل، نسبة من قيمة المخزون.",
-        "worked_example_ar": "لو متوسط قيمة المخزون مليون ريال وتلف منها بـ٨ آلاف ريال، تصير النسبة ٠٫٨٪ ✓ (أقل من المستهدف ١٪). هنا الأقل أحسن، فكل ما قلّ الكسر والتلف صار الأداء أفضل."
+        "worked_example_ar": "لو متوسط قيمة المخزون مليون ريال وتلف منها بـ٨ آلاف ريال، تصير النسبة ٠٫٨٪ ✓ (أقل من المستهدف ١٪). هنا الأقل أحسن، فكل ما قلّ الكسر والتلف صار الأداء أفضل.",
+        "level_classification": "expert"
       },
       "42": {
         "catalog_number": 42,
@@ -7280,7 +7410,8 @@
           ]
         },
         "definition_simple_ar": "كم أمر شراء وصلنا في موعده المتفق عليه من كل ١٠٠ أمر شراء استلمناه.",
-        "worked_example_ar": "لو استلمنا ١٠٠ أمر شراء ووصل منها ٩٤ في موعدها، تصير النسبة ٩٤٪ ✓ (تجاوزنا المستهدف ٩٣٪). يعني المورّد اللي وعد يسلّم في اليوم الـ١٥ يلتزم بموعده."
+        "worked_example_ar": "لو استلمنا ١٠٠ أمر شراء ووصل منها ٩٤ في موعدها، تصير النسبة ٩٤٪ ✓ (تجاوزنا المستهدف ٩٣٪). يعني المورّد اللي وعد يسلّم في اليوم الـ١٥ يلتزم بموعده.",
+        "level_classification": "expert"
       },
       "43": {
         "catalog_number": 43,
@@ -7398,7 +7529,8 @@
           ]
         },
         "definition_simple_ar": "كم نسبة مبيعاتنا اللي جت من المنتجات ذات الربح المرتفع من إجمالي مبيعات الشركة.",
-        "worked_example_ar": "لو إجمالي المبيعات ١٠٠ مليون ريال، منها ٤٠ مليون من منتجات الهامش العالي، تصير النسبة ٤٠٪ ✓ (تجاوزنا المستهدف ٣٨٪). يعني نبيع أكثر من المنتجات المربحة، مو بس نكمّل رقم المبيعات."
+        "worked_example_ar": "لو إجمالي المبيعات ١٠٠ مليون ريال، منها ٤٠ مليون من منتجات الهامش العالي، تصير النسبة ٤٠٪ ✓ (تجاوزنا المستهدف ٣٨٪). يعني نبيع أكثر من المنتجات المربحة، مو بس نكمّل رقم المبيعات.",
+        "level_classification": "expert"
       },
       "44": {
         "catalog_number": 44,
@@ -7511,7 +7643,8 @@
           ]
         },
         "definition_simple_ar": "قد إيش الموظفين راضين عن شغلهم وبيئة العمل، نقيسها باستبيان سرّي ونطلّعها نسبة.",
-        "worked_example_ar": "لو متوسط درجات الاستبيان ٤٫٢ من ٥، تصير النسبة ٨٤٪ ✓ (تجاوزنا المستهدف ٨٠٪). كل ما ارتفعت، يعني أغلب الموظفين راضين ويحسّون إن لشغلهم قيمة."
+        "worked_example_ar": "لو متوسط درجات الاستبيان ٤٫٢ من ٥، تصير النسبة ٨٤٪ ✓ (تجاوزنا المستهدف ٨٠٪). كل ما ارتفعت، يعني أغلب الموظفين راضين ويحسّون إن لشغلهم قيمة.",
+        "level_classification": "generic"
       },
       "45": {
         "catalog_number": 45,
@@ -7624,7 +7757,8 @@
           ]
         },
         "definition_simple_ar": "قد إيش الموظف مرتبط بشغله ويبذل جهد إضافي بإرادته، وهو أعمق من مجرد الرضا.",
-        "worked_example_ar": "لو متوسط درجات استبيان الاندماج ٤٫٠ من ٥، تصير النسبة ٨٠٪ ✓ (تجاوزنا المستهدف ٧٨٪). يعني الموظف مو بس يحضر وينصرف، بل يهتم بنتيجة شغله ويطوّر نفسه."
+        "worked_example_ar": "لو متوسط درجات استبيان الاندماج ٤٫٠ من ٥، تصير النسبة ٨٠٪ ✓ (تجاوزنا المستهدف ٧٨٪). يعني الموظف مو بس يحضر وينصرف، بل يهتم بنتيجة شغله ويطوّر نفسه.",
+        "level_classification": "generic"
       },
       "46": {
         "catalog_number": 46,
@@ -7749,7 +7883,8 @@
           ]
         },
         "definition_simple_ar": "كم نسبة الموظفين اللي استقالوا بإرادتهم خلال السنة من متوسط عدد موظفينا.",
-        "worked_example_ar": "لو متوسط عدد الموظفين ١٠٠٠ واستقال منهم ٢٢٠ بإرادتهم، يصير المعدل ٢٢٪ ✓ (أقل من المستهدف ٢٥٪). هنا الأقل أحسن، يعني اللي ندرّبهم ونوظّفهم يبقون معنا فترة أطول."
+        "worked_example_ar": "لو متوسط عدد الموظفين ١٠٠٠ واستقال منهم ٢٢٠ بإرادتهم، يصير المعدل ٢٢٪ ✓ (أقل من المستهدف ٢٥٪). هنا الأقل أحسن، يعني اللي ندرّبهم ونوظّفهم يبقون معنا فترة أطول.",
+        "level_classification": "expert"
       },
       "47": {
         "catalog_number": 47,
@@ -7862,7 +7997,8 @@
           ]
         },
         "definition_simple_ar": "كم نسبة أيام العمل اللي ضاعت بغياب مفاجئ أو بدون عذر، من إجمالي أيام العمل المتاحة.",
-        "worked_example_ar": "لو إجمالي أيام العمل المتاحة ٢٠٠٠٠ يوم وضاع منها ٥٠٠ يوم غياب مفاجئ، تصير النسبة ٢٫٥٪ ✓ (أقل من المستهدف ٣٪). هنا الأقل أحسن، يعني نادر ينقص كادر الفرع فجأة في الصباح."
+        "worked_example_ar": "لو إجمالي أيام العمل المتاحة ٢٠٠٠٠ يوم وضاع منها ٥٠٠ يوم غياب مفاجئ، تصير النسبة ٢٫٥٪ ✓ (أقل من المستهدف ٣٪). هنا الأقل أحسن، يعني نادر ينقص كادر الفرع فجأة في الصباح.",
+        "level_classification": "generic"
       },
       "48": {
         "catalog_number": 48,
@@ -7975,7 +8111,8 @@
           ]
         },
         "definition_simple_ar": "كم نسبة أصحاب الأداء العالي والأدوار المهمة اللي بقوا معنا من بداية السنة لنهايتها.",
-        "worked_example_ar": "لو عندنا ٥٠ كفاءة حرجة في بداية السنة وبقي منهم ٤٧ لنهايتها، تصير النسبة ٩٤٪ ✓ (تجاوزنا المستهدف ٩٢٪). يعني ما نفقد قائد فرع متميّز أو مدير قسم لصالح منافس."
+        "worked_example_ar": "لو عندنا ٥٠ كفاءة حرجة في بداية السنة وبقي منهم ٤٧ لنهايتها، تصير النسبة ٩٤٪ ✓ (تجاوزنا المستهدف ٩٢٪). يعني ما نفقد قائد فرع متميّز أو مدير قسم لصالح منافس.",
+        "level_classification": "expert"
       },
       "49": {
         "catalog_number": 49,
@@ -8078,7 +8215,8 @@
           ]
         },
         "definition_simple_ar": "كم نسبة المناصب الحرجة اللي لها بديل واحد على الأقل جاهز يتسلّم المنصب بسرعة.",
-        "worked_example_ar": "لو عندنا ٤٠ منصب حرج، منها ٣٠ لها بديل جاهز، تصير النسبة ٧٥٪ ✓ (تجاوزنا المستهدف ٧٠٪). يعني لو غاب صاحب المنصب أو غادر، عندنا شخص مهيّأ يسدّ مكانه بدون مفاجأة."
+        "worked_example_ar": "لو عندنا ٤٠ منصب حرج، منها ٣٠ لها بديل جاهز، تصير النسبة ٧٥٪ ✓ (تجاوزنا المستهدف ٧٠٪). يعني لو غاب صاحب المنصب أو غادر، عندنا شخص مهيّأ يسدّ مكانه بدون مفاجأة.",
+        "level_classification": "expert"
       },
       "50": {
         "catalog_number": 50,
@@ -8254,7 +8392,8 @@
           ]
         },
         "definition_simple_ar": "كم نسبة السعوديين اللي يشغلون وظائف مستهدفة محددة (مثل مدراء المعارض والمشرفين)، مو السعودة الإجمالية.",
-        "worked_example_ar": "لو عندنا ١٠٠ وظيفة مستهدفة (مدراء معارض ومشرفين) يشغلها ٥٦ سعودي، تصير النسبة ٥٦٪ ✓ (تجاوزنا المستهدف ٥٥٪). يعني حضور السعوديين يتوسّع لقيادة الفروع، مو بس الوظائف الإدارية."
+        "worked_example_ar": "لو عندنا ١٠٠ وظيفة مستهدفة (مدراء معارض ومشرفين) يشغلها ٥٦ سعودي، تصير النسبة ٥٦٪ ✓ (تجاوزنا المستهدف ٥٥٪). يعني حضور السعوديين يتوسّع لقيادة الفروع، مو بس الوظائف الإدارية.",
+        "level_classification": "expert"
       },
       "51": {
         "catalog_number": 51,
@@ -8362,7 +8501,8 @@
           ]
         },
         "definition_simple_ar": "كم نسبة الوظائف الحرجة اللي عيّنّا لها موظف خلال المدة المستهدفة (٦٠ يوم) من إجمالي اللي شغّلناها.",
-        "worked_example_ar": "لو شغّلنا ٢٥ وظيفة حرجة خلال السنة، منها ٢٢ تمّت خلال ٦٠ يوم، تصير النسبة ٨٨٪ ✓ (وصلنا المستهدف ٨٨٪). يعني لما يشغر منصب قيادي نلقى البديل بسرعة وما تتعطّل الأعمال."
+        "worked_example_ar": "لو شغّلنا ٢٥ وظيفة حرجة خلال السنة، منها ٢٢ تمّت خلال ٦٠ يوم، تصير النسبة ٨٨٪ ✓ (وصلنا المستهدف ٨٨٪). يعني لما يشغر منصب قيادي نلقى البديل بسرعة وما تتعطّل الأعمال.",
+        "level_classification": "expert"
       },
       "52": {
         "catalog_number": 52,
@@ -8470,7 +8610,8 @@
           ]
         },
         "definition_simple_ar": "كم نسبة الموظفين المرشّحين للبرامج التدريبية المهمة اللي أكملوها فعلاً من إجمالي المرشّحين.",
-        "worked_example_ar": "لو رشّحنا ٢٠٠ موظف لبرامج الأولوية وأكملها ١٩٢، تصير النسبة ٩٦٪ ✓ (تجاوزنا المستهدف ٩٥٪). يعني الموظف ما يكتفي بالتسجيل، بل يكمل البرنامج ويحضر فعلاً."
+        "worked_example_ar": "لو رشّحنا ٢٠٠ موظف لبرامج الأولوية وأكملها ١٩٢، تصير النسبة ٩٦٪ ✓ (تجاوزنا المستهدف ٩٥٪). يعني الموظف ما يكتفي بالتسجيل، بل يكمل البرنامج ويحضر فعلاً.",
+        "level_classification": "senior"
       },
       "53": {
         "catalog_number": 53,
@@ -8578,7 +8719,8 @@
           ]
         },
         "definition_simple_ar": "كم نسبة البرامج التدريبية اللي قسنا أثرها الفعلي على شغل الموظف أو على النتائج، من إجمالي البرامج.",
-        "worked_example_ar": "لو نفّذنا ٢٠ برنامج تدريبي وقسنا أثر ١٣ منها على الأداء فعلاً، تصير النسبة ٦٥٪ ✓ (تجاوزنا المستهدف ٦٠٪). يعني التدريب يظهر فرق ملموس في الأرقام أو الجودة، مو بس شهادة في الملف."
+        "worked_example_ar": "لو نفّذنا ٢٠ برنامج تدريبي وقسنا أثر ١٣ منها على الأداء فعلاً، تصير النسبة ٦٥٪ ✓ (تجاوزنا المستهدف ٦٠٪). يعني التدريب يظهر فرق ملموس في الأرقام أو الجودة، مو بس شهادة في الملف.",
+        "level_classification": "senior"
       },
       "54": {
         "catalog_number": 54,
@@ -8696,7 +8838,8 @@
           ]
         },
         "definition_simple_ar": "كم إيراد يحقّقه كل موظف في المتوسط خلال السنة، يعني قيمة شغل الفرد بالريال.",
-        "worked_example_ar": "لو حقّقنا ٧٩٢ مليون ريال بمتوسط ١٢٠٠ موظف، يصير نصيب الموظف ٦٦٠ ألف ريال ✓ (وصلنا المستهدف ٦٦٠ ألف ريال). يعني الإيرادات تنمو دون ما نوظّف بالوتيرة نفسها."
+        "worked_example_ar": "لو حقّقنا ٧٩٢ مليون ريال بمتوسط ١٢٠٠ موظف، يصير نصيب الموظف ٦٦٠ ألف ريال ✓ (وصلنا المستهدف ٦٦٠ ألف ريال). يعني الإيرادات تنمو دون ما نوظّف بالوتيرة نفسها.",
+        "level_classification": "expert"
       },
       "55": {
         "catalog_number": 55,
@@ -8804,7 +8947,8 @@
           ]
         },
         "definition_simple_ar": "كم موظف من اللي عندهم خطة تطوير خلّصوا فعلاً الأنشطة المتفق عليها في وقتها، من كل ١٠٠.",
-        "worked_example_ar": "عندنا ٢٠٠ موظف لهم خطط تطوير، وخلّص منهم ١٨٠ خطتهم في الوقت المحدد. النسبة = ١٨٠ ÷ ٢٠٠ = ٩٠٪ ✓ (فوق المستهدف ٨٥٪، ضمن النطاق الأخضر)."
+        "worked_example_ar": "عندنا ٢٠٠ موظف لهم خطط تطوير، وخلّص منهم ١٨٠ خطتهم في الوقت المحدد. النسبة = ١٨٠ ÷ ٢٠٠ = ٩٠٪ ✓ (فوق المستهدف ٨٥٪، ضمن النطاق الأخضر).",
+        "level_classification": "senior"
       },
       "56": {
         "catalog_number": 56,
@@ -8924,7 +9068,8 @@
           ]
         },
         "definition_simple_ar": "كم تقييم أداء انختم واعتمده الموظف ومديره قبل الموعد النهائي، من كل ١٠٠ تقييم مطلوب.",
-        "worked_example_ar": "المطلوب ٥٠٠ تقييم، وانختم منها ٤٩٢ قبل الموعد. النسبة = ٤٩٢ ÷ ٥٠٠ = ٩٨٫٤٪ ✓ (تجاوزنا المستهدف ٩٨٪). لو نزلنا تحت ٩٥٪ نطلع من الأخضر."
+        "worked_example_ar": "المطلوب ٥٠٠ تقييم، وانختم منها ٤٩٢ قبل الموعد. النسبة = ٤٩٢ ÷ ٥٠٠ = ٩٨٫٤٪ ✓ (تجاوزنا المستهدف ٩٨٪). لو نزلنا تحت ٩٥٪ نطلع من الأخضر.",
+        "level_classification": "generic"
       },
       "57": {
         "catalog_number": 57,
@@ -9032,7 +9177,8 @@
           ]
         },
         "definition_simple_ar": "كم موظف صار عليه إجراء تأديبي رسمي من كل ١٠٠ موظف؛ وكل ما قلّ الرقم صار أحسن.",
-        "worked_example_ar": "عندنا ١٠٠٠ موظف، وصار خلال الربع إجراء تأديبي رسمي على ١٥ منهم. النسبة = ١٥ ÷ ١٠٠٠ = ١٫٥٪ ✓ (تحت المستهدف ٢٪، يعني بيئة عمل صحية). لو طلعنا فوق ٢٪ نبدأ ننتبه."
+        "worked_example_ar": "عندنا ١٠٠٠ موظف، وصار خلال الربع إجراء تأديبي رسمي على ١٥ منهم. النسبة = ١٥ ÷ ١٠٠٠ = ١٫٥٪ ✓ (تحت المستهدف ٢٪، يعني بيئة عمل صحية). لو طلعنا فوق ٢٪ نبدأ ننتبه.",
+        "level_classification": "generic"
       },
       "58": {
         "catalog_number": 58,
@@ -9140,7 +9286,8 @@
           ]
         },
         "definition_simple_ar": "كم تظلّم أو ملاحظة من الموظفين انحلّت وانقفلت داخل المدة اللي حددتها السياسة، من كل ١٠٠.",
-        "worked_example_ar": "وصلنا ٤٠ تظلّم في الربع، وانحلّ منها ٣٨ داخل المدة المحددة. النسبة = ٣٨ ÷ ٤٠ = ٩٥٪ ✓ (فوق المستهدف ٩٣٪ والنطاق الأخضر ٩٠٪ فأعلى)."
+        "worked_example_ar": "وصلنا ٤٠ تظلّم في الربع، وانحلّ منها ٣٨ داخل المدة المحددة. النسبة = ٣٨ ÷ ٤٠ = ٩٥٪ ✓ (فوق المستهدف ٩٣٪ والنطاق الأخضر ٩٠٪ فأعلى).",
+        "level_classification": "senior"
       },
       "59": {
         "catalog_number": 59,
@@ -9263,7 +9410,8 @@
           ]
         },
         "definition_simple_ar": "كم مشروع من اللي كان مخطط يخلص هالفترة فعلاً انجز في موعده، من كل ١٠٠ مشروع.",
-        "worked_example_ar": "كان مخطط ٢٠ مشروع يخلصون هالربع، وخلص منها ١٨ في موعدهم. النسبة = ١٨ ÷ ٢٠ = ٩٠٪ ✓ (وصلنا المستهدف ٩٠٪). لو طلعنا أقل من ٨٠٪ نصير في الأحمر."
+        "worked_example_ar": "كان مخطط ٢٠ مشروع يخلصون هالربع، وخلص منها ١٨ في موعدهم. النسبة = ١٨ ÷ ٢٠ = ٩٠٪ ✓ (وصلنا المستهدف ٩٠٪). لو طلعنا أقل من ٨٠٪ نصير في الأحمر.",
+        "level_classification": "expert"
       },
       "60": {
         "catalog_number": 60,
@@ -9386,7 +9534,8 @@
           ]
         },
         "definition_simple_ar": "كم إجراء داخلي حوّلناه من يدوي إلى مؤتمت، من إجمالي الإجراءات اللي قررنا نأتمتها.",
-        "worked_example_ar": "عندنا ٤٠ إجراء مستهدف للأتمتة، وأتمتنا منها ٢٢. النسبة = ٢٢ ÷ ٤٠ = ٥٥٪ ✓ (فوق المستهدف ٥٠٪، وكمان داخل النطاق الأخضر ٧٠٪؟ لا—٥٥٪ بعدها صفراء، بس فوق هدف السنة ٥٠٪)."
+        "worked_example_ar": "عندنا ٤٠ إجراء مستهدف للأتمتة، وأتمتنا منها ٢٢. النسبة = ٢٢ ÷ ٤٠ = ٥٥٪ ✓ (فوق المستهدف ٥٠٪، وكمان داخل النطاق الأخضر ٧٠٪؟ لا—٥٥٪ بعدها صفراء، بس فوق هدف السنة ٥٠٪).",
+        "level_classification": "expert"
       },
       "61": {
         "catalog_number": 61,
@@ -9545,7 +9694,8 @@
           ]
         },
         "definition_simple_ar": "كم طلب بين الإدارات انجز داخل الوقت المتفق عليه في اتفاقية الخدمة، من كل ١٠٠ طلب.",
-        "worked_example_ar": "وصل ٢٠٠ طلب بين الإدارات هالشهر، وانجز منها ١٨٦ داخل الوقت المتفق عليه. النسبة = ١٨٦ ÷ ٢٠٠ = ٩٣٪ ✓ (فوق المستهدف ٩٢٪ والنطاق الأخضر ٩٠٪ فأعلى)."
+        "worked_example_ar": "وصل ٢٠٠ طلب بين الإدارات هالشهر، وانجز منها ١٨٦ داخل الوقت المتفق عليه. النسبة = ١٨٦ ÷ ٢٠٠ = ٩٣٪ ✓ (فوق المستهدف ٩٢٪ والنطاق الأخضر ٩٠٪ فأعلى).",
+        "level_classification": "generic"
       },
       "62": {
         "catalog_number": 62,
@@ -9668,7 +9818,8 @@
           ]
         },
         "definition_simple_ar": "كم نسبة من ساعات الدوام تشتغل فيها الأنظمة المهمة (الكاشير وERP والمتجر) بدون توقف مفاجئ.",
-        "worked_example_ar": "ساعات التشغيل المخططة بالشهر ٧٢٠ ساعة، وتوقفت الأنظمة فجأة ٢ ساعة. الجاهزية = (٧٢٠ − ٢) ÷ ٧٢٠ = ٩٩٫٧٪ ✓ (فوق المستهدف ٩٩٫٥٪ والنطاق الأخضر ٩٩٪ فأعلى)."
+        "worked_example_ar": "ساعات التشغيل المخططة بالشهر ٧٢٠ ساعة، وتوقفت الأنظمة فجأة ٢ ساعة. الجاهزية = (٧٢٠ − ٢) ÷ ٧٢٠ = ٩٩٫٧٪ ✓ (فوق المستهدف ٩٩٫٥٪ والنطاق الأخضر ٩٩٪ فأعلى).",
+        "level_classification": "expert"
       },
       "63": {
         "catalog_number": 63,
@@ -9786,7 +9937,8 @@
           ]
         },
         "definition_simple_ar": "كم تقرير دوري طلع بدون أخطاء جوهرية تأثر على القرار، من كل ١٠٠ تقرير صادر.",
-        "worked_example_ar": "أصدرنا ٢٠٠ تقرير في الربع، وطلع فيها ٣ تقارير بأخطاء جوهرية. الدقة = (٢٠٠ − ٣) ÷ ٢٠٠ = ٩٨٫٥٪ ✓ (فوق المستهدف ٩٨٪ والنطاق الأخضر ٩٧٪ فأعلى)."
+        "worked_example_ar": "أصدرنا ٢٠٠ تقرير في الربع، وطلع فيها ٣ تقارير بأخطاء جوهرية. الدقة = (٢٠٠ − ٣) ÷ ٢٠٠ = ٩٨٫٥٪ ✓ (فوق المستهدف ٩٨٪ والنطاق الأخضر ٩٧٪ فأعلى).",
+        "level_classification": "senior"
       },
       "64": {
         "catalog_number": 64,
@@ -9904,7 +10056,8 @@
           ]
         },
         "definition_simple_ar": "كم بلاغ صيانة في الفروع انقفل داخل الوقت المتفق عليه، من كل ١٠٠ بلاغ وصلنا.",
-        "worked_example_ar": "وصلنا ١٥٠ بلاغ صيانة هالشهر، وانقفل منها ١٣٩ داخل المدة. النسبة = ١٣٩ ÷ ١٥٠ = ٩٢٫٧٪ ✓ (فوق المستهدف ٩٢٪ والنطاق الأخضر ٩٠٪ فأعلى)."
+        "worked_example_ar": "وصلنا ١٥٠ بلاغ صيانة هالشهر، وانقفل منها ١٣٩ داخل المدة. النسبة = ١٣٩ ÷ ١٥٠ = ٩٢٫٧٪ ✓ (فوق المستهدف ٩٢٪ والنطاق الأخضر ٩٠٪ فأعلى).",
+        "level_classification": "senior"
       },
       "65": {
         "catalog_number": 65,
@@ -10022,7 +10175,8 @@
           ]
         },
         "definition_simple_ar": "كم ساعة بالمتوسط ناخذ عشان نبدأ نشتغل على العطل الحرج بعد ما ينبلغ عنه؛ وكل ما قلّت الساعات صار أحسن.",
-        "worked_example_ar": "صار ١٠ أعطال حرجة، وإجمالي وقت بدء الاستجابة لها ٣٠ ساعة. المتوسط = ٣٠ ÷ ١٠ = ٣ ساعات ✓ (تحت المستهدف ٢ ساعة؟ لا—٣ ساعات بعدها داخل النطاق الأخضر ٤ ساعات فأقل، بس فوق هدف السنة ساعتين)."
+        "worked_example_ar": "صار ١٠ أعطال حرجة، وإجمالي وقت بدء الاستجابة لها ٣٠ ساعة. المتوسط = ٣٠ ÷ ١٠ = ٣ ساعات ✓ (تحت المستهدف ٢ ساعة؟ لا—٣ ساعات بعدها داخل النطاق الأخضر ٤ ساعات فأقل، بس فوق هدف السنة ساعتين).",
+        "level_classification": "senior"
       },
       "66": {
         "catalog_number": 66,
@@ -10140,7 +10294,8 @@
           ]
         },
         "definition_simple_ar": "كم مهمة صيانة وقائية مجدولة سوّيناها في وقتها، من إجمالي المهام اللي بالخطة.",
-        "worked_example_ar": "بالخطة ٢٠٠ مهمة وقائية للربع، وانجزنا منها ١٩٢ في موعدها. النسبة = ١٩٢ ÷ ٢٠٠ = ٩٦٪ ✓ (فوق المستهدف ٩٥٪ والنطاق الأخضر ٩٥٪ فأعلى)."
+        "worked_example_ar": "بالخطة ٢٠٠ مهمة وقائية للربع، وانجزنا منها ١٩٢ في موعدها. النسبة = ١٩٢ ÷ ٢٠٠ = ٩٦٪ ✓ (فوق المستهدف ٩٥٪ والنطاق الأخضر ٩٥٪ فأعلى).",
+        "level_classification": "senior"
       },
       "67": {
         "catalog_number": 67,
@@ -10258,7 +10413,8 @@
           ]
         },
         "definition_simple_ar": "كم عطل رجع لنفس الجهاز خلال ٣٠ يوم، من كل ١٠٠ عطل؛ وكل ما قلّ الرقم دلّ إن الإصلاح جذري.",
-        "worked_example_ar": "صار ١٠٠ عطل هالشهر، ورجع منها ٥ لنفس الجهاز خلال ٣٠ يوم. النسبة = ٥ ÷ ١٠٠ = ٥٪ ✓ (تحت المستهدف ٦٪ والنطاق الأخضر ٨٪ فأقل). لو طلعنا فوق ١٨٪ نصير أحمر."
+        "worked_example_ar": "صار ١٠٠ عطل هالشهر، ورجع منها ٥ لنفس الجهاز خلال ٣٠ يوم. النسبة = ٥ ÷ ١٠٠ = ٥٪ ✓ (تحت المستهدف ٦٪ والنطاق الأخضر ٨٪ فأقل). لو طلعنا فوق ١٨٪ نصير أحمر.",
+        "level_classification": "senior"
       },
       "68": {
         "catalog_number": 68,
@@ -10376,7 +10532,8 @@
           ]
         },
         "definition_simple_ar": "كم نصرف على الصيانة (قطع غيار وعمالة) لكل فرع بالمتوسط في الشهر؛ وكل ما قلّ المبلغ صار أوفر.",
-        "worked_example_ar": "صرفنا على الصيانة بالشهر ١٫٠٤ مليون ريال موزّعة على ٨٠ فرع. لكل فرع = ١٬٠٤٠٬٠٠٠ ÷ ٨٠ = ١٣٬٠٠٠ ريال ✓ (تحت المستهدف ١٤٬٠٠٠ ريال للفرع). لو تجاوزنا ١٤٬٠٠٠ نبدأ نراجع."
+        "worked_example_ar": "صرفنا على الصيانة بالشهر ١٫٠٤ مليون ريال موزّعة على ٨٠ فرع. لكل فرع = ١٬٠٤٠٬٠٠٠ ÷ ٨٠ = ١٣٬٠٠٠ ريال ✓ (تحت المستهدف ١٤٬٠٠٠ ريال للفرع). لو تجاوزنا ١٤٬٠٠٠ نبدأ نراجع.",
+        "level_classification": "expert"
       },
       "69": {
         "catalog_number": 69,
@@ -10494,7 +10651,8 @@
           ]
         },
         "definition_simple_ar": "كم درجة حقق الفرع في قائمة التحقق (إنارة وتكييف ونظافة وأجهزة)، من إجمالي الدرجات الممكنة.",
-        "worked_example_ar": "قائمة التحقق فيها ٥٠ نقطة، وحقق الفرع منها ٤٨ في الجولة الميدانية. النسبة = ٤٨ ÷ ٥٠ = ٩٦٪ ✓ (فوق المستهدف ٩٥٪ والنطاق الأخضر ٩٢٪ فأعلى)."
+        "worked_example_ar": "قائمة التحقق فيها ٥٠ نقطة، وحقق الفرع منها ٤٨ في الجولة الميدانية. النسبة = ٤٨ ÷ ٥٠ = ٩٦٪ ✓ (فوق المستهدف ٩٥٪ والنطاق الأخضر ٩٢٪ فأعلى).",
+        "level_classification": "senior"
       },
       "70": {
         "catalog_number": 70,
@@ -10617,7 +10775,8 @@
           ]
         },
         "definition_simple_ar": "كم مورّد خدمة طلع تقييمه «ملتزم» ببنود العقد، من كل ١٠٠ تقييم سوّيناه للموردين.",
-        "worked_example_ar": "قيّمنا أداء الموردين ٥٠ مرة في الربع، وطلع منها ٤٦ تقييم «ملتزم». النسبة = ٤٦ ÷ ٥٠ = ٩٢٪ ✓ (فوق المستهدف ٩٠٪ والنطاق الأخضر ٩٠٪ فأعلى)."
+        "worked_example_ar": "قيّمنا أداء الموردين ٥٠ مرة في الربع، وطلع منها ٤٦ تقييم «ملتزم». النسبة = ٤٦ ÷ ٥٠ = ٩٢٪ ✓ (فوق المستهدف ٩٠٪ والنطاق الأخضر ٩٠٪ فأعلى).",
+        "level_classification": "expert"
       },
       "71": {
         "catalog_number": 71,
@@ -10757,7 +10916,8 @@
           ]
         },
         "definition_simple_ar": "كم قرار أو معاملة صارت من الشخص صاحب الصلاحية الصحيحة، من كل ١٠٠ معاملة فحصناها.",
-        "worked_example_ar": "دقّقنا ٢٠٠ معاملة، وطلع منها ١٩٧ متوافقة مع مصفوفة الصلاحيات. النسبة = ١٩٧ ÷ ٢٠٠ = ٩٨٫٥٪ ✓ (فوق المستهدف ٩٨٪ والنطاق الأخضر ٩٨٪ فأعلى). لو نزلنا تحت ٨٨٪ نصير أحمر."
+        "worked_example_ar": "دقّقنا ٢٠٠ معاملة، وطلع منها ١٩٧ متوافقة مع مصفوفة الصلاحيات. النسبة = ١٩٧ ÷ ٢٠٠ = ٩٨٫٥٪ ✓ (فوق المستهدف ٩٨٪ والنطاق الأخضر ٩٨٪ فأعلى). لو نزلنا تحت ٨٨٪ نصير أحمر.",
+        "level_classification": "generic"
       },
       "72": {
         "catalog_number": 72,
@@ -10931,7 +11091,8 @@
           ]
         },
         "definition_simple_ar": "كم عملية انفحصت وطلعت متوافقة مع السياسات والإجراءات المعتمدة، من كل ١٠٠ عملية.",
-        "worked_example_ar": "دقّقنا ١٠٠ عملية، وطلع منها ٩٦ متوافقة مع السياسات المعتمدة. النسبة = ٩٦ ÷ ١٠٠ = ٩٦٪ ✓ (فوق المستهدف ٩٥٪ والنطاق الأخضر ٩٥٪ فأعلى)."
+        "worked_example_ar": "دقّقنا ١٠٠ عملية، وطلع منها ٩٦ متوافقة مع السياسات المعتمدة. النسبة = ٩٦ ÷ ١٠٠ = ٩٦٪ ✓ (فوق المستهدف ٩٥٪ والنطاق الأخضر ٩٥٪ فأعلى).",
+        "level_classification": "generic"
       },
       "73": {
         "catalog_number": 73,
@@ -11044,7 +11205,8 @@
           ]
         },
         "definition_simple_ar": "كم ملاحظة من ملاحظات المراجعة قفلناها في وقتها المحدد من كل ١٠٠ ملاحظة لازم تُقفل.",
-        "worked_example_ar": "لو عندك ٤٥ ملاحظة مستحقة وأغلقت ٤٢ منها في موعدها، تصير النسبة ٩٣٪ ✓ (تجاوزنا المستهدف ٩٠٪). لو نزلت تحت ٨٠٪ تصير حمراء."
+        "worked_example_ar": "لو عندك ٤٥ ملاحظة مستحقة وأغلقت ٤٢ منها في موعدها، تصير النسبة ٩٣٪ ✓ (تجاوزنا المستهدف ٩٠٪). لو نزلت تحت ٨٠٪ تصير حمراء.",
+        "level_classification": "senior"
       },
       "74": {
         "catalog_number": 74,
@@ -11157,7 +11319,8 @@
           ]
         },
         "definition_simple_ar": "كم ملاحظة مهمة أو تكررت من تقارير قبل، لأن تكرارها يعني فيه خلل ما اتعالج.",
-        "worked_example_ar": "لو طلع عندك في الفترة ملاحظتين جوهريتين بس، يكون العدد ٢ ✓ (وصلنا المستهدف ٢ أو أقل). لو صار العدد ٥ يطلع أصفر، وفوق ٦ يصير أحمر."
+        "worked_example_ar": "لو طلع عندك في الفترة ملاحظتين جوهريتين بس، يكون العدد ٢ ✓ (وصلنا المستهدف ٢ أو أقل). لو صار العدد ٥ يطلع أصفر، وفوق ٦ يصير أحمر.",
+        "level_classification": "expert"
       },
       "75": {
         "catalog_number": 75,
@@ -11270,7 +11433,8 @@
           ]
         },
         "definition_simple_ar": "كم خطر كبير عالجناه وطبقنا خطته في وقته من كل ١٠٠ خطر كبير لازم نعالجه.",
-        "worked_example_ar": "لو عندك ٢٠ خطر عالي الأثر وعالجت ١٩ منها في موعدها، تصير النسبة ٩٥٪ ✓ (وصلنا المستهدف ٩٥٪). تحت ٨٠٪ تصير حمراء."
+        "worked_example_ar": "لو عندك ٢٠ خطر عالي الأثر وعالجت ١٩ منها في موعدها، تصير النسبة ٩٥٪ ✓ (وصلنا المستهدف ٩٥٪). تحت ٨٠٪ تصير حمراء.",
+        "level_classification": "expert"
       },
       "76": {
         "catalog_number": 76,
@@ -11378,7 +11542,8 @@
           ]
         },
         "definition_simple_ar": "كم تقرير من التقارير المطلوبة للمجلس واللجان سلّمناه في وقته من كل ١٠٠ تقرير مطلوب.",
-        "worked_example_ar": "لو مطلوب منك ٢٥ تقرير وسلّمت كلها في مواعيدها، تصير النسبة ١٠٠٪ ✓ (المستهدف ١٠٠٪). لو فاتك تقرير ونزلت لـ ٩٦٪ تصير صفراء."
+        "worked_example_ar": "لو مطلوب منك ٢٥ تقرير وسلّمت كلها في مواعيدها، تصير النسبة ١٠٠٪ ✓ (المستهدف ١٠٠٪). لو فاتك تقرير ونزلت لـ ٩٦٪ تصير صفراء.",
+        "level_classification": "expert"
       },
       "77": {
         "catalog_number": 77,
@@ -11491,7 +11656,8 @@
           ]
         },
         "definition_simple_ar": "كم متطلب من متطلبات الإفصاح والحوكمة (هيئة السوق المالية وتداول) التزمنا فيه من كل ١٠٠ متطلب علينا.",
-        "worked_example_ar": "لو عليك ٤٠ متطلب إفصاح وحوكمة والتزمت فيها كلها، تصير النسبة ١٠٠٪ ✓ (المستهدف ١٠٠٪). لو فاتك متطلبين ونزلت لـ ٩٥٪ تصير صفراء."
+        "worked_example_ar": "لو عليك ٤٠ متطلب إفصاح وحوكمة والتزمت فيها كلها، تصير النسبة ١٠٠٪ ✓ (المستهدف ١٠٠٪). لو فاتك متطلبين ونزلت لـ ٩٥٪ تصير صفراء.",
+        "level_classification": "expert"
       },
       "78": {
         "catalog_number": 78,
@@ -11604,7 +11770,8 @@
           ]
         },
         "definition_simple_ar": "كم مخالفة أو غرامة رسمية جتنا من الجهات التنظيمية (هيئة السوق، التجارة، الزكاة والضريبة) خلال الفترة.",
-        "worked_example_ar": "لو ما جاك ولا مخالفة ولا غرامة طول الفترة، يكون العدد ٠ ✓ (المستهدف صفر). لو جاتك مخالفة أو اثنتين يطلع أصفر، وفوق ٣ يصير أحمر."
+        "worked_example_ar": "لو ما جاك ولا مخالفة ولا غرامة طول الفترة، يكون العدد ٠ ✓ (المستهدف صفر). لو جاتك مخالفة أو اثنتين يطلع أصفر، وفوق ٣ يصير أحمر.",
+        "level_classification": "expert"
       },
       "79": {
         "catalog_number": 79,
@@ -11717,7 +11884,8 @@
           ]
         },
         "definition_simple_ar": "كم عقد أو قرار مشى على دورة الاعتماد الرسمية صح من كل ١٠٠ عقد أو قرار فحصناه.",
-        "worked_example_ar": "لو فحصت ١٠٠ عقد وقرار وطلع ٩٨ منها ماشي على الدورة الرسمية، تصير النسبة ٩٨٪ ✓ (وصلنا المستهدف ٩٨٪). تحت ٨٥٪ تصير حمراء."
+        "worked_example_ar": "لو فحصت ١٠٠ عقد وقرار وطلع ٩٨ منها ماشي على الدورة الرسمية، تصير النسبة ٩٨٪ ✓ (وصلنا المستهدف ٩٨٪). تحت ٨٥٪ تصير حمراء.",
+        "level_classification": "generic"
       },
       "80": {
         "catalog_number": 80,
@@ -11830,7 +11998,8 @@
           ]
         },
         "definition_simple_ar": "كم سياسة أو لائحة راجعناها وحدّثناها في موعدها من كل ١٠٠ سياسة مستحقة للمراجعة.",
-        "worked_example_ar": "لو عندك ٣٠ سياسة مستحقة للمراجعة وحدّثت ٢٨ منها في موعدها، تصير النسبة ٩٣٪ ✓ (تجاوزنا المستهدف ٩٠٪). تحت ٨٠٪ تصير حمراء."
+        "worked_example_ar": "لو عندك ٣٠ سياسة مستحقة للمراجعة وحدّثت ٢٨ منها في موعدها، تصير النسبة ٩٣٪ ✓ (تجاوزنا المستهدف ٩٠٪). تحت ٨٠٪ تصير حمراء.",
+        "level_classification": "senior"
       },
       "81": {
         "catalog_number": 81,
@@ -11943,7 +12112,8 @@
           ]
         },
         "definition_simple_ar": "كم حالة تعارض مصالح أو طرف ذي علاقة عالجناها وأفصحنا عنها صح من كل ١٠٠ حالة اكتشفناها.",
-        "worked_example_ar": "لو اكتشفت ١٢ حالة وعالجت وأفصحت عنها كلها حسب المتطلبات، تصير النسبة ١٠٠٪ ✓ (المستهدف ١٠٠٪). لو فاتتك حالة ونزلت لـ ٩٢٪ تصير صفراء."
+        "worked_example_ar": "لو اكتشفت ١٢ حالة وعالجت وأفصحت عنها كلها حسب المتطلبات، تصير النسبة ١٠٠٪ ✓ (المستهدف ١٠٠٪). لو فاتتك حالة ونزلت لـ ٩٢٪ تصير صفراء.",
+        "level_classification": "expert"
       },
       "82": {
         "catalog_number": 82,
@@ -12088,7 +12258,8 @@
           ]
         },
         "definition_simple_ar": "كم ريال إيراد صافي إضافي رجع لنا مقابل كل ريال صرفناه على التسويق المدفوع.",
-        "worked_example_ar": "لو صرفت ١٠٠ ألف ريال تسويق ورجع لك ٥٠٠ ألف ريال إيرادات، يكون العائد (٥٠٠ − ١٠٠) ÷ ١٠٠ = ٤ ✓ (وصلنا المستهدف ٤ أضعاف). تحت ٣٫٤ يصير أحمر."
+        "worked_example_ar": "لو صرفت ١٠٠ ألف ريال تسويق ورجع لك ٥٠٠ ألف ريال إيرادات، يكون العائد (٥٠٠ − ١٠٠) ÷ ١٠٠ = ٤ ✓ (وصلنا المستهدف ٤ أضعاف). تحت ٣٫٤ يصير أحمر.",
+        "level_classification": "expert"
       },
       "83": {
         "catalog_number": 83,
@@ -12233,7 +12404,8 @@
           ]
         },
         "definition_simple_ar": "كم ريال نصرف بالمتوسط على التسويق عشان نكسب عميل جديد يسوي أول شرايه عبر القنوات الرقمية.",
-        "worked_example_ar": "لو صرفت ٧٠ ألف ريال اكتساب وكسبت ١٠٠٠ عميل جديد، تصير التكلفة ٧٠ ريال للعميل ✓ (أقل من المستهدف ٧٥ ريال، وهنا الأقل أفضل). فوق ٨٦ ريال تصير حمراء."
+        "worked_example_ar": "لو صرفت ٧٠ ألف ريال اكتساب وكسبت ١٠٠٠ عميل جديد، تصير التكلفة ٧٠ ريال للعميل ✓ (أقل من المستهدف ٧٥ ريال، وهنا الأقل أفضل). فوق ٨٦ ريال تصير حمراء.",
+        "level_classification": "expert"
       },
       "84": {
         "catalog_number": 84,
@@ -12373,7 +12545,8 @@
           ]
         },
         "definition_simple_ar": "كم عميل من كل ١٠٠ اشترى رقمياً رجع وسوّى شراية ثانية خلال ٩٠ يوم.",
-        "worked_example_ar": "لو اشترى عندك ١٠٠٠ عميل رقمي ورجع ٣٢٠ منهم لشراية ثانية خلال ٩٠ يوم، تصير النسبة ٣٢٪ ✓ (تجاوزنا المستهدف ٣٠٪). تحت ٢٥٫٥٪ تصير حمراء."
+        "worked_example_ar": "لو اشترى عندك ١٠٠٠ عميل رقمي ورجع ٣٢٠ منهم لشراية ثانية خلال ٩٠ يوم، تصير النسبة ٣٢٪ ✓ (تجاوزنا المستهدف ٣٠٪). تحت ٢٥٫٥٪ تصير حمراء.",
+        "level_classification": "expert"
       },
       "85": {
         "catalog_number": 85,
@@ -12513,7 +12686,8 @@
           ]
         },
         "definition_simple_ar": "كم رسالة وإشعار اتفتحوا من كل ١٠٠ رسالة وإشعار وصلوا للعملاء.",
-        "worked_example_ar": "لو وصل ١٠٠٠ رسالة وإشعار واتفتح منهم ٢٤٠، تصير النسبة ٢٤٪ ✓ (تجاوزنا المستهدف ٢٢٪). تحت ١٨٫٧٪ تصير حمراء."
+        "worked_example_ar": "لو وصل ١٠٠٠ رسالة وإشعار واتفتح منهم ٢٤٠، تصير النسبة ٢٤٪ ✓ (تجاوزنا المستهدف ٢٢٪). تحت ١٨٫٧٪ تصير حمراء.",
+        "level_classification": "senior"
       },
       "86": {
         "catalog_number": 86,
@@ -12653,7 +12827,8 @@
           ]
         },
         "definition_simple_ar": "كم من مستخدمي التطبيق الشهريين يدخلون كل يوم، يعني قد إيش صار التطبيق عادة يومية عندهم.",
-        "worked_example_ar": "لو متوسط مستخدمي اليوم ٢٢ ألف وإجمالي مستخدمي الشهر ١٠٠ ألف، تصير النسبة ٢٢٪ ✓ (تجاوزنا المستهدف ٢٠٪). تحت ١٧٪ تصير حمراء."
+        "worked_example_ar": "لو متوسط مستخدمي اليوم ٢٢ ألف وإجمالي مستخدمي الشهر ١٠٠ ألف، تصير النسبة ٢٢٪ ✓ (تجاوزنا المستهدف ٢٠٪). تحت ١٧٪ تصير حمراء.",
+        "level_classification": "expert"
       },
       "87": {
         "catalog_number": 87,
@@ -12798,7 +12973,8 @@
           ]
         },
         "definition_simple_ar": "كم صفحة منتج في المتجر والتطبيق مستوفية كل معايير الجودة الست من كل ١٠٠ صفحة منتج نشطة.",
-        "worked_example_ar": "لو عندك ١٠٠٠ صفحة منتج نشطة وطلع ٩٦٠ منها مكتملة (صور وأوصاف وأسعار وتوفر صحيح)، تصير النسبة ٩٦٪ ✓ (تجاوزنا المستهدف ٩٥٪). تحت ٨٠٫٧٥٪ تصير حمراء."
+        "worked_example_ar": "لو عندك ١٠٠٠ صفحة منتج نشطة وطلع ٩٦٠ منها مكتملة (صور وأوصاف وأسعار وتوفر صحيح)، تصير النسبة ٩٦٪ ✓ (تجاوزنا المستهدف ٩٥٪). تحت ٨٠٫٧٥٪ تصير حمراء.",
+        "level_classification": "senior"
       },
       "88": {
         "catalog_number": 88,
@@ -12916,7 +13092,8 @@
           ]
         },
         "definition_simple_ar": "قد إيش الناس تتفاعل (إعجاب وتعليق ومشاركة وحفظ) مع منشوراتنا نسبةً لعدد المتابعين.",
-        "worked_example_ar": "لو نشرت ١٠٠ منشور ومتوسط المتابعين ١٠٠ ألف وجاك ٤٠٠ ألف تفاعل، يصير المعدل ٤٠٠٠٠٠ ÷ (١٠٠ × ١٠٠٠٠٠) × ١٠٠ = ٤٪ ✓ (تجاوزنا المستهدف ٣٫٥٪). تحت ٢٫٩٨٪ يصير أحمر."
+        "worked_example_ar": "لو نشرت ١٠٠ منشور ومتوسط المتابعين ١٠٠ ألف وجاك ٤٠٠ ألف تفاعل، يصير المعدل ٤٠٠٠٠٠ ÷ (١٠٠ × ١٠٠٠٠٠) × ١٠٠ = ٤٪ ✓ (تجاوزنا المستهدف ٣٫٥٪). تحت ٢٫٩٨٪ يصير أحمر.",
+        "level_classification": "expert"
       },
       "89": {
         "catalog_number": 89,
@@ -13034,7 +13211,8 @@
           ]
         },
         "definition_simple_ar": "درجة مركّبة من ٠ لـ ١٠٠ تجمع المشاعر الإيجابية عن العلامة، والوعي العفوي فيها، ومتوسط تقييمها في متاجر التطبيقات.",
-        "worked_example_ar": "لو المشاعر الإيجابية ٧٠٪ والوعي العفوي ٦٥٪ ومتوسط تقييم المتاجر ٤٫٥ من ٥ (يعني ٩٠)، تصير الدرجة (٧٠×٠٫٣٣)+(٦٥×٠٫٣٣)+(٩٠×٠٫٣٤) ≈ ٧٥ نقطة ✓ (وصلنا المستهدف ٧٥ نقطة). تحت ٦٣٫٧٥ تصير حمراء."
+        "worked_example_ar": "لو المشاعر الإيجابية ٧٠٪ والوعي العفوي ٦٥٪ ومتوسط تقييم المتاجر ٤٫٥ من ٥ (يعني ٩٠)، تصير الدرجة (٧٠×٠٫٣٣)+(٦٥×٠٫٣٣)+(٩٠×٠٫٣٤) ≈ ٧٥ نقطة ✓ (وصلنا المستهدف ٧٥ نقطة). تحت ٦٣٫٧٥ تصير حمراء.",
+        "level_classification": "expert"
       }
     }
   },
