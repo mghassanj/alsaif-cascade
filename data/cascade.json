@@ -32031,7 +32031,8 @@
         "name_ar": "إدارة خدمات ما بعد البيع",
         "name_en": "After-Sales Service Department",
         "level": 3,
-        "position_count": 2
+        "position_count": 8,
+        "sub_department_count": 4
       },
       {
         "slug": "customer-care",
@@ -32039,7 +32040,8 @@
         "name_ar": "إدارة العناية بالعملاء",
         "name_en": "Customer Care Department",
         "level": 3,
-        "position_count": 1
+        "position_count": 4,
+        "sub_department_count": 1
       },
       {
         "slug": "finance",
@@ -32047,7 +32049,8 @@
         "name_ar": "الإدارة المالية",
         "name_en": "Finance Department",
         "level": 3,
-        "position_count": 2
+        "position_count": 12,
+        "sub_department_count": 1
       },
       {
         "slug": "hr-and-support-services",
@@ -32055,7 +32058,8 @@
         "name_ar": "إدارة الموارد البشرية والخدمات المساندة",
         "name_en": "HR and Support Services Department",
         "level": 3,
-        "position_count": 2
+        "position_count": 16,
+        "sub_department_count": 4
       },
       {
         "slug": "internal-audit",
@@ -32063,7 +32067,8 @@
         "name_ar": "إدارة المراجعة الداخلية",
         "name_en": "Internal Audit Department",
         "level": 3,
-        "position_count": 2
+        "position_count": 2,
+        "sub_department_count": 0
       },
       {
         "slug": "inventory-and-stock-control",
@@ -32071,7 +32076,8 @@
         "name_ar": "إدارة الجرد ومراقبة المخزون",
         "name_en": "Inventory and stock Control Department",
         "level": 3,
-        "position_count": 1
+        "position_count": 4,
+        "sub_department_count": 1
       },
       {
         "slug": "it",
@@ -32079,7 +32085,8 @@
         "name_ar": "إدارة تقنية المعلومات",
         "name_en": "IT Department",
         "level": 3,
-        "position_count": 1
+        "position_count": 13,
+        "sub_department_count": 3
       },
       {
         "slug": "legal-affairs",
@@ -32087,7 +32094,8 @@
         "name_ar": "إدارة الشؤون القانونية",
         "name_en": "Legal Affairs Department",
         "level": 3,
-        "position_count": 1
+        "position_count": 2,
+        "sub_department_count": 0
       },
       {
         "slug": "marketing-and-e-commerce",
@@ -32095,7 +32103,8 @@
         "name_ar": "إدارة التسويق والمتجر الالكتروني",
         "name_en": "Marketing and E-Commerce Department",
         "level": 3,
-        "position_count": 0
+        "position_count": 9,
+        "sub_department_count": 2
       },
       {
         "slug": "sales-and-operations",
@@ -32103,7 +32112,8 @@
         "name_ar": "إدارة المبيعات والعمليات",
         "name_en": "Sales and Operations Department",
         "level": 3,
-        "position_count": 4
+        "position_count": 15,
+        "sub_department_count": 2
       },
       {
         "slug": "supply-chain",
@@ -32111,7 +32121,8 @@
         "name_ar": "إدارة سلاسل الإمداد والتوريد",
         "name_en": "Supply Chain Department",
         "level": 3,
-        "position_count": 0
+        "position_count": 17,
+        "sub_department_count": 6
       }
     ],
     "by_slug": {
@@ -32121,7 +32132,8 @@
         "name_ar": "إدارة خدمات ما بعد البيع",
         "name_en": "After-Sales Service Department",
         "level": 3,
-        "position_count": 2,
+        "position_count": 8,
+        "sub_department_count": 4,
         "mission_ar": "المساهمة في تمكين الشركة من تحقيق رؤيتها ورسالتها وأهدافها من خلال إعداد خطط التوصيل، التركيب، والصيانة، ومتابعة تنفيذها والإشراف على توفير جميع خدمات ما بعد البيع للعملاء بالشكل الذي يضمن وفاءها بالتزاماتها في مواعيدها.",
         "mission_en": "Contribute to enabling the company to achieve its vision, mission, and goals by preparing plans for delivery, installation, and maintenance, monitoring their implementation, and overseeing the provision of all after-sales services to customers in a manner that ensures fulfillment of its commitments on schedule.",
         "manager_full_name_ar": "صالح محمد ناشي الحربي",
@@ -32342,24 +32354,228 @@
         ],
         "positions": [
           {
-            "slug": null,
-            "name_ar": "مساعد إداري – خدمات ما بعد البيع",
-            "name_en": "Administrative Assistant – After-Sales",
-            "reference_grade": null,
-            "kpi_weight_pct": "80.0",
-            "competency_weight_pct": "20.0",
-            "employee_count": 1,
-            "is_cross_cutting": false
+            "slug": "administrative-assistant",
+            "name_ar": "مساعد إداري",
+            "name_en": "Administrative Assistant",
+            "reference_grade": "المستوى السادس",
+            "kpi_weight_pct": null,
+            "competency_weight_pct": null,
+            "employee_count": null,
+            "is_cross_cutting": null,
+            "sub_department_jisr_id": null,
+            "sub_department_name_ar": null,
+            "sub_department_name_en": null
+          },
+          {
+            "slug": "maintenance-center-supervisor",
+            "name_ar": "مشرف مركز صيانة",
+            "name_en": "Maintenance Center Supervisor",
+            "reference_grade": "المستوى الثالث",
+            "kpi_weight_pct": null,
+            "competency_weight_pct": null,
+            "employee_count": null,
+            "is_cross_cutting": null,
+            "sub_department_jisr_id": null,
+            "sub_department_name_ar": null,
+            "sub_department_name_en": null
+          },
+          {
+            "slug": "maintenance-section-manager",
+            "name_ar": "مدير قسم الصيانة",
+            "name_en": "Maintenance Section Manager",
+            "reference_grade": "المستوى الثاني",
+            "kpi_weight_pct": null,
+            "competency_weight_pct": null,
+            "employee_count": null,
+            "is_cross_cutting": null,
+            "sub_department_jisr_id": null,
+            "sub_department_name_ar": null,
+            "sub_department_name_en": null
           },
           {
             "slug": "after-sales-services-manager",
             "name_ar": "مدير خدمات ما بعد البيع",
             "name_en": "After-Sales Services Manager",
-            "reference_grade": null,
+            "reference_grade": "المستوى الثاني",
             "kpi_weight_pct": "70.0",
             "competency_weight_pct": "30.0",
             "employee_count": 1,
-            "is_cross_cutting": false
+            "is_cross_cutting": false,
+            "sub_department_jisr_id": 169421,
+            "sub_department_name_ar": "إدارة خدمات ما بعد البيع",
+            "sub_department_name_en": "After-Sales Service Department"
+          },
+          {
+            "slug": "delivery-installation-supervisor",
+            "name_ar": "مشرف التوصيل والتركيب",
+            "name_en": "Delivery & Installation Supervisor",
+            "reference_grade": "المستوى الثالث",
+            "kpi_weight_pct": "70.0",
+            "competency_weight_pct": "30.0",
+            "employee_count": 1,
+            "is_cross_cutting": false,
+            "sub_department_jisr_id": 169422,
+            "sub_department_name_ar": "قسم التوصيل والتركيب",
+            "sub_department_name_en": "Delivery & Installation Section"
+          },
+          {
+            "slug": "mda-maintenance-supervisor",
+            "name_ar": "مشرف صيانة الأجهزة الكبيرة",
+            "name_en": "MDA Maintenance Supervisor",
+            "reference_grade": "المستوى الثالث",
+            "kpi_weight_pct": "70.0",
+            "competency_weight_pct": "30.0",
+            "employee_count": 1,
+            "is_cross_cutting": false,
+            "sub_department_jisr_id": 169423,
+            "sub_department_name_ar": "وحدة صيانة الأجهزة الكبيرة – مدن متعددة",
+            "sub_department_name_en": "MDA Maintenance – Field Unit"
+          },
+          {
+            "slug": "operations-coordinator-after-sales",
+            "name_ar": "منسق عمليات خدمات ما بعد البيع",
+            "name_en": "Operations Coordinator After-Sales",
+            "reference_grade": "المستوى السادس",
+            "kpi_weight_pct": "80.0",
+            "competency_weight_pct": "20.0",
+            "employee_count": 1,
+            "is_cross_cutting": false,
+            "sub_department_jisr_id": 169420,
+            "sub_department_name_ar": "وحدة المنطقة الغربية",
+            "sub_department_name_en": "Western Region Unit"
+          },
+          {
+            "slug": "senior-small-appliance-technician",
+            "name_ar": "فني أول أجهزة صغيرة",
+            "name_en": "Senior Small-Appliance Technician",
+            "reference_grade": "المستوى السادس",
+            "kpi_weight_pct": "80.0",
+            "competency_weight_pct": "20.0",
+            "employee_count": 2,
+            "is_cross_cutting": true,
+            "sub_department_jisr_id": 169403,
+            "sub_department_name_ar": "وحدة الصيانة المستودع الرئيسي",
+            "sub_department_name_en": "Main Warehouse Maintenance Unit"
+          }
+        ],
+        "sub_departments": [
+          {
+            "jisr_id": 169421,
+            "name_ar": "إدارة خدمات ما بعد البيع",
+            "name_en": "After-Sales Service Department",
+            "level": 3,
+            "parent_jisr_id": 169432,
+            "path_names_en": [
+              "General Management",
+              "Executive Management"
+            ],
+            "is_direct": true,
+            "position_count": 4,
+            "positions": [
+              {
+                "slug": "administrative-assistant",
+                "name_ar": "مساعد إداري",
+                "name_en": "Administrative Assistant"
+              },
+              {
+                "slug": "after-sales-services-manager",
+                "name_ar": "مدير خدمات ما بعد البيع",
+                "name_en": "After-Sales Services Manager"
+              },
+              {
+                "slug": "maintenance-center-supervisor",
+                "name_ar": "مشرف مركز صيانة",
+                "name_en": "Maintenance Center Supervisor"
+              },
+              {
+                "slug": "maintenance-section-manager",
+                "name_ar": "مدير قسم الصيانة",
+                "name_en": "Maintenance Section Manager"
+              }
+            ]
+          },
+          {
+            "jisr_id": 169422,
+            "name_ar": "قسم التوصيل والتركيب",
+            "name_en": "Delivery & Installation Section",
+            "level": 4,
+            "parent_jisr_id": 169421,
+            "path_names_en": [
+              "General Management",
+              "Executive Management",
+              "After-Sales Service Department"
+            ],
+            "position_count": 1,
+            "positions": [
+              {
+                "slug": "delivery-installation-supervisor",
+                "name_ar": "مشرف التوصيل والتركيب",
+                "name_en": "Delivery & Installation Supervisor"
+              }
+            ]
+          },
+          {
+            "jisr_id": 169423,
+            "name_ar": "وحدة صيانة الأجهزة الكبيرة – مدن متعددة",
+            "name_en": "MDA Maintenance – Field Unit",
+            "level": 5,
+            "parent_jisr_id": 169417,
+            "path_names_en": [
+              "General Management",
+              "Executive Management",
+              "After-Sales Service Department",
+              "Maintenance Section – After-Sales"
+            ],
+            "position_count": 1,
+            "positions": [
+              {
+                "slug": "mda-maintenance-supervisor",
+                "name_ar": "مشرف صيانة الأجهزة الكبيرة",
+                "name_en": "MDA Maintenance Supervisor"
+              }
+            ]
+          },
+          {
+            "jisr_id": 169403,
+            "name_ar": "وحدة الصيانة المستودع الرئيسي",
+            "name_en": "Main Warehouse Maintenance Unit",
+            "level": 5,
+            "parent_jisr_id": 169417,
+            "path_names_en": [
+              "General Management",
+              "Executive Management",
+              "After-Sales Service Department",
+              "Maintenance Section – After-Sales"
+            ],
+            "position_count": 1,
+            "positions": [
+              {
+                "slug": "senior-small-appliance-technician",
+                "name_ar": "فني أول أجهزة صغيرة",
+                "name_en": "Senior Small-Appliance Technician"
+              }
+            ]
+          },
+          {
+            "jisr_id": 169420,
+            "name_ar": "وحدة المنطقة الغربية",
+            "name_en": "Western Region Unit",
+            "level": 5,
+            "parent_jisr_id": 169422,
+            "path_names_en": [
+              "General Management",
+              "Executive Management",
+              "After-Sales Service Department",
+              "Delivery & Installation Section"
+            ],
+            "position_count": 1,
+            "positions": [
+              {
+                "slug": "operations-coordinator-after-sales",
+                "name_ar": "منسق عمليات خدمات ما بعد البيع",
+                "name_en": "Operations Coordinator After-Sales"
+              }
+            ]
           }
         ],
         "saudization": null
@@ -32370,7 +32586,8 @@
         "name_ar": "إدارة العناية بالعملاء",
         "name_en": "Customer Care Department",
         "level": 3,
-        "position_count": 1,
+        "position_count": 4,
+        "sub_department_count": 1,
         "mission_ar": "المساهمة في تمكين الشركة من تحقيق رؤيتها ورسالتها وأهدافها من خلال إرضاء العملاء وكسب ولائهم وتقديم تجارب إيجابية عند تعاملهم مع الشركة ومنتجاتها والخدمات المرتبطة بها، ومعالجة شكواهم وتلبية متطلباتهم بالتنسيق مع الوحدات الإدارية المعنية، مما ينعكس مباشرة على نمو أرباح الشركة.",
         "mission_en": "Contribute to enabling the company to achieve its vision, mission, and goals by satisfying customers, earning their loyalty, providing positive experiences in their dealings with the company, its products, and related services, and addressing their complaints and meeting their requirements in coordination with the concerned administrative units, which directly reflects on the company's profit growth.",
         "manager_full_name_ar": "ريم ناصر المحياني",
@@ -32703,14 +32920,108 @@
         ],
         "positions": [
           {
+            "slug": "customer-care-quality-officer",
+            "name_ar": "مسؤول جودة العناية بالعملاء",
+            "name_en": "Customer Care Quality Officer",
+            "reference_grade": "المستوى السادس",
+            "kpi_weight_pct": null,
+            "competency_weight_pct": null,
+            "employee_count": null,
+            "is_cross_cutting": null,
+            "sub_department_jisr_id": null,
+            "sub_department_name_ar": null,
+            "sub_department_name_en": null
+          },
+          {
             "slug": "customer-care-manager",
             "name_ar": "مدير العناية بالعملاء",
             "name_en": "Customer Care Manager",
-            "reference_grade": null,
+            "reference_grade": "المستوى الثاني",
             "kpi_weight_pct": "70.0",
             "competency_weight_pct": "30.0",
             "employee_count": 1,
-            "is_cross_cutting": false
+            "is_cross_cutting": false,
+            "sub_department_jisr_id": 179707,
+            "sub_department_name_ar": "إدارة العناية بالعملاء",
+            "sub_department_name_en": "Customer Care Department"
+          },
+          {
+            "slug": "customer-care-officer",
+            "name_ar": "مسؤول العناية بالعملاء",
+            "name_en": "Customer Care Officer",
+            "reference_grade": "المستوى السادس",
+            "kpi_weight_pct": "80.0",
+            "competency_weight_pct": "20.0",
+            "employee_count": 11,
+            "is_cross_cutting": false,
+            "sub_department_jisr_id": 181489,
+            "sub_department_name_ar": "قسم العناية بالعملاء",
+            "sub_department_name_en": "Customer Care Section"
+          },
+          {
+            "slug": "customer-care-supervisor",
+            "name_ar": "مشرف العناية بالعملاء",
+            "name_en": "Customer Care Supervisor",
+            "reference_grade": "المستوى الثالث",
+            "kpi_weight_pct": "70.0",
+            "competency_weight_pct": "30.0",
+            "employee_count": 1,
+            "is_cross_cutting": false,
+            "sub_department_jisr_id": 181489,
+            "sub_department_name_ar": "قسم العناية بالعملاء",
+            "sub_department_name_en": "Customer Care Section"
+          }
+        ],
+        "sub_departments": [
+          {
+            "jisr_id": 179707,
+            "name_ar": "إدارة العناية بالعملاء",
+            "name_en": "Customer Care Department",
+            "level": 3,
+            "parent_jisr_id": 169432,
+            "path_names_en": [
+              "General Management",
+              "Executive Management"
+            ],
+            "is_direct": true,
+            "position_count": 2,
+            "positions": [
+              {
+                "slug": "customer-care-manager",
+                "name_ar": "مدير العناية بالعملاء",
+                "name_en": "Customer Care Manager"
+              },
+              {
+                "slug": "customer-care-quality-officer",
+                "name_ar": "مسؤول جودة العناية بالعملاء",
+                "name_en": "Customer Care Quality Officer"
+              }
+            ]
+          },
+          {
+            "jisr_id": 181489,
+            "name_ar": "قسم العناية بالعملاء",
+            "name_en": "Customer Care Section",
+            "level": 4,
+            "parent_jisr_id": 179707,
+            "path_names_en": [
+              "General Management",
+              "Executive Management",
+              "Customer Care Department"
+            ],
+            "position_count": 2,
+            "positions": [
+              {
+                "slug": "customer-care-officer",
+                "name_ar": "مسؤول العناية بالعملاء",
+                "name_en": "Customer Care Officer"
+              },
+              {
+                "slug": "customer-care-supervisor",
+                "name_ar": "مشرف العناية بالعملاء",
+                "name_en": "Customer Care Supervisor"
+              }
+            ]
           }
         ],
         "saudization": {
@@ -32729,7 +33040,8 @@
         "name_ar": "الإدارة المالية",
         "name_en": "Finance Department",
         "level": 3,
-        "position_count": 2,
+        "position_count": 12,
+        "sub_department_count": 1,
         "mission_ar": "المساهمة في تمكين الشركة من تحقيق رؤيتها ورسالتها وأهدافها من خلال إدارة السجلات المحاسبية وإجراء القيود المحاسبية والتسويات وفقاً للنظام المحاسبي والمعايير المحاسبية المعتمدة في المملكة العربية السعودية، وإدارة عمليات المرتبطة بالأصول وإعداد الحسابات الختامية للشركة، وإعداد التقارير المالية الدورية.",
         "mission_en": "To contribute to enabling the company to achieve its vision, mission, and goals by managing accounting records, performing accounting entries and settlements in accordance with the accounting system and standards adopted in the Kingdom of Saudi Arabia, managing asset-related operations, preparing the company's final accounts, and preparing periodic financial reports.",
         "manager_full_name_ar": "معتز علي محمد الأشقر",
@@ -33111,24 +33423,252 @@
         ],
         "positions": [
           {
+            "slug": "cost-inventory-accountant",
+            "name_ar": "محاسب التكاليف والمخزون",
+            "name_en": "Cost & Inventory Accountant",
+            "reference_grade": "المستوى الرابع",
+            "kpi_weight_pct": null,
+            "competency_weight_pct": null,
+            "employee_count": null,
+            "is_cross_cutting": null,
+            "sub_department_jisr_id": null,
+            "sub_department_name_ar": null,
+            "sub_department_name_en": null
+          },
+          {
+            "slug": "general-ledger-accountant",
+            "name_ar": "محاسب الأستاذ العام",
+            "name_en": "General Ledger Accountant",
+            "reference_grade": "المستوى الرابع",
+            "kpi_weight_pct": null,
+            "competency_weight_pct": null,
+            "employee_count": null,
+            "is_cross_cutting": null,
+            "sub_department_jisr_id": null,
+            "sub_department_name_ar": null,
+            "sub_department_name_en": null
+          },
+          {
+            "slug": "revenue-pos-accountant",
+            "name_ar": "محاسب الإيرادات ونقاط البيع",
+            "name_en": "Revenue & POS Accountant",
+            "reference_grade": "المستوى الرابع",
+            "kpi_weight_pct": null,
+            "competency_weight_pct": null,
+            "employee_count": null,
+            "is_cross_cutting": null,
+            "sub_department_jisr_id": null,
+            "sub_department_name_ar": null,
+            "sub_department_name_en": null
+          },
+          {
+            "slug": "senior-accounts-payable-accountant",
+            "name_ar": "محاسب أول الذمم الدائنة",
+            "name_en": "Senior Accounts Payable Accountant",
+            "reference_grade": "المستوى الرابع",
+            "kpi_weight_pct": null,
+            "competency_weight_pct": null,
+            "employee_count": null,
+            "is_cross_cutting": null,
+            "sub_department_jisr_id": null,
+            "sub_department_name_ar": null,
+            "sub_department_name_en": null
+          },
+          {
+            "slug": "senior-cost-accountant",
+            "name_ar": "محاسب أول تكاليف",
+            "name_en": "Senior Cost Accountant",
+            "reference_grade": "المستوى الرابع",
+            "kpi_weight_pct": null,
+            "competency_weight_pct": null,
+            "employee_count": null,
+            "is_cross_cutting": null,
+            "sub_department_jisr_id": null,
+            "sub_department_name_ar": null,
+            "sub_department_name_en": null
+          },
+          {
+            "slug": "senior-general-ledger-tax-accountant",
+            "name_ar": "محاسب أول الأستاذ العام والضرائب",
+            "name_en": "Senior General Ledger & Tax Accountant",
+            "reference_grade": "المستوى الرابع",
+            "kpi_weight_pct": null,
+            "competency_weight_pct": null,
+            "employee_count": null,
+            "is_cross_cutting": null,
+            "sub_department_jisr_id": null,
+            "sub_department_name_ar": null,
+            "sub_department_name_en": null
+          },
+          {
+            "slug": "suppliers-accounts-accountant",
+            "name_ar": "محاسب حسابات الموردين",
+            "name_en": "Suppliers Accounts Accountant",
+            "reference_grade": "المستوى الرابع",
+            "kpi_weight_pct": null,
+            "competency_weight_pct": null,
+            "employee_count": null,
+            "is_cross_cutting": null,
+            "sub_department_jisr_id": null,
+            "sub_department_name_ar": null,
+            "sub_department_name_en": null
+          },
+          {
+            "slug": "treasury-accountant",
+            "name_ar": "محاسب الخزينة",
+            "name_en": "Treasury Accountant",
+            "reference_grade": "المستوى الرابع",
+            "kpi_weight_pct": null,
+            "competency_weight_pct": null,
+            "employee_count": null,
+            "is_cross_cutting": null,
+            "sub_department_jisr_id": null,
+            "sub_department_name_ar": null,
+            "sub_department_name_en": null
+          },
+          {
             "slug": "finance-director",
             "name_ar": "المدير المالي",
             "name_en": "Finance Director",
-            "reference_grade": null,
+            "reference_grade": "المستوى الثاني",
             "kpi_weight_pct": "70.0",
             "competency_weight_pct": "30.0",
             "employee_count": 1,
-            "is_cross_cutting": false
+            "is_cross_cutting": false,
+            "sub_department_jisr_id": 169437,
+            "sub_department_name_ar": "الإدارة المالية",
+            "sub_department_name_en": "Finance Department"
           },
           {
             "slug": "financial-reporting-budgeting-manager",
             "name_ar": "مدير التقارير المالية والموازنة",
             "name_en": "Financial Reporting & Budgeting Manager",
-            "reference_grade": null,
+            "reference_grade": "المستوى الثاني",
             "kpi_weight_pct": "70.0",
             "competency_weight_pct": "30.0",
             "employee_count": 1,
-            "is_cross_cutting": false
+            "is_cross_cutting": false,
+            "sub_department_jisr_id": 169437,
+            "sub_department_name_ar": "الإدارة المالية",
+            "sub_department_name_en": "Finance Department"
+          },
+          {
+            "slug": "accounts-manager",
+            "name_ar": "مدير الحسابات",
+            "name_en": "Accounts Manager",
+            "reference_grade": "المستوى الثاني",
+            "kpi_weight_pct": "70.0",
+            "competency_weight_pct": "30.0",
+            "employee_count": 1,
+            "is_cross_cutting": true,
+            "sub_department_jisr_id": 169394,
+            "sub_department_name_ar": "قسم الحسابات",
+            "sub_department_name_en": "Accounts Section"
+          },
+          {
+            "slug": "accounts-supervisor",
+            "name_ar": "مشرف الحسابات",
+            "name_en": "Accounts Supervisor",
+            "reference_grade": "المستوى الثالث",
+            "kpi_weight_pct": "70.0",
+            "competency_weight_pct": "30.0",
+            "employee_count": 1,
+            "is_cross_cutting": false,
+            "sub_department_jisr_id": 169394,
+            "sub_department_name_ar": "قسم الحسابات",
+            "sub_department_name_en": "Accounts Section"
+          }
+        ],
+        "sub_departments": [
+          {
+            "jisr_id": 169437,
+            "name_ar": "الإدارة المالية",
+            "name_en": "Finance Department",
+            "level": 3,
+            "parent_jisr_id": 169432,
+            "path_names_en": [
+              "General Management",
+              "Executive Management"
+            ],
+            "is_direct": true,
+            "position_count": 10,
+            "positions": [
+              {
+                "slug": "cost-inventory-accountant",
+                "name_ar": "محاسب التكاليف والمخزون",
+                "name_en": "Cost & Inventory Accountant"
+              },
+              {
+                "slug": "finance-director",
+                "name_ar": "المدير المالي",
+                "name_en": "Finance Director"
+              },
+              {
+                "slug": "financial-reporting-budgeting-manager",
+                "name_ar": "مدير التقارير المالية والموازنة",
+                "name_en": "Financial Reporting & Budgeting Manager"
+              },
+              {
+                "slug": "general-ledger-accountant",
+                "name_ar": "محاسب الأستاذ العام",
+                "name_en": "General Ledger Accountant"
+              },
+              {
+                "slug": "revenue-pos-accountant",
+                "name_ar": "محاسب الإيرادات ونقاط البيع",
+                "name_en": "Revenue & POS Accountant"
+              },
+              {
+                "slug": "senior-accounts-payable-accountant",
+                "name_ar": "محاسب أول الذمم الدائنة",
+                "name_en": "Senior Accounts Payable Accountant"
+              },
+              {
+                "slug": "senior-cost-accountant",
+                "name_ar": "محاسب أول تكاليف",
+                "name_en": "Senior Cost Accountant"
+              },
+              {
+                "slug": "senior-general-ledger-tax-accountant",
+                "name_ar": "محاسب أول الأستاذ العام والضرائب",
+                "name_en": "Senior General Ledger & Tax Accountant"
+              },
+              {
+                "slug": "suppliers-accounts-accountant",
+                "name_ar": "محاسب حسابات الموردين",
+                "name_en": "Suppliers Accounts Accountant"
+              },
+              {
+                "slug": "treasury-accountant",
+                "name_ar": "محاسب الخزينة",
+                "name_en": "Treasury Accountant"
+              }
+            ]
+          },
+          {
+            "jisr_id": 169394,
+            "name_ar": "قسم الحسابات",
+            "name_en": "Accounts Section",
+            "level": 4,
+            "parent_jisr_id": 169437,
+            "path_names_en": [
+              "General Management",
+              "Executive Management",
+              "Finance Department"
+            ],
+            "position_count": 2,
+            "positions": [
+              {
+                "slug": "accounts-manager",
+                "name_ar": "مدير الحسابات",
+                "name_en": "Accounts Manager"
+              },
+              {
+                "slug": "accounts-supervisor",
+                "name_ar": "مشرف الحسابات",
+                "name_en": "Accounts Supervisor"
+              }
+            ]
           }
         ],
         "saudization": {
@@ -33147,7 +33687,8 @@
         "name_ar": "إدارة الموارد البشرية والخدمات المساندة",
         "name_en": "HR and Support Services Department",
         "level": 3,
-        "position_count": 2,
+        "position_count": 16,
+        "sub_department_count": 4,
         "mission_ar": "المساهمة في تمكين الشركة من تحقيق رؤيتها ورسالتها وأهدافها من خلال العمل على تنمية الموارد البشرية، وتوفير الخدمات الإدارية، العلاقات الحكومية، والأعمال المساندة، لكافة الوحدات الإدارية المختلفة في الشركة وأثناء كافة الإجراءات اللازمة لتوفيرها وتأمينها بالمدة الزمنية والمواصفات المطلوبة، بما يساعدها على زيادة فاعليتها وأداء مهامهم على أكمل وجه.",
         "mission_en": "To contribute to enabling the company to achieve its vision, mission, and goals by developing human resources, and providing administrative services, government relations, and support services to all different administrative units in the company, ensuring they are provided and secured within the required timeframe and specifications, thereby enhancing their effectiveness and the performance of their tasks to the fullest.",
         "manager_full_name_ar": "سعد محمد مقعد العتيبي",
@@ -33571,24 +34112,371 @@
         ],
         "positions": [
           {
-            "slug": null,
-            "name_ar": "اخصائي عمليات الموارد البشرية",
+            "slug": "administrative-operations-officer",
+            "name_ar": "مسؤول عمليات إداري",
+            "name_en": "Administrative Operations Officer",
+            "reference_grade": "المستوى السادس",
+            "kpi_weight_pct": null,
+            "competency_weight_pct": null,
+            "employee_count": null,
+            "is_cross_cutting": null,
+            "sub_department_jisr_id": null,
+            "sub_department_name_ar": null,
+            "sub_department_name_en": null
+          },
+          {
+            "slug": "administrative-operations-specialist",
+            "name_ar": "أخصائي عمليات إداري",
+            "name_en": "Administrative Operations Specialist",
+            "reference_grade": "المستوى الرابع",
+            "kpi_weight_pct": null,
+            "competency_weight_pct": null,
+            "employee_count": null,
+            "is_cross_cutting": null,
+            "sub_department_jisr_id": null,
+            "sub_department_name_ar": null,
+            "sub_department_name_en": null
+          },
+          {
+            "slug": "hr-operations-specialist",
+            "name_ar": "أخصائي عمليات الموارد البشرية",
             "name_en": "HR Operations Specialist",
-            "reference_grade": null,
-            "kpi_weight_pct": "80.0",
-            "competency_weight_pct": "20.0",
-            "employee_count": 1,
-            "is_cross_cutting": true
+            "reference_grade": "المستوى الرابع",
+            "kpi_weight_pct": null,
+            "competency_weight_pct": null,
+            "employee_count": null,
+            "is_cross_cutting": null,
+            "sub_department_jisr_id": null,
+            "sub_department_name_ar": null,
+            "sub_department_name_en": null
+          },
+          {
+            "slug": "talent-acquisition-section-head",
+            "name_ar": "رئيس قسم استقطاب المواهب",
+            "name_en": "Talent Acquisition Section Head",
+            "reference_grade": "المستوى الثالث",
+            "kpi_weight_pct": null,
+            "competency_weight_pct": null,
+            "employee_count": null,
+            "is_cross_cutting": null,
+            "sub_department_jisr_id": null,
+            "sub_department_name_ar": null,
+            "sub_department_name_en": null
+          },
+          {
+            "slug": "talent-acquisition-specialist",
+            "name_ar": "أخصائي استقطاب المواهب",
+            "name_en": "Talent Acquisition Specialist",
+            "reference_grade": "المستوى الرابع",
+            "kpi_weight_pct": null,
+            "competency_weight_pct": null,
+            "employee_count": null,
+            "is_cross_cutting": null,
+            "sub_department_jisr_id": null,
+            "sub_department_name_ar": null,
+            "sub_department_name_en": null
           },
           {
             "slug": "hr-and-support-services-director",
             "name_ar": "مدير الموارد البشرية والخدمات المساندة",
             "name_en": "HR and Support Services Director",
-            "reference_grade": null,
+            "reference_grade": "المستوى الثاني",
             "kpi_weight_pct": "70.0",
             "competency_weight_pct": "30.0",
             "employee_count": 1,
-            "is_cross_cutting": false
+            "is_cross_cutting": false,
+            "sub_department_jisr_id": 169429,
+            "sub_department_name_ar": "إدارة الموارد البشرية والخدمات المساندة",
+            "sub_department_name_en": "HR and Support Services Department"
+          },
+          {
+            "slug": "government-relations-officer",
+            "name_ar": "مسؤول علاقات حكومية",
+            "name_en": "Government Relations Officer",
+            "reference_grade": "المستوى السادس",
+            "kpi_weight_pct": "80.0",
+            "competency_weight_pct": "20.0",
+            "employee_count": 1,
+            "is_cross_cutting": false,
+            "sub_department_jisr_id": 169434,
+            "sub_department_name_ar": "قسم الموارد البشرية",
+            "sub_department_name_en": "HR Section"
+          },
+          {
+            "slug": "hr-operations-section-head",
+            "name_ar": "رئيس قسم عمليات الموارد البشرية",
+            "name_en": "HR Operations Section Head",
+            "reference_grade": "المستوى الثالث",
+            "kpi_weight_pct": "70.0",
+            "competency_weight_pct": "30.0",
+            "employee_count": 1,
+            "is_cross_cutting": false,
+            "sub_department_jisr_id": 169434,
+            "sub_department_name_ar": "قسم الموارد البشرية",
+            "sub_department_name_en": "HR Section"
+          },
+          {
+            "slug": "support-services-manager",
+            "name_ar": "مدير الخدمات المساندة",
+            "name_en": "Support Services Manager",
+            "reference_grade": "المستوى الثاني",
+            "kpi_weight_pct": "70.0",
+            "competency_weight_pct": "30.0",
+            "employee_count": 1,
+            "is_cross_cutting": false,
+            "sub_department_jisr_id": 169430,
+            "sub_department_name_ar": "قسم الخدمات المساندة",
+            "sub_department_name_en": "Support Services Section"
+          },
+          {
+            "slug": "talent-acquisition-coordinator",
+            "name_ar": "منسق استقطاب المواهب",
+            "name_en": "Talent Acquisition Coordinator",
+            "reference_grade": "المستوى السادس",
+            "kpi_weight_pct": "80.0",
+            "competency_weight_pct": "20.0",
+            "employee_count": 1,
+            "is_cross_cutting": false,
+            "sub_department_jisr_id": 169434,
+            "sub_department_name_ar": "قسم الموارد البشرية",
+            "sub_department_name_en": "HR Section"
+          },
+          {
+            "slug": "talent-acquisition-officer",
+            "name_ar": "مسؤول استقطاب المواهب",
+            "name_en": "Talent Acquisition Officer",
+            "reference_grade": "المستوى السادس",
+            "kpi_weight_pct": "80.0",
+            "competency_weight_pct": "20.0",
+            "employee_count": 2,
+            "is_cross_cutting": false,
+            "sub_department_jisr_id": 169434,
+            "sub_department_name_ar": "قسم الموارد البشرية",
+            "sub_department_name_en": "HR Section"
+          },
+          {
+            "slug": "accommodation-officer",
+            "name_ar": "مسؤول سكن",
+            "name_en": "Accommodation Officer",
+            "reference_grade": "المستوى السادس",
+            "kpi_weight_pct": "80.0",
+            "competency_weight_pct": "20.0",
+            "employee_count": 1,
+            "is_cross_cutting": false,
+            "sub_department_jisr_id": 169393,
+            "sub_department_name_ar": "وحدة الخدمات المساندة",
+            "sub_department_name_en": "Support Services Unit"
+          },
+          {
+            "slug": "maintenance-projects-supervisor",
+            "name_ar": "مشرف الصيانة والمشاريع",
+            "name_en": "Maintenance & Projects Supervisor",
+            "reference_grade": "المستوى الثالث",
+            "kpi_weight_pct": "70.0",
+            "competency_weight_pct": "30.0",
+            "employee_count": 1,
+            "is_cross_cutting": false,
+            "sub_department_jisr_id": 169393,
+            "sub_department_name_ar": "وحدة الخدمات المساندة",
+            "sub_department_name_en": "Support Services Unit"
+          },
+          {
+            "slug": "maintenance-officer",
+            "name_ar": "مسؤول الصيانة",
+            "name_en": "Maintenance Officer",
+            "reference_grade": "المستوى السادس",
+            "kpi_weight_pct": "80.0",
+            "competency_weight_pct": "20.0",
+            "employee_count": 1,
+            "is_cross_cutting": false,
+            "sub_department_jisr_id": 169407,
+            "sub_department_name_ar": "وحدة الصيانة والمشاريع",
+            "sub_department_name_en": "Projects & Maintenance Unit"
+          },
+          {
+            "slug": "support-services-coordinator",
+            "name_ar": "منسق الخدمات المساندة",
+            "name_en": "Support Services Coordinator",
+            "reference_grade": "المستوى السادس",
+            "kpi_weight_pct": "80.0",
+            "competency_weight_pct": "20.0",
+            "employee_count": 1,
+            "is_cross_cutting": false,
+            "sub_department_jisr_id": 169393,
+            "sub_department_name_ar": "وحدة الخدمات المساندة",
+            "sub_department_name_en": "Support Services Unit"
+          },
+          {
+            "slug": "support-services-officer",
+            "name_ar": "مسؤول الخدمات المساندة",
+            "name_en": "Support Services Officer",
+            "reference_grade": "المستوى السادس",
+            "kpi_weight_pct": "80.0",
+            "competency_weight_pct": "20.0",
+            "employee_count": 2,
+            "is_cross_cutting": false,
+            "sub_department_jisr_id": 169393,
+            "sub_department_name_ar": "وحدة الخدمات المساندة",
+            "sub_department_name_en": "Support Services Unit"
+          }
+        ],
+        "sub_departments": [
+          {
+            "jisr_id": 169429,
+            "name_ar": "إدارة الموارد البشرية والخدمات المساندة",
+            "name_en": "HR and Support Services Department",
+            "level": 3,
+            "parent_jisr_id": 169432,
+            "path_names_en": [
+              "General Management",
+              "Executive Management"
+            ],
+            "is_direct": true,
+            "position_count": 6,
+            "positions": [
+              {
+                "slug": "administrative-operations-officer",
+                "name_ar": "مسؤول عمليات إداري",
+                "name_en": "Administrative Operations Officer"
+              },
+              {
+                "slug": "administrative-operations-specialist",
+                "name_ar": "أخصائي عمليات إداري",
+                "name_en": "Administrative Operations Specialist"
+              },
+              {
+                "slug": "hr-operations-specialist",
+                "name_ar": "أخصائي عمليات الموارد البشرية",
+                "name_en": "HR Operations Specialist"
+              },
+              {
+                "slug": "hr-and-support-services-director",
+                "name_ar": "مدير الموارد البشرية والخدمات المساندة",
+                "name_en": "HR and Support Services Director"
+              },
+              {
+                "slug": "talent-acquisition-section-head",
+                "name_ar": "رئيس قسم استقطاب المواهب",
+                "name_en": "Talent Acquisition Section Head"
+              },
+              {
+                "slug": "talent-acquisition-specialist",
+                "name_ar": "أخصائي استقطاب المواهب",
+                "name_en": "Talent Acquisition Specialist"
+              }
+            ]
+          },
+          {
+            "jisr_id": 169434,
+            "name_ar": "قسم الموارد البشرية",
+            "name_en": "HR Section",
+            "level": 4,
+            "parent_jisr_id": 169429,
+            "path_names_en": [
+              "General Management",
+              "Executive Management",
+              "HR and Support Services Department"
+            ],
+            "position_count": 4,
+            "positions": [
+              {
+                "slug": "government-relations-officer",
+                "name_ar": "مسؤول علاقات حكومية",
+                "name_en": "Government Relations Officer"
+              },
+              {
+                "slug": "hr-operations-section-head",
+                "name_ar": "رئيس قسم عمليات الموارد البشرية",
+                "name_en": "HR Operations Section Head"
+              },
+              {
+                "slug": "talent-acquisition-coordinator",
+                "name_ar": "منسق استقطاب المواهب",
+                "name_en": "Talent Acquisition Coordinator"
+              },
+              {
+                "slug": "talent-acquisition-officer",
+                "name_ar": "مسؤول استقطاب المواهب",
+                "name_en": "Talent Acquisition Officer"
+              }
+            ]
+          },
+          {
+            "jisr_id": 169430,
+            "name_ar": "قسم الخدمات المساندة",
+            "name_en": "Support Services Section",
+            "level": 4,
+            "parent_jisr_id": 169429,
+            "path_names_en": [
+              "General Management",
+              "Executive Management",
+              "HR and Support Services Department"
+            ],
+            "position_count": 1,
+            "positions": [
+              {
+                "slug": "support-services-manager",
+                "name_ar": "مدير الخدمات المساندة",
+                "name_en": "Support Services Manager"
+              }
+            ]
+          },
+          {
+            "jisr_id": 169407,
+            "name_ar": "وحدة الصيانة والمشاريع",
+            "name_en": "Projects & Maintenance Unit",
+            "level": 5,
+            "parent_jisr_id": 169430,
+            "path_names_en": [
+              "General Management",
+              "Executive Management",
+              "HR and Support Services Department",
+              "Support Services Section"
+            ],
+            "position_count": 1,
+            "positions": [
+              {
+                "slug": "maintenance-officer",
+                "name_ar": "مسؤول الصيانة",
+                "name_en": "Maintenance Officer"
+              }
+            ]
+          },
+          {
+            "jisr_id": 169393,
+            "name_ar": "وحدة الخدمات المساندة",
+            "name_en": "Support Services Unit",
+            "level": 5,
+            "parent_jisr_id": 169430,
+            "path_names_en": [
+              "General Management",
+              "Executive Management",
+              "HR and Support Services Department",
+              "Support Services Section"
+            ],
+            "position_count": 4,
+            "positions": [
+              {
+                "slug": "accommodation-officer",
+                "name_ar": "مسؤول سكن",
+                "name_en": "Accommodation Officer"
+              },
+              {
+                "slug": "maintenance-projects-supervisor",
+                "name_ar": "مشرف الصيانة والمشاريع",
+                "name_en": "Maintenance & Projects Supervisor"
+              },
+              {
+                "slug": "support-services-coordinator",
+                "name_ar": "منسق الخدمات المساندة",
+                "name_en": "Support Services Coordinator"
+              },
+              {
+                "slug": "support-services-officer",
+                "name_ar": "مسؤول الخدمات المساندة",
+                "name_en": "Support Services Officer"
+              }
+            ]
           }
         ],
         "saudization": null
@@ -33600,6 +34488,7 @@
         "name_en": "Internal Audit Department",
         "level": 3,
         "position_count": 2,
+        "sub_department_count": 0,
         "mission_ar": null,
         "mission_en": null,
         "manager_full_name_ar": "محمد إسماعيل إبراهيم نجيع",
@@ -33788,21 +34677,54 @@
             "slug": "internal-audit-manager",
             "name_ar": "مدير المراجعة الداخلية",
             "name_en": "Internal Audit Manager",
-            "reference_grade": null,
+            "reference_grade": "المستوى الثاني",
             "kpi_weight_pct": "70.0",
             "competency_weight_pct": "30.0",
             "employee_count": 1,
-            "is_cross_cutting": false
+            "is_cross_cutting": false,
+            "sub_department_jisr_id": 170630,
+            "sub_department_name_ar": "إدارة المراجعة الداخلية",
+            "sub_department_name_en": "Internal Audit Department"
           },
           {
             "slug": "internal-auditor",
             "name_ar": "المراجع الداخلي",
             "name_en": "Internal Auditor",
-            "reference_grade": null,
+            "reference_grade": "المستوى السادس",
             "kpi_weight_pct": "80.0",
             "competency_weight_pct": "20.0",
             "employee_count": 1,
-            "is_cross_cutting": false
+            "is_cross_cutting": false,
+            "sub_department_jisr_id": 170630,
+            "sub_department_name_ar": "إدارة المراجعة الداخلية",
+            "sub_department_name_en": "Internal Audit Department"
+          }
+        ],
+        "sub_departments": [
+          {
+            "jisr_id": 170630,
+            "name_ar": "إدارة المراجعة الداخلية",
+            "name_en": "Internal Audit Department",
+            "level": 3,
+            "parent_jisr_id": 169432,
+            "path_names_en": [
+              "General Management",
+              "Executive Management"
+            ],
+            "is_direct": true,
+            "position_count": 2,
+            "positions": [
+              {
+                "slug": "internal-audit-manager",
+                "name_ar": "مدير المراجعة الداخلية",
+                "name_en": "Internal Audit Manager"
+              },
+              {
+                "slug": "internal-auditor",
+                "name_ar": "المراجع الداخلي",
+                "name_en": "Internal Auditor"
+              }
+            ]
           }
         ],
         "saudization": {
@@ -33821,7 +34743,8 @@
         "name_ar": "إدارة الجرد ومراقبة المخزون",
         "name_en": "Inventory and stock Control Department",
         "level": 3,
-        "position_count": 1,
+        "position_count": 4,
+        "sub_department_count": 1,
         "mission_ar": "المساهمة في تمكين الشركة من تحقيق رؤيتها ورسالتها وأهدافها من خلال عمليات جرد مخزون (المعارض، المستودعات، مستودع المتجر الإلكتروني، مخزون شركات اللوجستيات، شركات المنصات الخارجية التي تتعاقد معها الشركة) لـ (المملكة العربية السعودية، ودول الخليج \"4\") وإعداد التقارير المتصلة بها.",
         "mission_en": "Contribute to enabling the company to achieve its vision, mission, and goals through inventory counting operations for (showrooms, warehouses, e-commerce warehouse, logistics companies' stock, external platform companies contracted with the company) for (the Kingdom of Saudi Arabia, and the '4' Gulf countries) and preparing related reports.",
         "manager_full_name_ar": "أحمد سمير سيد رفاعي",
@@ -34093,12 +35016,106 @@
           {
             "slug": "inventory-stock-control-manager",
             "name_ar": "مدير الجرد ومراقبة المخزون",
-            "name_en": "Inventory and Stock Control Manager",
-            "reference_grade": null,
+            "name_en": "Inventory & Stock Control Manager",
+            "reference_grade": "المستوى الثاني",
             "kpi_weight_pct": "70.0",
             "competency_weight_pct": "30.0",
             "employee_count": 1,
-            "is_cross_cutting": false
+            "is_cross_cutting": false,
+            "sub_department_jisr_id": 169436,
+            "sub_department_name_ar": "إدارة الجرد ومراقبة المخزون",
+            "sub_department_name_en": "Inventory and stock Control Department"
+          },
+          {
+            "slug": "assistant-stock-controller",
+            "name_ar": "مساعد مراقب مخزون",
+            "name_en": "Assistant Stock Controller",
+            "reference_grade": "المستوى السادس",
+            "kpi_weight_pct": "80.0",
+            "competency_weight_pct": "20.0",
+            "employee_count": 6,
+            "is_cross_cutting": false,
+            "sub_department_jisr_id": 169404,
+            "sub_department_name_ar": "قسم الجرد ومراقبة المخزون",
+            "sub_department_name_en": "Inventory and Stock Control Section"
+          },
+          {
+            "slug": "inventory-stock-control-section-head",
+            "name_ar": "رئيس قسم الجرد ومراقبة المخزون",
+            "name_en": "Inventory & Stock Control Section Head",
+            "reference_grade": "المستوى الثالث",
+            "kpi_weight_pct": "70.0",
+            "competency_weight_pct": "30.0",
+            "employee_count": 1,
+            "is_cross_cutting": false,
+            "sub_department_jisr_id": 169404,
+            "sub_department_name_ar": "قسم الجرد ومراقبة المخزون",
+            "sub_department_name_en": "Inventory and Stock Control Section"
+          },
+          {
+            "slug": "inventory-controller",
+            "name_ar": "مراقب مخزون",
+            "name_en": "Inventory Controller",
+            "reference_grade": "المستوى السادس",
+            "kpi_weight_pct": "80.0",
+            "competency_weight_pct": "20.0",
+            "employee_count": 8,
+            "is_cross_cutting": false,
+            "sub_department_jisr_id": 169404,
+            "sub_department_name_ar": "قسم الجرد ومراقبة المخزون",
+            "sub_department_name_en": "Inventory and Stock Control Section"
+          }
+        ],
+        "sub_departments": [
+          {
+            "jisr_id": 169436,
+            "name_ar": "إدارة الجرد ومراقبة المخزون",
+            "name_en": "Inventory and stock Control Department",
+            "level": 3,
+            "parent_jisr_id": 169432,
+            "path_names_en": [
+              "General Management",
+              "Executive Management"
+            ],
+            "is_direct": true,
+            "position_count": 1,
+            "positions": [
+              {
+                "slug": "inventory-stock-control-manager",
+                "name_ar": "مدير الجرد ومراقبة المخزون",
+                "name_en": "Inventory & Stock Control Manager"
+              }
+            ]
+          },
+          {
+            "jisr_id": 169404,
+            "name_ar": "قسم الجرد ومراقبة المخزون",
+            "name_en": "Inventory and Stock Control Section",
+            "level": 4,
+            "parent_jisr_id": 169436,
+            "path_names_en": [
+              "General Management",
+              "Executive Management",
+              "Inventory and stock Control Department"
+            ],
+            "position_count": 3,
+            "positions": [
+              {
+                "slug": "assistant-stock-controller",
+                "name_ar": "مساعد مراقب مخزون",
+                "name_en": "Assistant Stock Controller"
+              },
+              {
+                "slug": "inventory-stock-control-section-head",
+                "name_ar": "رئيس قسم الجرد ومراقبة المخزون",
+                "name_en": "Inventory & Stock Control Section Head"
+              },
+              {
+                "slug": "inventory-controller",
+                "name_ar": "مراقب مخزون",
+                "name_en": "Inventory Controller"
+              }
+            ]
           }
         ],
         "saudization": null
@@ -34109,7 +35126,8 @@
         "name_ar": "إدارة تقنية المعلومات",
         "name_en": "IT Department",
         "level": 3,
-        "position_count": 1,
+        "position_count": 13,
+        "sub_department_count": 3,
         "mission_ar": "المساهمة في تمكين الشركة من تحقيق رؤيتها ورسالتها وأهدافها من خلال تفعيل استخدام تقنيات المعلومات وتطبيقاتها الرقمية والداخلية (المتجر الالكتروني، الجوال) وتوفير بنية تحتية تقنية متطورة لدعم جميع أعمال الشركة المساعدة، الرقابية، والتشغيلية وإدارة صيانة أنظمة وشبكة المعلومات، ونظام ERP بما يحقق أعلى درجات الكفاءة والفعالية في استخدام التقنيات المعلوماتية الرقمية في أعمال الشركة، واستخراج وتنقيح البيانات والمعلومات.",
         "mission_en": "Contribute to enabling the company to achieve its vision, mission, and goals by activating the use of information technologies and its digital and internal applications (e-commerce store, mobile app), providing an advanced IT infrastructure to support all of the company's support, control, and operational activities, managing the maintenance of systems, the network, and the ERP system to achieve the highest levels of efficiency and effectiveness in using digital information technologies in the company's operations, and extracting and refining data and information.",
         "manager_full_name_ar": "خالد عاطف عبد النبي أحمد",
@@ -34323,14 +35341,300 @@
         ],
         "positions": [
           {
+            "slug": "infrastructure-technical-support-section-head",
+            "name_ar": "رئيس قسم البنية التحتية والدعم التقني",
+            "name_en": "Infrastructure & Technical Support Section Head",
+            "reference_grade": "المستوى الثالث",
+            "kpi_weight_pct": null,
+            "competency_weight_pct": null,
+            "employee_count": null,
+            "is_cross_cutting": null,
+            "sub_department_jisr_id": null,
+            "sub_department_name_ar": null,
+            "sub_department_name_en": null
+          },
+          {
+            "slug": "internal-applications-development-section-head",
+            "name_ar": "رئيس قسم تطوير التطبيقات الداخلية",
+            "name_en": "Internal Applications Development Section Head",
+            "reference_grade": "المستوى الثالث",
+            "kpi_weight_pct": null,
+            "competency_weight_pct": null,
+            "employee_count": null,
+            "is_cross_cutting": null,
+            "sub_department_jisr_id": null,
+            "sub_department_name_ar": null,
+            "sub_department_name_en": null
+          },
+          {
+            "slug": "network-information-security-engineer",
+            "name_ar": "مهندس شبكات وأمن معلومات",
+            "name_en": "Network & Information Security Engineer",
+            "reference_grade": "المستوى الرابع",
+            "kpi_weight_pct": null,
+            "competency_weight_pct": null,
+            "employee_count": null,
+            "is_cross_cutting": null,
+            "sub_department_jisr_id": null,
+            "sub_department_name_ar": null,
+            "sub_department_name_en": null
+          },
+          {
+            "slug": "technical-support-specialist",
+            "name_ar": "أخصائي دعم فني",
+            "name_en": "Technical Support Specialist",
+            "reference_grade": "المستوى الرابع",
+            "kpi_weight_pct": null,
+            "competency_weight_pct": null,
+            "employee_count": null,
+            "is_cross_cutting": null,
+            "sub_department_jisr_id": null,
+            "sub_department_name_ar": null,
+            "sub_department_name_en": null
+          },
+          {
             "slug": "it-manager",
             "name_ar": "مدير تقنية المعلومات",
             "name_en": "IT Manager",
-            "reference_grade": null,
+            "reference_grade": "المستوى الثاني",
             "kpi_weight_pct": "70.0",
             "competency_weight_pct": "30.0",
             "employee_count": 1,
-            "is_cross_cutting": false
+            "is_cross_cutting": false,
+            "sub_department_jisr_id": 169416,
+            "sub_department_name_ar": "إدارة تقنية المعلومات",
+            "sub_department_name_en": "IT Department"
+          },
+          {
+            "slug": "digital-applications-development-section-manager",
+            "name_ar": "مدير قسم تطوير التطبيقات الرقمية",
+            "name_en": "Digital Applications Development Section Manager",
+            "reference_grade": "المستوى الثاني",
+            "kpi_weight_pct": "70.0",
+            "competency_weight_pct": "30.0",
+            "employee_count": 1,
+            "is_cross_cutting": false,
+            "sub_department_jisr_id": 169415,
+            "sub_department_name_ar": "قسم تطوير التطبيقات الرقمية",
+            "sub_department_name_en": "Digital Applications Development Section"
+          },
+          {
+            "slug": "e-commerce-platform-developer",
+            "name_ar": "مطور منصة التجارة الإلكترونية",
+            "name_en": "E-Commerce Platform Developer",
+            "reference_grade": "المستوى السادس",
+            "kpi_weight_pct": "80.0",
+            "competency_weight_pct": "20.0",
+            "employee_count": 2,
+            "is_cross_cutting": false,
+            "sub_department_jisr_id": 169415,
+            "sub_department_name_ar": "قسم تطوير التطبيقات الرقمية",
+            "sub_department_name_en": "Digital Applications Development Section"
+          },
+          {
+            "slug": "erp-systems-developer",
+            "name_ar": "مطور نظم تخطيط الموارد المؤسسية",
+            "name_en": "ERP Systems Developer",
+            "reference_grade": "المستوى السادس",
+            "kpi_weight_pct": "80.0",
+            "competency_weight_pct": "20.0",
+            "employee_count": 1,
+            "is_cross_cutting": false,
+            "sub_department_jisr_id": 169418,
+            "sub_department_name_ar": "قسم تطوير التطبيقات الداخلية",
+            "sub_department_name_en": "Internal Applications Development Section"
+          },
+          {
+            "slug": "front-end-developer",
+            "name_ar": "مطور الواجهة الأمامية",
+            "name_en": "Front-End Developer",
+            "reference_grade": "المستوى السادس",
+            "kpi_weight_pct": "80.0",
+            "competency_weight_pct": "20.0",
+            "employee_count": 1,
+            "is_cross_cutting": false,
+            "sub_department_jisr_id": 169415,
+            "sub_department_name_ar": "قسم تطوير التطبيقات الرقمية",
+            "sub_department_name_en": "Digital Applications Development Section"
+          },
+          {
+            "slug": "general-network-engineer",
+            "name_ar": "مهندس شبكات عام",
+            "name_en": "General Network Engineer",
+            "reference_grade": "المستوى الرابع",
+            "kpi_weight_pct": "80.0",
+            "competency_weight_pct": "20.0",
+            "employee_count": 1,
+            "is_cross_cutting": false,
+            "sub_department_jisr_id": 169409,
+            "sub_department_name_ar": "قسم البنية التحتية والدعم التقني",
+            "sub_department_name_en": "Infrastructure & Technical Support Section"
+          },
+          {
+            "slug": "mobile-applications-developer",
+            "name_ar": "مطور تطبيقات الجوال",
+            "name_en": "Mobile Applications Developer",
+            "reference_grade": "المستوى السادس",
+            "kpi_weight_pct": "80.0",
+            "competency_weight_pct": "20.0",
+            "employee_count": 2,
+            "is_cross_cutting": false,
+            "sub_department_jisr_id": 169415,
+            "sub_department_name_ar": "قسم تطوير التطبيقات الرقمية",
+            "sub_department_name_en": "Digital Applications Development Section"
+          },
+          {
+            "slug": "systems-analyst-reports-developer",
+            "name_ar": "محلل نظم ومطور تقارير",
+            "name_en": "Systems Analyst & Reports Developer",
+            "reference_grade": "المستوى السادس",
+            "kpi_weight_pct": "80.0",
+            "competency_weight_pct": "20.0",
+            "employee_count": 1,
+            "is_cross_cutting": false,
+            "sub_department_jisr_id": 169418,
+            "sub_department_name_ar": "قسم تطوير التطبيقات الداخلية",
+            "sub_department_name_en": "Internal Applications Development Section"
+          },
+          {
+            "slug": "systems-integration-operations-specialist",
+            "name_ar": "أخصائي تشغيل تكامل الأنظمة",
+            "name_en": "Systems-Integration Operations Specialist",
+            "reference_grade": "المستوى الرابع",
+            "kpi_weight_pct": "80.0",
+            "competency_weight_pct": "20.0",
+            "employee_count": 1,
+            "is_cross_cutting": false,
+            "sub_department_jisr_id": 169409,
+            "sub_department_name_ar": "قسم البنية التحتية والدعم التقني",
+            "sub_department_name_en": "Infrastructure & Technical Support Section"
+          }
+        ],
+        "sub_departments": [
+          {
+            "jisr_id": 169416,
+            "name_ar": "إدارة تقنية المعلومات",
+            "name_en": "IT Department",
+            "level": 3,
+            "parent_jisr_id": 169432,
+            "path_names_en": [
+              "General Management",
+              "Executive Management"
+            ],
+            "is_direct": true,
+            "position_count": 5,
+            "positions": [
+              {
+                "slug": "it-manager",
+                "name_ar": "مدير تقنية المعلومات",
+                "name_en": "IT Manager"
+              },
+              {
+                "slug": "infrastructure-technical-support-section-head",
+                "name_ar": "رئيس قسم البنية التحتية والدعم التقني",
+                "name_en": "Infrastructure & Technical Support Section Head"
+              },
+              {
+                "slug": "internal-applications-development-section-head",
+                "name_ar": "رئيس قسم تطوير التطبيقات الداخلية",
+                "name_en": "Internal Applications Development Section Head"
+              },
+              {
+                "slug": "network-information-security-engineer",
+                "name_ar": "مهندس شبكات وأمن معلومات",
+                "name_en": "Network & Information Security Engineer"
+              },
+              {
+                "slug": "technical-support-specialist",
+                "name_ar": "أخصائي دعم فني",
+                "name_en": "Technical Support Specialist"
+              }
+            ]
+          },
+          {
+            "jisr_id": 169415,
+            "name_ar": "قسم تطوير التطبيقات الرقمية",
+            "name_en": "Digital Applications Development Section",
+            "level": 4,
+            "parent_jisr_id": 169416,
+            "path_names_en": [
+              "General Management",
+              "Executive Management",
+              "IT Department"
+            ],
+            "position_count": 4,
+            "positions": [
+              {
+                "slug": "digital-applications-development-section-manager",
+                "name_ar": "مدير قسم تطوير التطبيقات الرقمية",
+                "name_en": "Digital Applications Development Section Manager"
+              },
+              {
+                "slug": "e-commerce-platform-developer",
+                "name_ar": "مطور منصة التجارة الإلكترونية",
+                "name_en": "E-Commerce Platform Developer"
+              },
+              {
+                "slug": "front-end-developer",
+                "name_ar": "مطور الواجهة الأمامية",
+                "name_en": "Front-End Developer"
+              },
+              {
+                "slug": "mobile-applications-developer",
+                "name_ar": "مطور تطبيقات الجوال",
+                "name_en": "Mobile Applications Developer"
+              }
+            ]
+          },
+          {
+            "jisr_id": 169409,
+            "name_ar": "قسم البنية التحتية والدعم التقني",
+            "name_en": "Infrastructure & Technical Support Section",
+            "level": 4,
+            "parent_jisr_id": 169416,
+            "path_names_en": [
+              "General Management",
+              "Executive Management",
+              "IT Department"
+            ],
+            "position_count": 2,
+            "positions": [
+              {
+                "slug": "general-network-engineer",
+                "name_ar": "مهندس شبكات عام",
+                "name_en": "General Network Engineer"
+              },
+              {
+                "slug": "systems-integration-operations-specialist",
+                "name_ar": "أخصائي تشغيل تكامل الأنظمة",
+                "name_en": "Systems-Integration Operations Specialist"
+              }
+            ]
+          },
+          {
+            "jisr_id": 169418,
+            "name_ar": "قسم تطوير التطبيقات الداخلية",
+            "name_en": "Internal Applications Development Section",
+            "level": 4,
+            "parent_jisr_id": 169416,
+            "path_names_en": [
+              "General Management",
+              "Executive Management",
+              "IT Department"
+            ],
+            "position_count": 2,
+            "positions": [
+              {
+                "slug": "erp-systems-developer",
+                "name_ar": "مطور نظم تخطيط الموارد المؤسسية",
+                "name_en": "ERP Systems Developer"
+              },
+              {
+                "slug": "systems-analyst-reports-developer",
+                "name_ar": "محلل نظم ومطور تقارير",
+                "name_en": "Systems Analyst & Reports Developer"
+              }
+            ]
           }
         ],
         "saudization": {
@@ -34349,7 +35653,8 @@
         "name_ar": "إدارة الشؤون القانونية",
         "name_en": "Legal Affairs Department",
         "level": 3,
-        "position_count": 1,
+        "position_count": 2,
+        "sub_department_count": 0,
         "mission_ar": "المساهمة في تمكين الشركة من تحقيق رؤيتها ورسالتها وأهدافها من خلال المحافظة على حقوق الشركة لدى الغير ودراسة وإنجاز القضايا القانونية التي تواجه الشركة من جانب التفاوض والمنازعات القانونية، وحمايتها من الوقوع في المخالفات القانونية التجارية والعمالية ومن خلال تقديم التوصيات والاستشارات والمشورة القانونية في المواضيع التي تحال إلى الإدارة من المجلس، الرئيس التنفيذي، والوحدات الإدارية المختلفة في الشركة، ومراجعة العقود والاتفاقيات والنظم واللوائح الإدارية وسياسات ولوائح الحوكمة من الناحية القانونية وتوثيق العلامات التجارية للشركة، وتمثيل الشركة أمام الجهات القضائية.",
         "mission_en": "Contribute to enabling the company to achieve its vision, mission, and goals by preserving the company's rights with third parties, studying and handling legal issues facing the company in terms of negotiation and legal disputes, and protecting it from commercial and labor law violations. This is achieved by providing recommendations, consultations, and legal advice on topics referred to the department by the Board, the CEO, and various administrative units in the company, reviewing contracts, agreements, administrative systems and regulations, and governance policies and regulations from a legal perspective, documenting the company's trademarks, and representing the company before judicial authorities.",
         "manager_full_name_ar": null,
@@ -34654,14 +35959,57 @@
         ],
         "positions": [
           {
+            "slug": "legal-affairs-governance-manager",
+            "name_ar": "مدير الشؤون القانونية والحوكمة",
+            "name_en": "Legal Affairs & Governance Manager",
+            "reference_grade": "المستوى الثاني",
+            "kpi_weight_pct": null,
+            "competency_weight_pct": null,
+            "employee_count": null,
+            "is_cross_cutting": null,
+            "sub_department_jisr_id": null,
+            "sub_department_name_ar": null,
+            "sub_department_name_en": null
+          },
+          {
             "slug": "legal-specialist",
             "name_ar": "أخصائي قانوني",
             "name_en": "Legal Specialist",
-            "reference_grade": null,
+            "reference_grade": "المستوى الرابع",
             "kpi_weight_pct": "80.0",
             "competency_weight_pct": "20.0",
             "employee_count": 1,
-            "is_cross_cutting": false
+            "is_cross_cutting": false,
+            "sub_department_jisr_id": 169431,
+            "sub_department_name_ar": "إدارة الشؤون القانونية",
+            "sub_department_name_en": "Legal Affairs Department"
+          }
+        ],
+        "sub_departments": [
+          {
+            "jisr_id": 169431,
+            "name_ar": "إدارة الشؤون القانونية",
+            "name_en": "Legal Affairs Department",
+            "level": 3,
+            "parent_jisr_id": 169432,
+            "path_names_en": [
+              "General Management",
+              "Executive Management"
+            ],
+            "is_direct": true,
+            "position_count": 2,
+            "positions": [
+              {
+                "slug": "legal-affairs-governance-manager",
+                "name_ar": "مدير الشؤون القانونية والحوكمة",
+                "name_en": "Legal Affairs & Governance Manager"
+              },
+              {
+                "slug": "legal-specialist",
+                "name_ar": "أخصائي قانوني",
+                "name_en": "Legal Specialist"
+              }
+            ]
           }
         ],
         "saudization": null
@@ -34672,7 +36020,8 @@
         "name_ar": "إدارة التسويق والمتجر الالكتروني",
         "name_en": "Marketing and E-Commerce Department",
         "level": 3,
-        "position_count": 0,
+        "position_count": 9,
+        "sub_department_count": 2,
         "mission_ar": null,
         "mission_en": null,
         "manager_full_name_ar": "هيثم سليمان السيف",
@@ -34926,7 +36275,219 @@
             "periodicity": "monthly"
           }
         ],
-        "positions": [],
+        "positions": [
+          {
+            "slug": "crm-specialist",
+            "name_ar": "أخصائي إدارة علاقات العملاء (CRM)",
+            "name_en": "CRM Specialist",
+            "reference_grade": "المستوى الرابع",
+            "kpi_weight_pct": null,
+            "competency_weight_pct": null,
+            "employee_count": null,
+            "is_cross_cutting": null,
+            "sub_department_jisr_id": null,
+            "sub_department_name_ar": null,
+            "sub_department_name_en": null
+          },
+          {
+            "slug": "content-social-media-specialist",
+            "name_ar": "أخصائي محتوى وتواصل اجتماعي",
+            "name_en": "Content & Social Media Specialist",
+            "reference_grade": "المستوى الرابع",
+            "kpi_weight_pct": null,
+            "competency_weight_pct": null,
+            "employee_count": null,
+            "is_cross_cutting": null,
+            "sub_department_jisr_id": null,
+            "sub_department_name_ar": null,
+            "sub_department_name_en": null
+          },
+          {
+            "slug": "e-commerce-experience-specialist",
+            "name_ar": "أخصائي تجربة المتجر الإلكتروني",
+            "name_en": "E-Commerce Experience Specialist",
+            "reference_grade": "المستوى الرابع",
+            "kpi_weight_pct": null,
+            "competency_weight_pct": null,
+            "employee_count": null,
+            "is_cross_cutting": null,
+            "sub_department_jisr_id": null,
+            "sub_department_name_ar": null,
+            "sub_department_name_en": null
+          },
+          {
+            "slug": "e-commerce-section-head",
+            "name_ar": "رئيس قسم المتجر الإلكتروني",
+            "name_en": "E-Commerce Section Head",
+            "reference_grade": "المستوى الثالث",
+            "kpi_weight_pct": null,
+            "competency_weight_pct": null,
+            "employee_count": null,
+            "is_cross_cutting": null,
+            "sub_department_jisr_id": null,
+            "sub_department_name_ar": null,
+            "sub_department_name_en": null
+          },
+          {
+            "slug": "marketing-e-commerce-manager",
+            "name_ar": "مدير التسويق والمتجر الإلكتروني",
+            "name_en": "Marketing & E-Commerce Manager",
+            "reference_grade": "المستوى الثاني",
+            "kpi_weight_pct": null,
+            "competency_weight_pct": null,
+            "employee_count": null,
+            "is_cross_cutting": null,
+            "sub_department_jisr_id": null,
+            "sub_department_name_ar": null,
+            "sub_department_name_en": null
+          },
+          {
+            "slug": "marketing-analytics-specialist",
+            "name_ar": "أخصائي تحليلات التسويق",
+            "name_en": "Marketing Analytics Specialist",
+            "reference_grade": "المستوى الرابع",
+            "kpi_weight_pct": null,
+            "competency_weight_pct": null,
+            "employee_count": null,
+            "is_cross_cutting": null,
+            "sub_department_jisr_id": null,
+            "sub_department_name_ar": null,
+            "sub_department_name_en": null
+          },
+          {
+            "slug": "performance-marketing-specialist",
+            "name_ar": "أخصائي تسويق الأداء",
+            "name_en": "Performance Marketing Specialist",
+            "reference_grade": "المستوى الرابع",
+            "kpi_weight_pct": null,
+            "competency_weight_pct": null,
+            "employee_count": null,
+            "is_cross_cutting": null,
+            "sub_department_jisr_id": null,
+            "sub_department_name_ar": null,
+            "sub_department_name_en": null
+          },
+          {
+            "slug": "digital-marketing-section-head",
+            "name_ar": "رئيس قسم التسويق الرقمي",
+            "name_en": "Digital Marketing Section Head",
+            "reference_grade": "المستوى الثالث",
+            "kpi_weight_pct": "70.0",
+            "competency_weight_pct": "30.0",
+            "employee_count": 1,
+            "is_cross_cutting": false,
+            "sub_department_jisr_id": 169413,
+            "sub_department_name_ar": "قسم التسويق الرقمي",
+            "sub_department_name_en": "Digital Marketing Section"
+          },
+          {
+            "slug": "e-commerce-warehouse-unit-head",
+            "name_ar": "رئيس وحدة مستودع المتجر الالكتروني",
+            "name_en": "E-Commerce Warehouse Unit Head",
+            "reference_grade": "المستوى السادس",
+            "kpi_weight_pct": "70.0",
+            "competency_weight_pct": "30.0",
+            "employee_count": 1,
+            "is_cross_cutting": false,
+            "sub_department_jisr_id": 169401,
+            "sub_department_name_ar": "مستودع المتجر الالكتروني",
+            "sub_department_name_en": "E-Commerce Warehouse"
+          }
+        ],
+        "sub_departments": [
+          {
+            "jisr_id": 169433,
+            "name_ar": "إدارة التسويق والمتجر الالكتروني",
+            "name_en": "Marketing and E-Commerce Department",
+            "level": 3,
+            "parent_jisr_id": 169432,
+            "path_names_en": [
+              "General Management",
+              "Executive Management"
+            ],
+            "is_direct": true,
+            "position_count": 7,
+            "positions": [
+              {
+                "slug": "crm-specialist",
+                "name_ar": "أخصائي إدارة علاقات العملاء (CRM)",
+                "name_en": "CRM Specialist"
+              },
+              {
+                "slug": "content-social-media-specialist",
+                "name_ar": "أخصائي محتوى وتواصل اجتماعي",
+                "name_en": "Content & Social Media Specialist"
+              },
+              {
+                "slug": "e-commerce-experience-specialist",
+                "name_ar": "أخصائي تجربة المتجر الإلكتروني",
+                "name_en": "E-Commerce Experience Specialist"
+              },
+              {
+                "slug": "e-commerce-section-head",
+                "name_ar": "رئيس قسم المتجر الإلكتروني",
+                "name_en": "E-Commerce Section Head"
+              },
+              {
+                "slug": "marketing-e-commerce-manager",
+                "name_ar": "مدير التسويق والمتجر الإلكتروني",
+                "name_en": "Marketing & E-Commerce Manager"
+              },
+              {
+                "slug": "marketing-analytics-specialist",
+                "name_ar": "أخصائي تحليلات التسويق",
+                "name_en": "Marketing Analytics Specialist"
+              },
+              {
+                "slug": "performance-marketing-specialist",
+                "name_ar": "أخصائي تسويق الأداء",
+                "name_en": "Performance Marketing Specialist"
+              }
+            ]
+          },
+          {
+            "jisr_id": 169413,
+            "name_ar": "قسم التسويق الرقمي",
+            "name_en": "Digital Marketing Section",
+            "level": 5,
+            "parent_jisr_id": 169396,
+            "path_names_en": [
+              "General Management",
+              "Executive Management",
+              "Marketing and E-Commerce Department",
+              "E-Commerce Section"
+            ],
+            "position_count": 1,
+            "positions": [
+              {
+                "slug": "digital-marketing-section-head",
+                "name_ar": "رئيس قسم التسويق الرقمي",
+                "name_en": "Digital Marketing Section Head"
+              }
+            ]
+          },
+          {
+            "jisr_id": 169401,
+            "name_ar": "مستودع المتجر الالكتروني",
+            "name_en": "E-Commerce Warehouse",
+            "level": 5,
+            "parent_jisr_id": 169396,
+            "path_names_en": [
+              "General Management",
+              "Executive Management",
+              "Marketing and E-Commerce Department",
+              "E-Commerce Section"
+            ],
+            "position_count": 1,
+            "positions": [
+              {
+                "slug": "e-commerce-warehouse-unit-head",
+                "name_ar": "رئيس وحدة مستودع المتجر الالكتروني",
+                "name_en": "E-Commerce Warehouse Unit Head"
+              }
+            ]
+          }
+        ],
         "saudization": null
       },
       "sales-and-operations": {
@@ -34935,7 +36496,8 @@
         "name_ar": "إدارة المبيعات والعمليات",
         "name_en": "Sales and Operations Department",
         "level": 3,
-        "position_count": 4,
+        "position_count": 15,
+        "sub_department_count": 2,
         "mission_ar": "المساهمة في تمكين الشركة من تحقيق رؤيتها ورسالتها وأهدافها من خلال تعزيز مركز الشركة التنافسي في سوق تجارة التجزئة للأجهزة والأدوات المنزلية والخدمات المرتبطة بهما وزيادة حصتها السوقية فيه لتحقيق أهداف الشركة في زيادة ونمو الأرباح الحالية وتلبية متطلبات العملاء.",
         "mission_en": "Contribute to enabling the company to achieve its vision, mission, and goals by enhancing its competitive position in the retail market for home appliances, tools, and related services, and increasing its market share to achieve the company's objectives of increasing and growing current profits and meeting customer requirements.",
         "manager_full_name_ar": "محمد أحمد محمد النواجي",
@@ -35499,44 +37061,321 @@
         ],
         "positions": [
           {
-            "slug": "partnerships-sales-services-development-supervisor",
-            "name_ar": "مشرف تطوير الشراكات والخدمات البيعية",
-            "name_en": "Retail Partnerships & Commercial Services Supervisor",
-            "reference_grade": null,
-            "kpi_weight_pct": "70.0",
-            "competency_weight_pct": "30.0",
-            "employee_count": 1,
-            "is_cross_cutting": false
+            "slug": "showroom-operations-manager",
+            "name_ar": "مدير عمليات معرض",
+            "name_en": "Showroom Operations Manager",
+            "reference_grade": "المستوى الثاني",
+            "kpi_weight_pct": null,
+            "competency_weight_pct": null,
+            "employee_count": null,
+            "is_cross_cutting": null,
+            "sub_department_jisr_id": null,
+            "sub_department_name_ar": null,
+            "sub_department_name_en": null
           },
           {
             "slug": "assistant-sales-operations-manager",
             "name_ar": "مساعد مدير المبيعات والعمليات",
-            "name_en": "Sales & Operations Assistant Manager",
-            "reference_grade": null,
+            "name_en": "Assistant Sales & Operations Manager",
+            "reference_grade": "المستوى السادس",
             "kpi_weight_pct": "70.0",
             "competency_weight_pct": "30.0",
             "employee_count": 1,
-            "is_cross_cutting": false
+            "is_cross_cutting": false,
+            "sub_department_jisr_id": 169435,
+            "sub_department_name_ar": "إدارة المبيعات والعمليات",
+            "sub_department_name_en": "Sales and Operations Department"
+          },
+          {
+            "slug": "partnerships-sales-services-development-supervisor",
+            "name_ar": "مشرف تطوير الشراكات والخدمات البيعية",
+            "name_en": "Partnerships & Sales-Services Development Supervisor",
+            "reference_grade": "المستوى الثالث",
+            "kpi_weight_pct": "70.0",
+            "competency_weight_pct": "30.0",
+            "employee_count": 1,
+            "is_cross_cutting": false,
+            "sub_department_jisr_id": 169435,
+            "sub_department_name_ar": "إدارة المبيعات والعمليات",
+            "sub_department_name_en": "Sales and Operations Department"
           },
           {
             "slug": "sales-operations-manager",
             "name_ar": "مدير المبيعات والعمليات",
             "name_en": "Sales & Operations Manager",
-            "reference_grade": null,
+            "reference_grade": "المستوى الثاني",
             "kpi_weight_pct": "70.0",
             "competency_weight_pct": "30.0",
             "employee_count": 1,
-            "is_cross_cutting": false
+            "is_cross_cutting": false,
+            "sub_department_jisr_id": 169435,
+            "sub_department_name_ar": "إدارة المبيعات والعمليات",
+            "sub_department_name_en": "Sales and Operations Department"
           },
           {
             "slug": "wholesale-sales-specialist",
             "name_ar": "أخصائي مبيعات الجملة",
-            "name_en": "Wholesale Sales Supervisor",
-            "reference_grade": null,
+            "name_en": "Wholesale Sales Specialist",
+            "reference_grade": "المستوى الرابع",
             "kpi_weight_pct": "70.0",
             "competency_weight_pct": "30.0",
             "employee_count": 1,
-            "is_cross_cutting": false
+            "is_cross_cutting": false,
+            "sub_department_jisr_id": 169435,
+            "sub_department_name_ar": "إدارة المبيعات والعمليات",
+            "sub_department_name_en": "Sales and Operations Department"
+          },
+          {
+            "slug": "administrative-supervisor",
+            "name_ar": "مشرف إداري",
+            "name_en": "Administrative Supervisor",
+            "reference_grade": "المستوى الثالث",
+            "kpi_weight_pct": "70.0",
+            "competency_weight_pct": "30.0",
+            "employee_count": 33,
+            "is_cross_cutting": false,
+            "sub_department_jisr_id": 169389,
+            "sub_department_name_ar": "قسم المعارض",
+            "sub_department_name_en": "Stores Section"
+          },
+          {
+            "slug": "area-supervisor",
+            "name_ar": "مشرف منطقة",
+            "name_en": "Area Supervisor",
+            "reference_grade": "المستوى الثالث",
+            "kpi_weight_pct": "70.0",
+            "competency_weight_pct": "30.0",
+            "employee_count": 6,
+            "is_cross_cutting": false,
+            "sub_department_jisr_id": 169389,
+            "sub_department_name_ar": "قسم المعارض",
+            "sub_department_name_en": "Stores Section"
+          },
+          {
+            "slug": "assistant-area-supervisor",
+            "name_ar": "مساعد مشرف منطقة",
+            "name_en": "Assistant Area Supervisor",
+            "reference_grade": "المستوى الثالث",
+            "kpi_weight_pct": "70.0",
+            "competency_weight_pct": "30.0",
+            "employee_count": 4,
+            "is_cross_cutting": false,
+            "sub_department_jisr_id": 169389,
+            "sub_department_name_ar": "قسم المعارض",
+            "sub_department_name_en": "Stores Section"
+          },
+          {
+            "slug": "cashier",
+            "name_ar": "أمين صندوق",
+            "name_en": "Cashier",
+            "reference_grade": "المستوى السادس",
+            "kpi_weight_pct": "80.0",
+            "competency_weight_pct": "20.0",
+            "employee_count": 154,
+            "is_cross_cutting": false,
+            "sub_department_jisr_id": 169389,
+            "sub_department_name_ar": "قسم المعارض",
+            "sub_department_name_en": "Stores Section"
+          },
+          {
+            "slug": "product-display-coordinator",
+            "name_ar": "منسق عرض المنتجات",
+            "name_en": "Product Display Coordinator",
+            "reference_grade": "المستوى السادس",
+            "kpi_weight_pct": "80.0",
+            "competency_weight_pct": "20.0",
+            "employee_count": 10,
+            "is_cross_cutting": false,
+            "sub_department_jisr_id": 169391,
+            "sub_department_name_ar": "قسم تطوير عرض المعارض",
+            "sub_department_name_en": "Merchandising Development Section"
+          },
+          {
+            "slug": "sales-representative",
+            "name_ar": "ممثل مبيعات",
+            "name_en": "Sales Representative",
+            "reference_grade": "المستوى السادس",
+            "kpi_weight_pct": "80.0",
+            "competency_weight_pct": "20.0",
+            "employee_count": 118,
+            "is_cross_cutting": false,
+            "sub_department_jisr_id": 169389,
+            "sub_department_name_ar": "قسم المعارض",
+            "sub_department_name_en": "Stores Section"
+          },
+          {
+            "slug": "senior-showroom-operations-officer",
+            "name_ar": "مسؤول أول عمليات معرض",
+            "name_en": "Senior Showroom Operations Officer",
+            "reference_grade": "المستوى السادس",
+            "kpi_weight_pct": "80.0",
+            "competency_weight_pct": "20.0",
+            "employee_count": 24,
+            "is_cross_cutting": false,
+            "sub_department_jisr_id": 169389,
+            "sub_department_name_ar": "قسم المعارض",
+            "sub_department_name_en": "Stores Section"
+          },
+          {
+            "slug": "showroom-display-development-supervisor",
+            "name_ar": "مشرف تطوير عرض المعارض",
+            "name_en": "Showroom Display Development Supervisor",
+            "reference_grade": "المستوى الثالث",
+            "kpi_weight_pct": "70.0",
+            "competency_weight_pct": "30.0",
+            "employee_count": 2,
+            "is_cross_cutting": false,
+            "sub_department_jisr_id": 169391,
+            "sub_department_name_ar": "قسم تطوير عرض المعارض",
+            "sub_department_name_en": "Merchandising Development Section"
+          },
+          {
+            "slug": "showroom-operations-officer",
+            "name_ar": "مسؤول عمليات معرض",
+            "name_en": "Showroom Operations Officer",
+            "reference_grade": "المستوى السادس",
+            "kpi_weight_pct": "80.0",
+            "competency_weight_pct": "20.0",
+            "employee_count": 347,
+            "is_cross_cutting": false,
+            "sub_department_jisr_id": 169389,
+            "sub_department_name_ar": "قسم المعارض",
+            "sub_department_name_en": "Stores Section"
+          },
+          {
+            "slug": "store-operations-supervisor",
+            "name_ar": "مشرف عمليات معرض",
+            "name_en": "Store Operations Supervisor",
+            "reference_grade": "المستوى الثالث",
+            "kpi_weight_pct": "70.0",
+            "competency_weight_pct": "30.0",
+            "employee_count": 65,
+            "is_cross_cutting": false,
+            "sub_department_jisr_id": 169389,
+            "sub_department_name_ar": "قسم المعارض",
+            "sub_department_name_en": "Stores Section"
+          }
+        ],
+        "sub_departments": [
+          {
+            "jisr_id": 169435,
+            "name_ar": "إدارة المبيعات والعمليات",
+            "name_en": "Sales and Operations Department",
+            "level": 3,
+            "parent_jisr_id": 169432,
+            "path_names_en": [
+              "General Management",
+              "Executive Management"
+            ],
+            "is_direct": true,
+            "position_count": 5,
+            "positions": [
+              {
+                "slug": "assistant-sales-operations-manager",
+                "name_ar": "مساعد مدير المبيعات والعمليات",
+                "name_en": "Assistant Sales & Operations Manager"
+              },
+              {
+                "slug": "partnerships-sales-services-development-supervisor",
+                "name_ar": "مشرف تطوير الشراكات والخدمات البيعية",
+                "name_en": "Partnerships & Sales-Services Development Supervisor"
+              },
+              {
+                "slug": "sales-operations-manager",
+                "name_ar": "مدير المبيعات والعمليات",
+                "name_en": "Sales & Operations Manager"
+              },
+              {
+                "slug": "showroom-operations-manager",
+                "name_ar": "مدير عمليات معرض",
+                "name_en": "Showroom Operations Manager"
+              },
+              {
+                "slug": "wholesale-sales-specialist",
+                "name_ar": "أخصائي مبيعات الجملة",
+                "name_en": "Wholesale Sales Specialist"
+              }
+            ]
+          },
+          {
+            "jisr_id": 169391,
+            "name_ar": "قسم تطوير عرض المعارض",
+            "name_en": "Merchandising Development Section",
+            "level": 4,
+            "parent_jisr_id": 169435,
+            "path_names_en": [
+              "General Management",
+              "Executive Management",
+              "Sales and Operations Department"
+            ],
+            "position_count": 2,
+            "positions": [
+              {
+                "slug": "product-display-coordinator",
+                "name_ar": "منسق عرض المنتجات",
+                "name_en": "Product Display Coordinator"
+              },
+              {
+                "slug": "showroom-display-development-supervisor",
+                "name_ar": "مشرف تطوير عرض المعارض",
+                "name_en": "Showroom Display Development Supervisor"
+              }
+            ]
+          },
+          {
+            "jisr_id": 169389,
+            "name_ar": "قسم المعارض",
+            "name_en": "Stores Section",
+            "level": 4,
+            "parent_jisr_id": 169435,
+            "path_names_en": [
+              "General Management",
+              "Executive Management",
+              "Sales and Operations Department"
+            ],
+            "position_count": 8,
+            "positions": [
+              {
+                "slug": "administrative-supervisor",
+                "name_ar": "مشرف إداري",
+                "name_en": "Administrative Supervisor"
+              },
+              {
+                "slug": "area-supervisor",
+                "name_ar": "مشرف منطقة",
+                "name_en": "Area Supervisor"
+              },
+              {
+                "slug": "assistant-area-supervisor",
+                "name_ar": "مساعد مشرف منطقة",
+                "name_en": "Assistant Area Supervisor"
+              },
+              {
+                "slug": "cashier",
+                "name_ar": "أمين صندوق",
+                "name_en": "Cashier"
+              },
+              {
+                "slug": "sales-representative",
+                "name_ar": "ممثل مبيعات",
+                "name_en": "Sales Representative"
+              },
+              {
+                "slug": "senior-showroom-operations-officer",
+                "name_ar": "مسؤول أول عمليات معرض",
+                "name_en": "Senior Showroom Operations Officer"
+              },
+              {
+                "slug": "showroom-operations-officer",
+                "name_ar": "مسؤول عمليات معرض",
+                "name_en": "Showroom Operations Officer"
+              },
+              {
+                "slug": "store-operations-supervisor",
+                "name_ar": "مشرف عمليات معرض",
+                "name_en": "Store Operations Supervisor"
+              }
+            ]
           }
         ],
         "saudization": null
@@ -35547,7 +37386,8 @@
         "name_ar": "إدارة سلاسل الإمداد والتوريد",
         "name_en": "Supply Chain Department",
         "level": 3,
-        "position_count": 0,
+        "position_count": 17,
+        "sub_department_count": 6,
         "mission_ar": "المساهمة في، تمكين الشركة من تحقيق رؤيتها ورسالتها وأهدافها من خلال تأمين جميع احتياجات الشركة من العلامة التجارية (الديسور) ومنتجات الوكالات (التي تتعاقد معها الشركة) في المواعيد المناسبة وضمن المواصفات الفنية المطلوبة وبأفضل الأسعار وأنسبها، والتأكد من استلامها وتخزينها بالشكل السليم ومن تسليم جميع المنتجات للمناطق والمعارض الطالبة، في المواعيد المتفق عليها.",
         "mission_en": "Contribute to enabling the company to achieve its vision, mission, and goals by securing all the company's needs of the brand (Dessour) and agency products (with which the company contracts) at the right times, within the required technical specifications, and at the best and most suitable prices. Ensure their proper receipt and storage, and the delivery of all products to the requesting regions and showrooms at the agreed-upon times.",
         "manager_full_name_ar": "مروان أحمد صالح عبد ربه",
@@ -35941,7 +37781,423 @@
             "periodicity": "monthly"
           }
         ],
-        "positions": [],
+        "positions": [
+          {
+            "slug": "assistant-procurement-manager",
+            "name_ar": "مساعد مدير المشتريات",
+            "name_en": "Assistant Procurement Manager",
+            "reference_grade": "المستوى السادس",
+            "kpi_weight_pct": null,
+            "competency_weight_pct": null,
+            "employee_count": null,
+            "is_cross_cutting": null,
+            "sub_department_jisr_id": null,
+            "sub_department_name_ar": null,
+            "sub_department_name_en": null
+          },
+          {
+            "slug": "demand-planning-specialist",
+            "name_ar": "أخصائي تخطيط الطلب",
+            "name_en": "Demand Planning Specialist",
+            "reference_grade": "المستوى الرابع",
+            "kpi_weight_pct": null,
+            "competency_weight_pct": null,
+            "employee_count": null,
+            "is_cross_cutting": null,
+            "sub_department_jisr_id": null,
+            "sub_department_name_ar": null,
+            "sub_department_name_en": null
+          },
+          {
+            "slug": "external-platforms-officer",
+            "name_ar": "مسؤول منصات خارجية",
+            "name_en": "External Platforms Officer",
+            "reference_grade": "المستوى السادس",
+            "kpi_weight_pct": null,
+            "competency_weight_pct": null,
+            "employee_count": null,
+            "is_cross_cutting": null,
+            "sub_department_jisr_id": null,
+            "sub_department_name_ar": null,
+            "sub_department_name_en": null
+          },
+          {
+            "slug": "procurement-specialist",
+            "name_ar": "أخصائي مشتريات",
+            "name_en": "Procurement Specialist",
+            "reference_grade": "المستوى الرابع",
+            "kpi_weight_pct": null,
+            "competency_weight_pct": null,
+            "employee_count": null,
+            "is_cross_cutting": null,
+            "sub_department_jisr_id": null,
+            "sub_department_name_ar": null,
+            "sub_department_name_en": null
+          },
+          {
+            "slug": "riyadh-warehouse-unit-manager",
+            "name_ar": "مدير وحدة مستودع الرياض",
+            "name_en": "Riyadh Warehouse Unit Manager",
+            "reference_grade": "المستوى الثاني",
+            "kpi_weight_pct": null,
+            "competency_weight_pct": null,
+            "employee_count": null,
+            "is_cross_cutting": null,
+            "sub_department_jisr_id": null,
+            "sub_department_name_ar": null,
+            "sub_department_name_en": null
+          },
+          {
+            "slug": "supply-chain-procurement-manager",
+            "name_ar": "مدير سلاسل الإمداد والتوريد",
+            "name_en": "Supply Chain & Procurement Manager",
+            "reference_grade": "المستوى الثاني",
+            "kpi_weight_pct": null,
+            "competency_weight_pct": null,
+            "employee_count": null,
+            "is_cross_cutting": null,
+            "sub_department_jisr_id": null,
+            "sub_department_name_ar": null,
+            "sub_department_name_en": null
+          },
+          {
+            "slug": "supply-chain-stock-controller",
+            "name_ar": "مراقب مخزون سلاسل الإمداد",
+            "name_en": "Supply-Chain Stock Controller",
+            "reference_grade": "المستوى السادس",
+            "kpi_weight_pct": null,
+            "competency_weight_pct": null,
+            "employee_count": null,
+            "is_cross_cutting": null,
+            "sub_department_jisr_id": null,
+            "sub_department_name_ar": null,
+            "sub_department_name_en": null
+          },
+          {
+            "slug": "import-specialist",
+            "name_ar": "أخصائي استيراد",
+            "name_en": "Import Specialist",
+            "reference_grade": "المستوى الرابع",
+            "kpi_weight_pct": "80.0",
+            "competency_weight_pct": "20.0",
+            "employee_count": 1,
+            "is_cross_cutting": false,
+            "sub_department_jisr_id": 169392,
+            "sub_department_name_ar": "قسم اللوجستيك",
+            "sub_department_name_en": "Logistics Section"
+          },
+          {
+            "slug": "inventory-planning-section-head",
+            "name_ar": "رئيس قسم تخطيط المخزون",
+            "name_en": "Inventory Planning Section Head",
+            "reference_grade": "المستوى الثالث",
+            "kpi_weight_pct": "70.0",
+            "competency_weight_pct": "30.0",
+            "employee_count": 1,
+            "is_cross_cutting": false,
+            "sub_department_jisr_id": 169397,
+            "sub_department_name_ar": "قسم تخطيط وإدارة المخزون",
+            "sub_department_name_en": "Stock Planning & Control Section"
+          },
+          {
+            "slug": "logistics-data-coordinator",
+            "name_ar": "منسق بيانات لوجستية",
+            "name_en": "Logistics Data Coordinator",
+            "reference_grade": "المستوى السادس",
+            "kpi_weight_pct": "80.0",
+            "competency_weight_pct": "20.0",
+            "employee_count": 1,
+            "is_cross_cutting": false,
+            "sub_department_jisr_id": 169392,
+            "sub_department_name_ar": "قسم اللوجستيك",
+            "sub_department_name_en": "Logistics Section"
+          },
+          {
+            "slug": "logistics-manager",
+            "name_ar": "مدير اللوجستيك",
+            "name_en": "Logistics Manager",
+            "reference_grade": "المستوى الثاني",
+            "kpi_weight_pct": "70.0",
+            "competency_weight_pct": "30.0",
+            "employee_count": 1,
+            "is_cross_cutting": false,
+            "sub_department_jisr_id": 169392,
+            "sub_department_name_ar": "قسم اللوجستيك",
+            "sub_department_name_en": "Logistics Section"
+          },
+          {
+            "slug": "logistics-operations-coordinator",
+            "name_ar": "منسق عمليات لوجستية",
+            "name_en": "Logistics Operations Coordinator",
+            "reference_grade": "المستوى السادس",
+            "kpi_weight_pct": "80.0",
+            "competency_weight_pct": "20.0",
+            "employee_count": 1,
+            "is_cross_cutting": false,
+            "sub_department_jisr_id": 169392,
+            "sub_department_name_ar": "قسم اللوجستيك",
+            "sub_department_name_en": "Logistics Section"
+          },
+          {
+            "slug": "procurement-coordinator",
+            "name_ar": "منسق مشتريات",
+            "name_en": "Procurement Coordinator",
+            "reference_grade": "المستوى السادس",
+            "kpi_weight_pct": "80.0",
+            "competency_weight_pct": "20.0",
+            "employee_count": 3,
+            "is_cross_cutting": false,
+            "sub_department_jisr_id": 169398,
+            "sub_department_name_ar": "قسم المشتريات",
+            "sub_department_name_en": "Procurement Section"
+          },
+          {
+            "slug": "procurement-manager",
+            "name_ar": "مدير المشتريات",
+            "name_en": "Procurement Manager",
+            "reference_grade": "المستوى الثاني",
+            "kpi_weight_pct": "70.0",
+            "competency_weight_pct": "30.0",
+            "employee_count": 1,
+            "is_cross_cutting": false,
+            "sub_department_jisr_id": 169398,
+            "sub_department_name_ar": "قسم المشتريات",
+            "sub_department_name_en": "Procurement Section"
+          },
+          {
+            "slug": "warehousing-distribution-manager",
+            "name_ar": "مدير المستودعات والتوزيع",
+            "name_en": "Warehousing & Distribution Manager",
+            "reference_grade": "المستوى الثاني",
+            "kpi_weight_pct": "70.0",
+            "competency_weight_pct": "30.0",
+            "employee_count": 1,
+            "is_cross_cutting": false,
+            "sub_department_jisr_id": 169402,
+            "sub_department_name_ar": "قسم المستودعات والتوزيع",
+            "sub_department_name_en": "Warehousing & Distribution Section"
+          },
+          {
+            "slug": "jeddah-warehouse-unit-head",
+            "name_ar": "رئيس وحدة مستودع جدة",
+            "name_en": "Jeddah Warehouse Unit Head",
+            "reference_grade": "المستوى السادس",
+            "kpi_weight_pct": "70.0",
+            "competency_weight_pct": "30.0",
+            "employee_count": 1,
+            "is_cross_cutting": false,
+            "sub_department_jisr_id": 169399,
+            "sub_department_name_ar": "مستودع جدة",
+            "sub_department_name_en": "Jeddah Warehouse"
+          },
+          {
+            "slug": "uae-warehouse-unit-head",
+            "name_ar": "رئيس وحدة مستودع الإمارات",
+            "name_en": "UAE Warehouse Unit Head",
+            "reference_grade": "المستوى السادس",
+            "kpi_weight_pct": "70.0",
+            "competency_weight_pct": "30.0",
+            "employee_count": 1,
+            "is_cross_cutting": false,
+            "sub_department_jisr_id": 169428,
+            "sub_department_name_ar": "مستودع الإمارات",
+            "sub_department_name_en": "UAE Warehouse"
+          }
+        ],
+        "sub_departments": [
+          {
+            "jisr_id": 169438,
+            "name_ar": "إدارة سلاسل الإمداد والتوريد",
+            "name_en": "Supply Chain Department",
+            "level": 3,
+            "parent_jisr_id": 169432,
+            "path_names_en": [
+              "General Management",
+              "Executive Management"
+            ],
+            "is_direct": true,
+            "position_count": 7,
+            "positions": [
+              {
+                "slug": "assistant-procurement-manager",
+                "name_ar": "مساعد مدير المشتريات",
+                "name_en": "Assistant Procurement Manager"
+              },
+              {
+                "slug": "demand-planning-specialist",
+                "name_ar": "أخصائي تخطيط الطلب",
+                "name_en": "Demand Planning Specialist"
+              },
+              {
+                "slug": "external-platforms-officer",
+                "name_ar": "مسؤول منصات خارجية",
+                "name_en": "External Platforms Officer"
+              },
+              {
+                "slug": "procurement-specialist",
+                "name_ar": "أخصائي مشتريات",
+                "name_en": "Procurement Specialist"
+              },
+              {
+                "slug": "riyadh-warehouse-unit-manager",
+                "name_ar": "مدير وحدة مستودع الرياض",
+                "name_en": "Riyadh Warehouse Unit Manager"
+              },
+              {
+                "slug": "supply-chain-procurement-manager",
+                "name_ar": "مدير سلاسل الإمداد والتوريد",
+                "name_en": "Supply Chain & Procurement Manager"
+              },
+              {
+                "slug": "supply-chain-stock-controller",
+                "name_ar": "مراقب مخزون سلاسل الإمداد",
+                "name_en": "Supply-Chain Stock Controller"
+              }
+            ]
+          },
+          {
+            "jisr_id": 169392,
+            "name_ar": "قسم اللوجستيك",
+            "name_en": "Logistics Section",
+            "level": 4,
+            "parent_jisr_id": 169438,
+            "path_names_en": [
+              "General Management",
+              "Executive Management",
+              "Supply Chain Department"
+            ],
+            "position_count": 4,
+            "positions": [
+              {
+                "slug": "import-specialist",
+                "name_ar": "أخصائي استيراد",
+                "name_en": "Import Specialist"
+              },
+              {
+                "slug": "logistics-data-coordinator",
+                "name_ar": "منسق بيانات لوجستية",
+                "name_en": "Logistics Data Coordinator"
+              },
+              {
+                "slug": "logistics-manager",
+                "name_ar": "مدير اللوجستيك",
+                "name_en": "Logistics Manager"
+              },
+              {
+                "slug": "logistics-operations-coordinator",
+                "name_ar": "منسق عمليات لوجستية",
+                "name_en": "Logistics Operations Coordinator"
+              }
+            ]
+          },
+          {
+            "jisr_id": 169398,
+            "name_ar": "قسم المشتريات",
+            "name_en": "Procurement Section",
+            "level": 4,
+            "parent_jisr_id": 169438,
+            "path_names_en": [
+              "General Management",
+              "Executive Management",
+              "Supply Chain Department"
+            ],
+            "position_count": 2,
+            "positions": [
+              {
+                "slug": "procurement-coordinator",
+                "name_ar": "منسق مشتريات",
+                "name_en": "Procurement Coordinator"
+              },
+              {
+                "slug": "procurement-manager",
+                "name_ar": "مدير المشتريات",
+                "name_en": "Procurement Manager"
+              }
+            ]
+          },
+          {
+            "jisr_id": 169397,
+            "name_ar": "قسم تخطيط وإدارة المخزون",
+            "name_en": "Stock Planning & Control Section",
+            "level": 4,
+            "parent_jisr_id": 169438,
+            "path_names_en": [
+              "General Management",
+              "Executive Management",
+              "Supply Chain Department"
+            ],
+            "position_count": 1,
+            "positions": [
+              {
+                "slug": "inventory-planning-section-head",
+                "name_ar": "رئيس قسم تخطيط المخزون",
+                "name_en": "Inventory Planning Section Head"
+              }
+            ]
+          },
+          {
+            "jisr_id": 169402,
+            "name_ar": "قسم المستودعات والتوزيع",
+            "name_en": "Warehousing & Distribution Section",
+            "level": 4,
+            "parent_jisr_id": 169438,
+            "path_names_en": [
+              "General Management",
+              "Executive Management",
+              "Supply Chain Department"
+            ],
+            "position_count": 1,
+            "positions": [
+              {
+                "slug": "warehousing-distribution-manager",
+                "name_ar": "مدير المستودعات والتوزيع",
+                "name_en": "Warehousing & Distribution Manager"
+              }
+            ]
+          },
+          {
+            "jisr_id": 169399,
+            "name_ar": "مستودع جدة",
+            "name_en": "Jeddah Warehouse",
+            "level": 5,
+            "parent_jisr_id": 169402,
+            "path_names_en": [
+              "General Management",
+              "Executive Management",
+              "Supply Chain Department",
+              "Warehousing & Distribution Section"
+            ],
+            "position_count": 1,
+            "positions": [
+              {
+                "slug": "jeddah-warehouse-unit-head",
+                "name_ar": "رئيس وحدة مستودع جدة",
+                "name_en": "Jeddah Warehouse Unit Head"
+              }
+            ]
+          },
+          {
+            "jisr_id": 169428,
+            "name_ar": "مستودع الإمارات",
+            "name_en": "UAE Warehouse",
+            "level": 5,
+            "parent_jisr_id": 169402,
+            "path_names_en": [
+              "General Management",
+              "Executive Management",
+              "Supply Chain Department",
+              "Warehousing & Distribution Section"
+            ],
+            "position_count": 1,
+            "positions": [
+              {
+                "slug": "uae-warehouse-unit-head",
+                "name_ar": "رئيس وحدة مستودع الإمارات",
+                "name_en": "UAE Warehouse Unit Head"
+              }
+            ]
+          }
+        ],
         "saudization": {
           "current_estimate_pct": "40.0",
           "target_fy2026_pct": "50.0",
@@ -35962,7 +38218,7 @@
         "name_ar": "مسؤول سكن",
         "name_en": "Accommodation Officer",
         "reference_grade": "المستوى السادس",
-        "department_slug": null,
+        "department_slug": "hr-and-support-services",
         "document_status": null,
         "has_scorecard": true,
         "grade_level": 6,
@@ -36046,7 +38302,7 @@
         "name_ar": "مشرف إداري",
         "name_en": "Administrative Supervisor",
         "reference_grade": "المستوى الثالث",
-        "department_slug": null,
+        "department_slug": "sales-and-operations",
         "document_status": null,
         "has_scorecard": true,
         "grade_level": 3,
@@ -36060,7 +38316,7 @@
         "name_ar": "مدير خدمات ما بعد البيع",
         "name_en": "After-Sales Services Manager",
         "reference_grade": "المستوى الثاني",
-        "department_slug": null,
+        "department_slug": "after-sales-service",
         "document_status": null,
         "has_scorecard": true,
         "grade_level": 2,
@@ -36368,7 +38624,7 @@
         "name_ar": "رئيس وحدة مستودع المتجر الالكتروني",
         "name_en": "E-Commerce Warehouse Unit Head",
         "reference_grade": "المستوى السادس",
-        "department_slug": null,
+        "department_slug": "marketing-and-e-commerce",
         "document_status": null,
         "has_scorecard": true,
         "grade_level": 6,
@@ -36410,7 +38666,7 @@
         "name_ar": "المدير المالي",
         "name_en": "Finance Director",
         "reference_grade": "المستوى الثاني",
-        "department_slug": null,
+        "department_slug": "finance",
         "document_status": null,
         "has_scorecard": true,
         "grade_level": 2,
@@ -36480,7 +38736,7 @@
         "name_ar": "مدير الموارد البشرية والخدمات المساندة",
         "name_en": "HR and Support Services Director",
         "reference_grade": "المستوى الثاني",
-        "department_slug": null,
+        "department_slug": "hr-and-support-services",
         "document_status": null,
         "has_scorecard": true,
         "grade_level": 2,
@@ -36634,7 +38890,7 @@
         "name_ar": "مراقب مخزون",
         "name_en": "Inventory Controller",
         "reference_grade": "المستوى السادس",
-        "department_slug": null,
+        "department_slug": "inventory-and-stock-control",
         "document_status": null,
         "has_scorecard": true,
         "grade_level": 6,
@@ -36648,7 +38904,7 @@
         "name_ar": "مدير تقنية المعلومات",
         "name_en": "IT Manager",
         "reference_grade": "المستوى الثاني",
-        "department_slug": null,
+        "department_slug": "it",
         "document_status": null,
         "has_scorecard": true,
         "grade_level": 2,
@@ -36662,7 +38918,7 @@
         "name_ar": "رئيس وحدة مستودع جدة",
         "name_en": "Jeddah Warehouse Unit Head",
         "reference_grade": "المستوى السادس",
-        "department_slug": null,
+        "department_slug": "supply-chain",
         "document_status": null,
         "has_scorecard": true,
         "grade_level": 6,
@@ -36844,7 +39100,7 @@
         "name_ar": "مشرف صيانة الأجهزة الكبيرة",
         "name_en": "MDA Maintenance Supervisor",
         "reference_grade": "المستوى الثالث",
-        "department_slug": null,
+        "department_slug": "after-sales-service",
         "document_status": null,
         "has_scorecard": true,
         "grade_level": 3,
@@ -36928,7 +39184,7 @@
         "name_ar": "منسق عمليات خدمات ما بعد البيع",
         "name_en": "Operations Coordinator After-Sales",
         "reference_grade": "المستوى السادس",
-        "department_slug": null,
+        "department_slug": "after-sales-service",
         "document_status": null,
         "has_scorecard": true,
         "grade_level": 6,
@@ -36970,7 +39226,7 @@
         "name_ar": "مدير المشتريات",
         "name_en": "Procurement Manager",
         "reference_grade": "المستوى الثاني",
-        "department_slug": null,
+        "department_slug": "supply-chain",
         "document_status": null,
         "has_scorecard": true,
         "grade_level": 2,
@@ -37054,7 +39310,7 @@
         "name_ar": "مدير المبيعات والعمليات",
         "name_en": "Sales & Operations Manager",
         "reference_grade": "المستوى الثاني",
-        "department_slug": null,
+        "department_slug": "sales-and-operations",
         "document_status": null,
         "has_scorecard": true,
         "grade_level": 2,
@@ -37194,7 +39450,7 @@
         "name_ar": "مشرف عمليات معرض",
         "name_en": "Store Operations Supervisor",
         "reference_grade": "المستوى الثالث",
-        "department_slug": null,
+        "department_slug": "sales-and-operations",
         "document_status": null,
         "has_scorecard": true,
         "grade_level": 3,
@@ -37390,7 +39646,7 @@
         "name_ar": "رئيس وحدة مستودع الإمارات",
         "name_en": "UAE Warehouse Unit Head",
         "reference_grade": "المستوى السادس",
-        "department_slug": null,
+        "department_slug": "supply-chain",
         "document_status": null,
         "has_scorecard": true,
         "grade_level": 6,
@@ -37434,7 +39690,7 @@
         "name_ar": "مسؤول سكن",
         "name_en": "Accommodation Officer",
         "reference_grade": "المستوى السادس",
-        "department_slug": null,
+        "department_slug": "hr-and-support-services",
         "document_status": null,
         "has_scorecard": true,
         "nature_ar": null,
@@ -38744,7 +41000,7 @@
         "name_ar": "مشرف إداري",
         "name_en": "Administrative Supervisor",
         "reference_grade": "المستوى الثالث",
-        "department_slug": null,
+        "department_slug": "sales-and-operations",
         "document_status": null,
         "has_scorecard": true,
         "nature_ar": null,
@@ -38956,7 +41212,7 @@
         "name_ar": "مدير خدمات ما بعد البيع",
         "name_en": "After-Sales Services Manager",
         "reference_grade": "المستوى الثاني",
-        "department_slug": null,
+        "department_slug": "after-sales-service",
         "document_status": null,
         "has_scorecard": true,
         "nature_ar": null,
@@ -43520,7 +45776,7 @@
         "name_ar": "رئيس وحدة مستودع المتجر الالكتروني",
         "name_en": "E-Commerce Warehouse Unit Head",
         "reference_grade": "المستوى السادس",
-        "department_slug": null,
+        "department_slug": "marketing-and-e-commerce",
         "document_status": null,
         "has_scorecard": true,
         "nature_ar": null,
@@ -44045,7 +46301,7 @@
         "name_ar": "المدير المالي",
         "name_en": "Finance Director",
         "reference_grade": "المستوى الثاني",
-        "department_slug": null,
+        "department_slug": "finance",
         "document_status": null,
         "has_scorecard": true,
         "nature_ar": null,
@@ -45121,7 +47377,7 @@
         "name_ar": "مدير الموارد البشرية والخدمات المساندة",
         "name_en": "HR and Support Services Director",
         "reference_grade": "المستوى الثاني",
-        "department_slug": null,
+        "department_slug": "hr-and-support-services",
         "document_status": null,
         "has_scorecard": true,
         "nature_ar": null,
@@ -47645,7 +49901,7 @@
         "name_ar": "مراقب مخزون",
         "name_en": "Inventory Controller",
         "reference_grade": "المستوى السادس",
-        "department_slug": null,
+        "department_slug": "inventory-and-stock-control",
         "document_status": null,
         "has_scorecard": true,
         "nature_ar": null,
@@ -47827,7 +50083,7 @@
         "name_ar": "مدير تقنية المعلومات",
         "name_en": "IT Manager",
         "reference_grade": "المستوى الثاني",
-        "department_slug": null,
+        "department_slug": "it",
         "document_status": null,
         "has_scorecard": true,
         "nature_ar": null,
@@ -48054,7 +50310,7 @@
         "name_ar": "رئيس وحدة مستودع جدة",
         "name_en": "Jeddah Warehouse Unit Head",
         "reference_grade": "المستوى السادس",
-        "department_slug": null,
+        "department_slug": "supply-chain",
         "document_status": null,
         "has_scorecard": true,
         "nature_ar": null,
@@ -50842,7 +53098,7 @@
         "name_ar": "مشرف صيانة الأجهزة الكبيرة",
         "name_en": "MDA Maintenance Supervisor",
         "reference_grade": "المستوى الثالث",
-        "department_slug": null,
+        "department_slug": "after-sales-service",
         "document_status": null,
         "has_scorecard": true,
         "nature_ar": null,
@@ -52061,7 +54317,7 @@
         "name_ar": "منسق عمليات خدمات ما بعد البيع",
         "name_en": "Operations Coordinator After-Sales",
         "reference_grade": "المستوى السادس",
-        "department_slug": null,
+        "department_slug": "after-sales-service",
         "document_status": null,
         "has_scorecard": true,
         "nature_ar": null,
@@ -52627,7 +54883,7 @@
         "name_ar": "مدير المشتريات",
         "name_en": "Procurement Manager",
         "reference_grade": "المستوى الثاني",
-        "department_slug": null,
+        "department_slug": "supply-chain",
         "document_status": null,
         "has_scorecard": true,
         "nature_ar": null,
@@ -53948,7 +56204,7 @@
         "name_ar": "مدير المبيعات والعمليات",
         "name_en": "Sales & Operations Manager",
         "reference_grade": "المستوى الثاني",
-        "department_slug": null,
+        "department_slug": "sales-and-operations",
         "document_status": null,
         "has_scorecard": true,
         "nature_ar": null,
@@ -56070,7 +58326,7 @@
         "name_ar": "مشرف عمليات معرض",
         "name_en": "Store Operations Supervisor",
         "reference_grade": "المستوى الثالث",
-        "department_slug": null,
+        "department_slug": "sales-and-operations",
         "document_status": null,
         "has_scorecard": true,
         "nature_ar": null,
@@ -59124,7 +61380,7 @@
         "name_ar": "رئيس وحدة مستودع الإمارات",
         "name_en": "UAE Warehouse Unit Head",
         "reference_grade": "المستوى السادس",
-        "department_slug": null,
+        "department_slug": "supply-chain",
         "document_status": null,
         "has_scorecard": true,
         "nature_ar": null,
