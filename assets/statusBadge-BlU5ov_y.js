@@ -1,0 +1,1 @@
+var e={draft:{label:`مسودة`,variant:`warning`},published:{label:`منشورة`,variant:`success`},active:{label:`نشطة`,variant:`success`},archived:{label:`مؤرشفة`,variant:`muted`}};function t(t){return e[t]??{label:t,variant:`secondary`}}export{t};
