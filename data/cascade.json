@@ -11,7 +11,7 @@
     },
     "stats": {
       "pillars": 7,
-      "kpis": 414,
+      "kpis": 413,
       "competencies": 34,
       "departments": 11,
       "positions": 105,
@@ -29,7 +29,7 @@
         "executive_objectives_en": "Sustainable revenue growth, improved profitability, expense discipline, and stronger financial results.",
         "measurement_scope_ar": "الإيرادات، صافي الربح، الهوامش، المصاريف، كفاءة الأداء المالي العام، وتحقيق مستهدفات مجلس الإدارة والمساهمين",
         "measurement_scope_en": "Revenue, net profit, margins, expenses, financial efficiency, BoD/shareholder targets",
-        "kpi_count": 44,
+        "kpi_count": 57,
         "simple_intro_ar": "هذا المحور يهتم بنمو مبيعات الشركة وأرباحها، وكيف نضبط مصاريفنا عشان النتيجة المالية تطلع أحسن سنة بعد سنة. يهمنا لأنه عافية الشركة المالية هي اللي تضمن استمرارها وتحافظ على وظائفنا وثقة المساهمين فينا."
       },
       {
@@ -43,7 +43,7 @@
         "executive_objectives_en": "Improve commercial channel performance, branch and e-store productivity, sales-team effectiveness, and digital-channel revenue contribution.",
         "measurement_scope_ar": "أداء الفروع، المتجر الإلكتروني، المنصات الخارجية، القنوات الرقمية، إنتاجية فرق البيع، معدلات التحويل، وقيمة الطلبات",
         "measurement_scope_en": "Branch performance, e-store, external platforms, digital channels, sales productivity, conversion rates, order value",
-        "kpi_count": 43,
+        "kpi_count": 56,
         "simple_intro_ar": "هذا المحور يتابع أداء البيع عندنا في كل القنوات: الفروع، المتجر الإلكتروني، والمنصات الخارجية، وكيف نرفع إنتاجية فرق البيع ونزيد نصيب القنوات الرقمية من المبيعات. يهمنا لأن كل عملية بيع ناجحة وكل عميل نخدمه صح يصبّون مباشرة في إيرادات الشركة ونموّها."
       },
       {
@@ -57,7 +57,7 @@
         "executive_objectives_en": "Improve the customer journey, increase loyalty and repeat purchase, reduce recurring complaints, and improve after-sales quality.",
         "measurement_scope_ar": "رحلة العميل قبل وأثناء وبعد الشراء، جودة الخدمة في الفروع والقنوات الرقمية، الشكاوى، التوصيل، التركيب، الصيانة، الضمان، والولاء",
         "measurement_scope_en": "Customer journey, service quality, complaints, delivery, installation, maintenance, warranty, loyalty",
-        "kpi_count": 40,
+        "kpi_count": 52,
         "simple_intro_ar": "هذا المحور يركّز على تجربة العميل من أول ما يدخل عندنا لين بعد الشراء: جودة الخدمة، حل الشكاوى، والتوصيل والتركيب والصيانة والضمان. يهمنا لأن العميل الراضي يرجع لنا ويوصّي غيره، وهذا يبني سمعتنا ويزيد المبيعات المتكررة."
       },
       {
@@ -71,7 +71,7 @@
         "executive_objectives_en": "Improve product portfolio quality, ensure right product availability, improve inventory and warehouse efficiency, and reduce dead/damaged/stockout items.",
         "measurement_scope_ar": "تشكيلة المنتجات، ربحية المنتجات، تخطيط الطلب، صحة المخزون، توفر المنتجات، المستودعات، التوريد، التخزين، التوزيع، والتالف والركود",
         "measurement_scope_en": "Product mix, product profitability, demand planning, stock health, availability, warehouses, sourcing, storage, distribution, damage and dead stock",
-        "kpi_count": 44,
+        "kpi_count": 63,
         "simple_intro_ar": "هذا المحور يهتم بإدارة تشكيلة المنتجات والمخزون وسلاسل الإمداد، عشان المنتج المناسب يكون متوفر في الوقت والمكان الصح، ونقلّل التالف والبضاعة الراكدة ونفاد المخزون. يهمنا لأن توفّر المنتج وضبط المخزون يحمي مبيعاتنا ويقلّل الخسائر."
       },
       {
@@ -85,7 +85,7 @@
         "executive_objectives_en": "Attract, retain, and develop talent; build a culture of performance, discipline, and collaboration; improve workforce productivity and leadership bench readiness.",
         "measurement_scope_ar": "الرضا الوظيفي، الاندماج، الاستقطاب، الاستبقاء، التدريب، الإنتاجية، الانضباط، جاهزية القيادات، الصف الثاني، والسعودة النوعية",
         "measurement_scope_en": "Engagement, attraction, retention, training, productivity, discipline, leadership readiness, second-line readiness, qualitative Saudization",
-        "kpi_count": 48,
+        "kpi_count": 61,
         "simple_intro_ar": "هذا المحور يهتم فينا نحن الموظفين: كيف نستقطب ونحافظ على الكفاءات ونطوّرها، ونبني بيئة عمل أساسها الأداء والانضباط والتعاون. يهمنا لأن قوة فريقنا وجاهزية قياداتنا والصف الثاني هي اللي تضمن استمرار الشركة على المدى الطويل."
       },
       {
@@ -99,7 +99,7 @@
         "executive_objectives_en": "Improve daily operations, branch/facility readiness, reduce failures and delays, automate internal services, and improve data/report quality.",
         "measurement_scope_ar": "كفاءة العمليات الداخلية، جاهزية الفروع والمرافق، خدمات الدعم والصيانة، أتمتة الخدمات، دقة التقارير، جودة الأنظمة، والتكامل بين الإدارات",
         "measurement_scope_en": "Internal operations, branch/facility readiness, support and maintenance services, automation, report accuracy, system quality, interdepartmental integration",
-        "kpi_count": 36,
+        "kpi_count": 49,
         "simple_intro_ar": "هذا المحور يقيس كفاءة عملياتنا الداخلية وجاهزية الفروع والمرافق، وجودة الدعم والصيانة، وأتمتة الخدمات ودقة التقارير اللي تبني عليها القيادة قراراتها. يهمنا لأنه العمود الفقري اللي يخلي باقي المحاور تشتغل بسلاسة وبدون أعطال وتأخير."
       },
       {
@@ -113,7 +113,7 @@
         "executive_objectives_en": "Raise institutional compliance, strengthen internal control and governance, address risks/audit findings on time, and support listed-company obligations.",
         "measurement_scope_ar": "السياسات، الصلاحيات، المتطلبات النظامية، الإفصاح، الرقابة الداخلية، المراجعة، إدارة المخاطر، العقود، وتعارض المصالح",
         "measurement_scope_en": "Policies, authorities, regulatory requirements, disclosure, internal control, audit, risk, contracts, conflicts of interest",
-        "kpi_count": 52,
+        "kpi_count": 75,
         "simple_intro_ar": "هذا المحور يتأكد إننا نلتزم بالسياسات والصلاحيات والأنظمة، ونقوّي الرقابة الداخلية والمراجعة وإدارة المخاطر والعقود. يهمنا لأن الالتزام والحوكمة الصح يحمون الشركة كشركة مساهمة مدرجة ويحافظون على مصالحنا ومصالح المساهمين."
       }
     ],
@@ -144,7 +144,7 @@
           "code": "SUPPLY",
           "name_ar": "إدارة محفظة المنتجات والمخزون وسلاسل الإمداد",
           "name_en": "Product Portfolio, Inventory & Supply Chain Management",
-          "count": 64,
+          "count": 63,
           "color": "#7c3aed"
         },
         {
@@ -438,7 +438,7 @@
       "executive_objectives_en": "Improve product portfolio quality, ensure right product availability, improve inventory and warehouse efficiency, and reduce dead/damaged/stockout items.",
       "measurement_scope_ar": "تشكيلة المنتجات، ربحية المنتجات، تخطيط الطلب، صحة المخزون، توفر المنتجات، المستودعات، التوريد، التخزين، التوزيع، والتالف والركود",
       "measurement_scope_en": "Product mix, product profitability, demand planning, stock health, availability, warehouses, sourcing, storage, distribution, damage and dead stock",
-      "kpi_count": 64,
+      "kpi_count": 63,
       "simple_intro_ar": "هذا المحور يهتم بإدارة تشكيلة المنتجات والمخزون وسلاسل الإمداد، عشان المنتج المناسب يكون متوفر في الوقت والمكان الصح، ونقلّل التالف والبضاعة الراكدة ونفاد المخزون. يهمنا لأن توفّر المنتج وضبط المخزون يحمي مبيعاتنا ويقلّل الخسائر."
     },
     {
@@ -7457,25 +7457,6 @@
         "participant_dept_name_ar": "إدارة سلاسل الإمداد والتوريد",
         "participant_dept_name_en": "Supply Chain Department",
         "definition_simple_ar": "كم ريال ضاع علينا من المبيعات لأن العميل جاء يبي صنف وما لقاه موجود، نقدّر الطلب الفايت ونضربه في السعر.",
-        "level_classification": "senior"
-      },
-      {
-        "catalog_number": 372,
-        "name_ar": "عدد أيام تغطية المخزون (DIO)",
-        "name_en": "Days Inventory Outstanding (DIO) / days of supply",
-        "pillar_code": "SUPPLY",
-        "pillar_name_ar": "إدارة محفظة المنتجات والمخزون وسلاسل الإمداد",
-        "pillar_name_en": "Product Portfolio, Inventory & Supply Chain Management",
-        "pillar_color": "#7c3aed",
-        "unit": "يوم",
-        "periodicity": "monthly",
-        "polarity": "lower_is_better",
-        "target_text": "<= 120 يوم",
-        "owner_dept_name_ar": "إدارة الجرد ومراقبة المخزون",
-        "owner_dept_name_en": "Inventory and stock Control Department",
-        "participant_dept_name_ar": "الإدارة المالية",
-        "participant_dept_name_en": "Finance Department",
-        "definition_simple_ar": "كم يوم تقعد البضاعة عندنا في المخزن قبل ما تنباع، كل ما قلّت الأيام صار نقدنا أسرع رجوع.",
         "level_classification": "senior"
       },
       {
@@ -15325,25 +15306,6 @@
         "participant_dept_name_ar": "إدارة سلاسل الإمداد والتوريد",
         "participant_dept_name_en": "Supply Chain Department",
         "definition_simple_ar": "كم ريال ضاع علينا من المبيعات لأن العميل جاء يبي صنف وما لقاه موجود، نقدّر الطلب الفايت ونضربه في السعر.",
-        "level_classification": "senior"
-      },
-      "372": {
-        "catalog_number": 372,
-        "name_ar": "عدد أيام تغطية المخزون (DIO)",
-        "name_en": "Days Inventory Outstanding (DIO) / days of supply",
-        "pillar_code": "SUPPLY",
-        "pillar_name_ar": "إدارة محفظة المنتجات والمخزون وسلاسل الإمداد",
-        "pillar_name_en": "Product Portfolio, Inventory & Supply Chain Management",
-        "pillar_color": "#7c3aed",
-        "unit": "يوم",
-        "periodicity": "monthly",
-        "polarity": "lower_is_better",
-        "target_text": "<= 120 يوم",
-        "owner_dept_name_ar": "إدارة الجرد ومراقبة المخزون",
-        "owner_dept_name_en": "Inventory and stock Control Department",
-        "participant_dept_name_ar": "الإدارة المالية",
-        "participant_dept_name_en": "Finance Department",
-        "definition_simple_ar": "كم يوم تقعد البضاعة عندنا في المخزن قبل ما تنباع، كل ما قلّت الأيام صار نقدنا أسرع رجوع.",
         "level_classification": "senior"
       },
       "373": {
@@ -31711,7 +31673,7 @@
               "name_en": "Repair/installation reopen (re-visit) rate within 30 days",
               "pillar_code": "CX",
               "pillar_color": "#dc2626",
-              "weight_pct": 14.0,
+              "weight_pct": 14,
               "periodicity": "monthly",
               "target_text": "<= 6%",
               "rag_bands": {
@@ -31816,7 +31778,7 @@
               "name_en": "Average request-to-first-appointment (response) lead time",
               "pillar_code": "OPS",
               "pillar_color": "#0891b2",
-              "weight_pct": 9.0,
+              "weight_pct": 9,
               "periodicity": "monthly",
               "target_text": "<= 4 ساعات",
               "rag_bands": {
@@ -32050,7 +32012,7 @@
               "name_en": "Showroom operational-policy compliance %",
               "pillar_code": "GOV",
               "pillar_color": "#475569",
-              "weight_pct": 17.8,
+              "weight_pct": 15.5,
               "periodicity": "quarterly",
               "target_text": ">= 95%",
               "rag_bands": {
@@ -32065,7 +32027,7 @@
               "name_en": "Audit coverage of branch sales & cash cycle %",
               "pillar_code": "COMMERCE",
               "pillar_color": "#059669",
-              "weight_pct": 16.7,
+              "weight_pct": 14.6,
               "periodicity": "annual",
               "target_text": ">= 80%",
               "rag_bands": {
@@ -32080,7 +32042,7 @@
               "name_en": "New-branch sales ramp-up vs. plan %",
               "pillar_code": "GROWTH",
               "pillar_color": "#2563eb",
-              "weight_pct": 15.5,
+              "weight_pct": 13.6,
               "periodicity": "monthly",
               "target_text": ">= 90% of ramp curve",
               "rag_bands": {
@@ -32095,7 +32057,7 @@
               "name_en": "E-store visitor-to-buyer conversion rate",
               "pillar_code": "COMMERCE",
               "pillar_color": "#059669",
-              "weight_pct": 14.3,
+              "weight_pct": 12.5,
               "periodicity": "monthly",
               "target_text": ">= 2.0%",
               "rag_bands": {
@@ -32110,7 +32072,7 @@
               "name_en": "Branch opex budget adherence %",
               "pillar_code": "GROWTH",
               "pillar_color": "#2563eb",
-              "weight_pct": 13.1,
+              "weight_pct": 11.5,
               "periodicity": "monthly",
               "target_text": ">= 95%",
               "rag_bands": {
@@ -32125,7 +32087,7 @@
               "name_en": "In-branch sales & customer-service standards compliance %",
               "pillar_code": "COMMERCE",
               "pillar_color": "#059669",
-              "weight_pct": 11.9,
+              "weight_pct": 10.4,
               "periodicity": "quarterly",
               "target_text": ">= 90%",
               "rag_bands": {
@@ -32140,7 +32102,7 @@
               "name_en": "Sales-return / exchange rate %",
               "pillar_code": "COMMERCE",
               "pillar_color": "#059669",
-              "weight_pct": 10.7,
+              "weight_pct": 9.4,
               "periodicity": "monthly",
               "target_text": "<= 4%",
               "rag_bands": {
@@ -32148,6 +32110,16 @@
                 "green": "≤ 4%",
                 "yellow": "4.1-7%"
               }
+            },
+            {
+              "catalog_number": 342,
+              "name_ar": "متوسط المبيعات لكل ممثل بيع (إنتاجية الموظف)",
+              "name_en": "Sales per selling associate (FTE productivity)",
+              "pillar_code": "COMMERCE",
+              "pillar_color": "#059669",
+              "periodicity": "monthly",
+              "target_text": ">= SAR 220,000 per associate / month",
+              "weight_pct": 12.5
             }
           ],
           "competencies": [
@@ -32571,7 +32543,7 @@
               "name_en": "Stock-record accuracy in inventory reports %",
               "pillar_code": "SUPPLY",
               "pillar_color": "#7c3aed",
-              "weight_pct": 20.8,
+              "weight_pct": 17.8,
               "periodicity": "quarterly",
               "target_text": ">= 99%",
               "rag_bands": {
@@ -32586,7 +32558,7 @@
               "name_en": "Catalog-vs-stock accuracy affecting customer %",
               "pillar_code": "CX",
               "pillar_color": "#dc2626",
-              "weight_pct": 19.2,
+              "weight_pct": 16.5,
               "periodicity": "monthly",
               "target_text": ">= 98%",
               "rag_bands": {
@@ -32601,7 +32573,7 @@
               "name_en": "Period-end inventory valuation accuracy %",
               "pillar_code": "SUPPLY",
               "pillar_color": "#7c3aed",
-              "weight_pct": 17.5,
+              "weight_pct": 15,
               "periodicity": "quarterly",
               "target_text": ">= 98%",
               "rag_bands": {
@@ -32616,7 +32588,7 @@
               "name_en": "Stock-count accuracy %",
               "pillar_code": "SUPPLY",
               "pillar_color": "#7c3aed",
-              "weight_pct": 15.8,
+              "weight_pct": 13.5,
               "periodicity": "monthly",
               "target_text": ">= 99.5%",
               "rag_bands": {
@@ -32631,7 +32603,7 @@
               "name_en": "Scheduled stock-counts on-time completion %",
               "pillar_code": "OPS",
               "pillar_color": "#0891b2",
-              "weight_pct": 14.2,
+              "weight_pct": 12.2,
               "periodicity": "quarterly",
               "target_text": ">= 95%",
               "rag_bands": {
@@ -32646,7 +32618,7 @@
               "name_en": "Stock controllers count-procedures certification %",
               "pillar_code": "PEOPLE",
               "pillar_color": "#ea580c",
-              "weight_pct": 12.5,
+              "weight_pct": 10.7,
               "periodicity": "annual",
               "target_text": ">= 95%",
               "rag_bands": {
@@ -32654,6 +32626,16 @@
                 "green": "≥ 95%",
                 "yellow": "85-94%"
               }
+            },
+            {
+              "catalog_number": 376,
+              "name_ar": "نسبة استثناءات الرصيد السالب أو الصفري",
+              "name_en": "Negative / zero on-hand exception rate",
+              "pillar_code": "SUPPLY",
+              "pillar_color": "#7c3aed",
+              "periodicity": "monthly",
+              "target_text": "<= 0.5%",
+              "weight_pct": 14.3
             }
           ],
           "competencies": [
@@ -33763,7 +33745,7 @@
               "name_en": "Slow-moving stock value reduction %",
               "pillar_code": "GROWTH",
               "pillar_color": "#2563eb",
-              "weight_pct": 14.0,
+              "weight_pct": 14,
               "periodicity": "quarterly",
               "target_text": ">= 20%",
               "rag_bands": {
@@ -33868,7 +33850,7 @@
               "name_en": "Inventory provisioning & shrinkage P&L impact accuracy",
               "pillar_code": "GROWTH",
               "pillar_color": "#2563eb",
-              "weight_pct": 9.0,
+              "weight_pct": 9,
               "periodicity": "quarterly",
               "target_text": ">= 90%",
               "rag_bands": {
@@ -36814,7 +36796,7 @@
               "name_en": "Customer-facing platform uptime %",
               "pillar_code": "CX",
               "pillar_color": "#dc2626",
-              "weight_pct": 20.8,
+              "weight_pct": 24.7,
               "periodicity": "monthly",
               "target_text": ">= 99.5%",
               "rag_bands": {
@@ -36829,7 +36811,7 @@
               "name_en": "Warehouse & logistics systems uptime %",
               "pillar_code": "SUPPLY",
               "pillar_color": "#7c3aed",
-              "weight_pct": 19.2,
+              "weight_pct": 22.8,
               "periodicity": "monthly",
               "target_text": ">= 99.5%",
               "rag_bands": {
@@ -36844,7 +36826,7 @@
               "name_en": "Digital audit-tools & data-analytics usage %",
               "pillar_code": "OPS",
               "pillar_color": "#0891b2",
-              "weight_pct": 17.5,
+              "weight_pct": 20.8,
               "periodicity": "quarterly",
               "target_text": ">= 70%",
               "rag_bands": {
@@ -36854,27 +36836,12 @@
               }
             },
             {
-              "catalog_number": 376,
-              "name_ar": "نسبة استثناءات الرصيد السالب أو الصفري",
-              "name_en": "Negative / zero on-hand exception rate",
-              "pillar_code": "SUPPLY",
-              "pillar_color": "#7c3aed",
-              "weight_pct": 15.8,
-              "periodicity": "monthly",
-              "target_text": "<= 0.5%",
-              "rag_bands": {
-                "red": "> 1.5%",
-                "green": "≤ 0.5%",
-                "yellow": "0.51-1.5%"
-              }
-            },
-            {
               "catalog_number": 115,
               "name_ar": "نسبة جاهزية أنظمة الموارد البشرية الذاتية للموظفين",
               "name_en": "Employee HR self-service systems availability %",
               "pillar_code": "PEOPLE",
               "pillar_color": "#ea580c",
-              "weight_pct": 14.2,
+              "weight_pct": 16.9,
               "periodicity": "monthly",
               "target_text": ">= 99%",
               "rag_bands": {
@@ -36889,7 +36856,7 @@
               "name_en": "Marketing team digital-tools & analytics upskilling %",
               "pillar_code": "PEOPLE",
               "pillar_color": "#ea580c",
-              "weight_pct": 12.5,
+              "weight_pct": 14.8,
               "periodicity": "annual",
               "target_text": ">= 90%",
               "rag_bands": {
@@ -37495,7 +37462,7 @@
               "name_en": "Customer-facing platform uptime %",
               "pillar_code": "CX",
               "pillar_color": "#dc2626",
-              "weight_pct": 20.8,
+              "weight_pct": 25.1,
               "periodicity": "monthly",
               "target_text": ">= 99.5%",
               "rag_bands": {
@@ -37510,7 +37477,7 @@
               "name_en": "Warehouse & logistics systems uptime %",
               "pillar_code": "SUPPLY",
               "pillar_color": "#7c3aed",
-              "weight_pct": 19.2,
+              "weight_pct": 23.3,
               "periodicity": "monthly",
               "target_text": ">= 99.5%",
               "rag_bands": {
@@ -37520,27 +37487,12 @@
               }
             },
             {
-              "catalog_number": 376,
-              "name_ar": "نسبة استثناءات الرصيد السالب أو الصفري",
-              "name_en": "Negative / zero on-hand exception rate",
-              "pillar_code": "SUPPLY",
-              "pillar_color": "#7c3aed",
-              "weight_pct": 17.5,
-              "periodicity": "monthly",
-              "target_text": "<= 0.5%",
-              "rag_bands": {
-                "red": "> 1.5%",
-                "green": "≤ 0.5%",
-                "yellow": "0.51-1.5%"
-              }
-            },
-            {
               "catalog_number": 115,
               "name_ar": "نسبة جاهزية أنظمة الموارد البشرية الذاتية للموظفين",
               "name_en": "Employee HR self-service systems availability %",
               "pillar_code": "PEOPLE",
               "pillar_color": "#ea580c",
-              "weight_pct": 15.8,
+              "weight_pct": 19.2,
               "periodicity": "monthly",
               "target_text": ">= 99%",
               "rag_bands": {
@@ -37555,7 +37507,7 @@
               "name_en": "Service-desk SLA attainment & first-contact resolution %",
               "pillar_code": "OPS",
               "pillar_color": "#0891b2",
-              "weight_pct": 14.2,
+              "weight_pct": 17.2,
               "periodicity": "monthly",
               "target_text": ">= 92%",
               "rag_bands": {
@@ -37570,7 +37522,7 @@
               "name_en": "Finance staff CPD hours completion %",
               "pillar_code": "PEOPLE",
               "pillar_color": "#ea580c",
-              "weight_pct": 12.5,
+              "weight_pct": 15.2,
               "periodicity": "annual",
               "target_text": ">= 90%",
               "rag_bands": {
@@ -38425,7 +38377,7 @@
               "name_en": "Customer-facing platform uptime %",
               "pillar_code": "CX",
               "pillar_color": "#dc2626",
-              "weight_pct": 20.8,
+              "weight_pct": 25.1,
               "periodicity": "monthly",
               "target_text": ">= 99.5%",
               "rag_bands": {
@@ -38440,7 +38392,7 @@
               "name_en": "Warehouse & logistics systems uptime %",
               "pillar_code": "SUPPLY",
               "pillar_color": "#7c3aed",
-              "weight_pct": 19.2,
+              "weight_pct": 23.3,
               "periodicity": "monthly",
               "target_text": ">= 99.5%",
               "rag_bands": {
@@ -38450,27 +38402,12 @@
               }
             },
             {
-              "catalog_number": 376,
-              "name_ar": "نسبة استثناءات الرصيد السالب أو الصفري",
-              "name_en": "Negative / zero on-hand exception rate",
-              "pillar_code": "SUPPLY",
-              "pillar_color": "#7c3aed",
-              "weight_pct": 17.5,
-              "periodicity": "monthly",
-              "target_text": "<= 0.5%",
-              "rag_bands": {
-                "red": "> 1.5%",
-                "green": "≤ 0.5%",
-                "yellow": "0.51-1.5%"
-              }
-            },
-            {
               "catalog_number": 63,
               "name_ar": "نسبة دقة التقارير التشغيلية والإدارية",
               "name_en": "Operational/administrative report accuracy %",
               "pillar_code": "OPS",
               "pillar_color": "#0891b2",
-              "weight_pct": 15.8,
+              "weight_pct": 19.2,
               "periodicity": "quarterly",
               "target_text": ">= 98%",
               "rag_bands": {
@@ -38485,7 +38422,7 @@
               "name_en": "Recurring-breakdown %",
               "pillar_code": "OPS",
               "pillar_color": "#0891b2",
-              "weight_pct": 14.2,
+              "weight_pct": 17.2,
               "periodicity": "monthly",
               "target_text": "< 5%",
               "rag_bands": {
@@ -38500,7 +38437,7 @@
               "name_en": "Compliance with approved authorities %",
               "pillar_code": "GOV",
               "pillar_color": "#475569",
-              "weight_pct": 12.5,
+              "weight_pct": 15.2,
               "periodicity": "quarterly",
               "target_text": ">= 98%",
               "rag_bands": {
@@ -39708,7 +39645,7 @@
               "name_en": "HR & payroll audit coverage %",
               "pillar_code": "PEOPLE",
               "pillar_color": "#ea580c",
-              "weight_pct": 17.8,
+              "weight_pct": 20.5,
               "periodicity": "annual",
               "target_text": ">= 90%",
               "rag_bands": {
@@ -39723,7 +39660,7 @@
               "name_en": "Priority training-program completion %",
               "pillar_code": "PEOPLE",
               "pillar_color": "#ea580c",
-              "weight_pct": 16.7,
+              "weight_pct": 19.2,
               "periodicity": "quarterly",
               "target_text": ">= 95%",
               "rag_bands": {
@@ -39738,7 +39675,7 @@
               "name_en": "Cost-per-hire",
               "pillar_code": "PEOPLE",
               "pillar_color": "#ea580c",
-              "weight_pct": 15.5,
+              "weight_pct": 17.8,
               "periodicity": "quarterly",
               "target_text": "<= 2,800 ريال للموظف",
               "rag_bands": {
@@ -39753,7 +39690,7 @@
               "name_en": "Internal-customer satisfaction with support services",
               "pillar_code": "CX",
               "pillar_color": "#dc2626",
-              "weight_pct": 14.3,
+              "weight_pct": 16.5,
               "periodicity": "quarterly",
               "target_text": ">= 85%",
               "rag_bands": {
@@ -39763,27 +39700,12 @@
               }
             },
             {
-              "catalog_number": 342,
-              "name_ar": "متوسط المبيعات لكل ممثل بيع (إنتاجية الموظف)",
-              "name_en": "Sales per selling associate (FTE productivity)",
-              "pillar_code": "COMMERCE",
-              "pillar_color": "#059669",
-              "weight_pct": 13.1,
-              "periodicity": "monthly",
-              "target_text": ">= SAR 220,000 per associate / month",
-              "rag_bands": {
-                "red": "< 180,000 ريال",
-                "green": "≥ 220,000 ريال",
-                "yellow": "180,000-219,999 ريال"
-              }
-            },
-            {
               "catalog_number": 116,
               "name_ar": "نسبة تأهيل موظفي سلاسل الإمداد على السلامة والمناولة",
               "name_en": "Supply-chain staff safety & handling certification %",
               "pillar_code": "PEOPLE",
               "pillar_color": "#ea580c",
-              "weight_pct": 11.9,
+              "weight_pct": 13.7,
               "periodicity": "annual",
               "target_text": ">= 95%",
               "rag_bands": {
@@ -39798,7 +39720,7 @@
               "name_en": "Internal mobility / internal-fill rate",
               "pillar_code": "PEOPLE",
               "pillar_color": "#ea580c",
-              "weight_pct": 10.7,
+              "weight_pct": 12.3,
               "periodicity": "quarterly",
               "target_text": ">= 35% من الوظائف الإشرافية/القيادية",
               "rag_bands": {
@@ -40202,7 +40124,7 @@
               "name_en": "Customer-facing platform uptime %",
               "pillar_code": "CX",
               "pillar_color": "#dc2626",
-              "weight_pct": 20.8,
+              "weight_pct": 25.1,
               "periodicity": "monthly",
               "target_text": ">= 99.5%",
               "rag_bands": {
@@ -40217,7 +40139,7 @@
               "name_en": "Warehouse & logistics systems uptime %",
               "pillar_code": "SUPPLY",
               "pillar_color": "#7c3aed",
-              "weight_pct": 19.2,
+              "weight_pct": 23.3,
               "periodicity": "monthly",
               "target_text": ">= 99.5%",
               "rag_bands": {
@@ -40227,27 +40149,12 @@
               }
             },
             {
-              "catalog_number": 376,
-              "name_ar": "نسبة استثناءات الرصيد السالب أو الصفري",
-              "name_en": "Negative / zero on-hand exception rate",
-              "pillar_code": "SUPPLY",
-              "pillar_color": "#7c3aed",
-              "weight_pct": 17.5,
-              "periodicity": "monthly",
-              "target_text": "<= 0.5%",
-              "rag_bands": {
-                "red": "> 1.5%",
-                "green": "≤ 0.5%",
-                "yellow": "0.51-1.5%"
-              }
-            },
-            {
               "catalog_number": 223,
               "name_ar": "نسبة تسليم مشاريع التقنية في وقتها",
               "name_en": "IT-project on-time delivery %",
               "pillar_code": "GROWTH",
               "pillar_color": "#2563eb",
-              "weight_pct": 15.8,
+              "weight_pct": 19.2,
               "periodicity": "quarterly",
               "target_text": ">= 85%",
               "rag_bands": {
@@ -40262,7 +40169,7 @@
               "name_en": "Employee HR self-service systems availability %",
               "pillar_code": "PEOPLE",
               "pillar_color": "#ea580c",
-              "weight_pct": 14.2,
+              "weight_pct": 17.2,
               "periodicity": "monthly",
               "target_text": ">= 99%",
               "rag_bands": {
@@ -40277,7 +40184,7 @@
               "name_en": "Inter-department SLA compliance %",
               "pillar_code": "OPS",
               "pillar_color": "#0891b2",
-              "weight_pct": 12.5,
+              "weight_pct": 15.2,
               "periodicity": "monthly",
               "target_text": ">= 95%",
               "rag_bands": {
@@ -41064,7 +40971,7 @@
               "name_en": "CX-related audit recommendation closure %",
               "pillar_code": "CX",
               "pillar_color": "#dc2626",
-              "weight_pct": 10.0,
+              "weight_pct": 10,
               "periodicity": "quarterly",
               "target_text": ">= 90%",
               "rag_bands": {
@@ -41614,7 +41521,7 @@
               "name_en": "Audit coverage of inventory & warehouse operations %",
               "pillar_code": "SUPPLY",
               "pillar_color": "#7c3aed",
-              "weight_pct": 12.5,
+              "weight_pct": 12.4,
               "periodicity": "annual",
               "target_text": ">= 85%",
               "rag_bands": {
@@ -41629,7 +41536,7 @@
               "name_en": "Inventory shrinkage rate (value)",
               "pillar_code": "SUPPLY",
               "pillar_color": "#7c3aed",
-              "weight_pct": 11.9,
+              "weight_pct": 11.7,
               "periodicity": "quarterly",
               "target_text": "<= 0.8%",
               "rag_bands": {
@@ -41644,7 +41551,7 @@
               "name_en": "Inventory-loss control & shrinkage governance %",
               "pillar_code": "GOV",
               "pillar_color": "#475569",
-              "weight_pct": 11.4,
+              "weight_pct": 11.2,
               "periodicity": "quarterly",
               "target_text": ">= 95%",
               "rag_bands": {
@@ -41659,7 +41566,7 @@
               "name_en": "Slow-moving stock value reduction %",
               "pillar_code": "GROWTH",
               "pillar_color": "#2563eb",
-              "weight_pct": 10.8,
+              "weight_pct": 10.6,
               "periodicity": "quarterly",
               "target_text": ">= 20%",
               "rag_bands": {
@@ -41674,7 +41581,7 @@
               "name_en": "Inventory-control policy compliance %",
               "pillar_code": "GOV",
               "pillar_color": "#475569",
-              "weight_pct": 10.3,
+              "weight_pct": 10.1,
               "periodicity": "quarterly",
               "target_text": "100%",
               "rag_bands": {
@@ -41689,7 +41596,7 @@
               "name_en": "On-time branch-order prep & shipping %",
               "pillar_code": "SUPPLY",
               "pillar_color": "#7c3aed",
-              "weight_pct": 9.7,
+              "weight_pct": 9.5,
               "periodicity": "monthly",
               "target_text": ">= 98%",
               "rag_bands": {
@@ -41704,7 +41611,7 @@
               "name_en": "Stock controllers count-procedures certification %",
               "pillar_code": "PEOPLE",
               "pillar_color": "#ea580c",
-              "weight_pct": 9.2,
+              "weight_pct": 9.1,
               "periodicity": "annual",
               "target_text": ">= 95%",
               "rag_bands": {
@@ -41714,27 +41621,12 @@
               }
             },
             {
-              "catalog_number": 372,
-              "name_ar": "عدد أيام تغطية المخزون (DIO)",
-              "name_en": "Days Inventory Outstanding (DIO) / days of supply",
-              "pillar_code": "SUPPLY",
-              "pillar_color": "#7c3aed",
-              "weight_pct": 8.6,
-              "periodicity": "monthly",
-              "target_text": "<= 120 يوم",
-              "rag_bands": {
-                "red": "> 150 يوم",
-                "green": "≤ 120 يوم",
-                "yellow": "121-150 يوم"
-              }
-            },
-            {
               "catalog_number": 374,
               "name_ar": "قيمة الإهلاك/المخصصات للمخزون (شطب)",
               "name_en": "Inventory write-off / provision value",
               "pillar_code": "SUPPLY",
               "pillar_color": "#7c3aed",
-              "weight_pct": 8.1,
+              "weight_pct": 8,
               "periodicity": "quarterly",
               "target_text": "<= 1.0%",
               "rag_bands": {
@@ -41749,7 +41641,7 @@
               "name_en": "Cycle-count frequency / plan adherence by ABC class",
               "pillar_code": "SUPPLY",
               "pillar_color": "#7c3aed",
-              "weight_pct": 7.5,
+              "weight_pct": 7.4,
               "periodicity": "monthly",
               "target_text": ">= 95%",
               "rag_bands": {
@@ -41757,6 +41649,16 @@
                 "green": "≥ 95%",
                 "yellow": "85-94.9%"
               }
+            },
+            {
+              "catalog_number": 359,
+              "name_ar": "عدد أيام تغطية المخزون (DIO)",
+              "name_en": "Inventory days of supply / Days Inventory Outstanding (DIO)",
+              "pillar_code": "SUPPLY",
+              "pillar_color": "#7c3aed",
+              "periodicity": "monthly",
+              "target_text": "<= 105 يوم",
+              "weight_pct": 10
             }
           ],
           "competencies": [
@@ -41941,7 +41843,7 @@
               "name_en": "Audit coverage of inventory & warehouse operations %",
               "pillar_code": "SUPPLY",
               "pillar_color": "#7c3aed",
-              "weight_pct": 14.0,
+              "weight_pct": 14,
               "periodicity": "annual",
               "target_text": ">= 85%",
               "rag_bands": {
@@ -42046,7 +41948,7 @@
               "name_en": "Aged-inventory value by aging bucket",
               "pillar_code": "SUPPLY",
               "pillar_color": "#7c3aed",
-              "weight_pct": 9.0,
+              "weight_pct": 9,
               "periodicity": "quarterly",
               "target_text": "<= 8% للمخزون فوق 180 يوم",
               "rag_bands": {
@@ -42215,7 +42117,7 @@
               "name_en": "Stock-record accuracy in inventory reports %",
               "pillar_code": "SUPPLY",
               "pillar_color": "#7c3aed",
-              "weight_pct": 20.8,
+              "weight_pct": 17.8,
               "periodicity": "quarterly",
               "target_text": ">= 99%",
               "rag_bands": {
@@ -42230,7 +42132,7 @@
               "name_en": "Period-end inventory valuation accuracy %",
               "pillar_code": "SUPPLY",
               "pillar_color": "#7c3aed",
-              "weight_pct": 19.2,
+              "weight_pct": 16.5,
               "periodicity": "quarterly",
               "target_text": ">= 98%",
               "rag_bands": {
@@ -42245,7 +42147,7 @@
               "name_en": "Catalog-vs-stock accuracy affecting customer %",
               "pillar_code": "CX",
               "pillar_color": "#dc2626",
-              "weight_pct": 17.5,
+              "weight_pct": 15,
               "periodicity": "monthly",
               "target_text": ">= 98%",
               "rag_bands": {
@@ -42260,7 +42162,7 @@
               "name_en": "Stock-count accuracy %",
               "pillar_code": "SUPPLY",
               "pillar_color": "#7c3aed",
-              "weight_pct": 15.8,
+              "weight_pct": 13.5,
               "periodicity": "monthly",
               "target_text": ">= 99.5%",
               "rag_bands": {
@@ -42275,7 +42177,7 @@
               "name_en": "Scheduled stock-counts on-time completion %",
               "pillar_code": "OPS",
               "pillar_color": "#0891b2",
-              "weight_pct": 14.2,
+              "weight_pct": 12.2,
               "periodicity": "quarterly",
               "target_text": ">= 95%",
               "rag_bands": {
@@ -42290,7 +42192,7 @@
               "name_en": "Stock controllers count-procedures certification %",
               "pillar_code": "PEOPLE",
               "pillar_color": "#ea580c",
-              "weight_pct": 12.5,
+              "weight_pct": 10.7,
               "periodicity": "annual",
               "target_text": ">= 95%",
               "rag_bands": {
@@ -42298,6 +42200,16 @@
                 "green": "≥ 95%",
                 "yellow": "85-94%"
               }
+            },
+            {
+              "catalog_number": 376,
+              "name_ar": "نسبة استثناءات الرصيد السالب أو الصفري",
+              "name_en": "Negative / zero on-hand exception rate",
+              "pillar_code": "SUPPLY",
+              "pillar_color": "#7c3aed",
+              "periodicity": "monthly",
+              "target_text": "<= 0.5%",
+              "weight_pct": 14.3
             }
           ],
           "competencies": [
@@ -42956,7 +42868,7 @@
               "name_en": "Legal documents & contracts turnaround SLA %",
               "pillar_code": "OPS",
               "pillar_color": "#0891b2",
-              "weight_pct": 14.0,
+              "weight_pct": 14,
               "periodicity": "monthly",
               "target_text": ">= 90%",
               "rag_bands": {
@@ -43061,7 +42973,7 @@
               "name_en": "PDPL compliance program maturity / readiness %",
               "pillar_code": "GOV",
               "pillar_color": "#475569",
-              "weight_pct": 9.0,
+              "weight_pct": 9,
               "periodicity": "semi_annual",
               "target_text": ">= 90%",
               "rag_bands": {
@@ -46681,7 +46593,7 @@
               "name_en": "Customer-facing platform uptime %",
               "pillar_code": "CX",
               "pillar_color": "#dc2626",
-              "weight_pct": 20.8,
+              "weight_pct": 24.2,
               "periodicity": "monthly",
               "target_text": ">= 99.5%",
               "rag_bands": {
@@ -46696,7 +46608,7 @@
               "name_en": "Average response time for critical breakdowns",
               "pillar_code": "OPS",
               "pillar_color": "#0891b2",
-              "weight_pct": 19.2,
+              "weight_pct": 22.4,
               "periodicity": "monthly",
               "target_text": "< 1 ساعة",
               "rag_bands": {
@@ -46711,7 +46623,7 @@
               "name_en": "Average internal IT support ticket resolution time",
               "pillar_code": "OPS",
               "pillar_color": "#0891b2",
-              "weight_pct": 17.5,
+              "weight_pct": 20.4,
               "periodicity": "monthly",
               "target_text": "<= 4 ساعات",
               "rag_bands": {
@@ -46726,7 +46638,7 @@
               "name_en": "Access-management & permissions compliance %",
               "pillar_code": "GOV",
               "pillar_color": "#475569",
-              "weight_pct": 15.8,
+              "weight_pct": 18.4,
               "periodicity": "quarterly",
               "target_text": ">= 98%",
               "rag_bands": {
@@ -46736,27 +46648,12 @@
               }
             },
             {
-              "catalog_number": 376,
-              "name_ar": "نسبة استثناءات الرصيد السالب أو الصفري",
-              "name_en": "Negative / zero on-hand exception rate",
-              "pillar_code": "SUPPLY",
-              "pillar_color": "#7c3aed",
-              "weight_pct": 14.2,
-              "periodicity": "monthly",
-              "target_text": "<= 0.5%",
-              "rag_bands": {
-                "red": "> 1.5%",
-                "green": "≤ 0.5%",
-                "yellow": "0.51-1.5%"
-              }
-            },
-            {
               "catalog_number": 119,
               "name_ar": "نسبة استقرار المراجعين الداخليين المؤهلين",
               "name_en": "Qualified internal auditors retention %",
               "pillar_code": "PEOPLE",
               "pillar_color": "#ea580c",
-              "weight_pct": 12.5,
+              "weight_pct": 14.6,
               "periodicity": "annual",
               "target_text": ">= 85%",
               "rag_bands": {
@@ -49517,7 +49414,7 @@
               "name_en": "Audit coverage of branch sales & cash cycle %",
               "pillar_code": "COMMERCE",
               "pillar_color": "#059669",
-              "weight_pct": 17.8,
+              "weight_pct": 15.5,
               "periodicity": "annual",
               "target_text": ">= 80%",
               "rag_bands": {
@@ -49532,7 +49429,7 @@
               "name_en": "Showroom operational-policy compliance %",
               "pillar_code": "GOV",
               "pillar_color": "#475569",
-              "weight_pct": 16.7,
+              "weight_pct": 14.6,
               "periodicity": "quarterly",
               "target_text": ">= 95%",
               "rag_bands": {
@@ -49547,7 +49444,7 @@
               "name_en": "New-branch sales ramp-up vs. plan %",
               "pillar_code": "GROWTH",
               "pillar_color": "#2563eb",
-              "weight_pct": 15.5,
+              "weight_pct": 13.6,
               "periodicity": "monthly",
               "target_text": ">= 90% of ramp curve",
               "rag_bands": {
@@ -49562,7 +49459,7 @@
               "name_en": "Showroom sales-rep turnover rate",
               "pillar_code": "PEOPLE",
               "pillar_color": "#ea580c",
-              "weight_pct": 14.3,
+              "weight_pct": 12.5,
               "periodicity": "quarterly",
               "target_text": "<= 15%",
               "rag_bands": {
@@ -49577,7 +49474,7 @@
               "name_en": "Mystery-shopper / service-experience audit score %",
               "pillar_code": "CX",
               "pillar_color": "#dc2626",
-              "weight_pct": 13.1,
+              "weight_pct": 11.5,
               "periodicity": "quarterly",
               "target_text": ">= 85%",
               "rag_bands": {
@@ -49592,7 +49489,7 @@
               "name_en": "E-store visitor-to-buyer conversion rate",
               "pillar_code": "COMMERCE",
               "pillar_color": "#059669",
-              "weight_pct": 11.9,
+              "weight_pct": 10.4,
               "periodicity": "monthly",
               "target_text": ">= 2.0%",
               "rag_bands": {
@@ -49607,7 +49504,7 @@
               "name_en": "In-branch sales & customer-service standards compliance %",
               "pillar_code": "COMMERCE",
               "pillar_color": "#059669",
-              "weight_pct": 10.7,
+              "weight_pct": 9.4,
               "periodicity": "quarterly",
               "target_text": ">= 90%",
               "rag_bands": {
@@ -49615,6 +49512,16 @@
                 "green": "≥ 90%",
                 "yellow": "80-89%"
               }
+            },
+            {
+              "catalog_number": 342,
+              "name_ar": "متوسط المبيعات لكل ممثل بيع (إنتاجية الموظف)",
+              "name_en": "Sales per selling associate (FTE productivity)",
+              "pillar_code": "COMMERCE",
+              "pillar_color": "#059669",
+              "periodicity": "monthly",
+              "target_text": ">= SAR 220,000 per associate / month",
+              "weight_pct": 12.5
             }
           ],
           "competencies": [
@@ -53302,7 +53209,7 @@
               "name_en": "HR & payroll audit coverage %",
               "pillar_code": "PEOPLE",
               "pillar_color": "#ea580c",
-              "weight_pct": 15.6,
+              "weight_pct": 17.6,
               "periodicity": "annual",
               "target_text": ">= 90%",
               "rag_bands": {
@@ -53317,7 +53224,7 @@
               "name_en": "Training hours/spend per employee & training-plan execution",
               "pillar_code": "PEOPLE",
               "pillar_color": "#ea580c",
-              "weight_pct": 14.7,
+              "weight_pct": 16.6,
               "periodicity": "quarterly",
               "target_text": ">= 16 ساعة لكل موظف و>= 90% تنفيذ الخطة",
               "rag_bands": {
@@ -53332,7 +53239,7 @@
               "name_en": "Training-impact-on-performance measurement %",
               "pillar_code": "PEOPLE",
               "pillar_color": "#ea580c",
-              "weight_pct": 13.8,
+              "weight_pct": 15.5,
               "periodicity": "annual",
               "target_text": ">= 50%",
               "rag_bands": {
@@ -53347,7 +53254,7 @@
               "name_en": "Cost-per-hire",
               "pillar_code": "PEOPLE",
               "pillar_color": "#ea580c",
-              "weight_pct": 12.9,
+              "weight_pct": 14.5,
               "periodicity": "quarterly",
               "target_text": "<= 2,800 ريال للموظف",
               "rag_bands": {
@@ -53362,7 +53269,7 @@
               "name_en": "Internal-customer satisfaction with support services",
               "pillar_code": "CX",
               "pillar_color": "#dc2626",
-              "weight_pct": 12.1,
+              "weight_pct": 13.6,
               "periodicity": "quarterly",
               "target_text": ">= 85%",
               "rag_bands": {
@@ -53372,27 +53279,12 @@
               }
             },
             {
-              "catalog_number": 342,
-              "name_ar": "متوسط المبيعات لكل ممثل بيع (إنتاجية الموظف)",
-              "name_en": "Sales per selling associate (FTE productivity)",
-              "pillar_code": "COMMERCE",
-              "pillar_color": "#059669",
-              "weight_pct": 11.2,
-              "periodicity": "monthly",
-              "target_text": ">= SAR 220,000 per associate / month",
-              "rag_bands": {
-                "red": "< 180,000 ريال",
-                "green": "≥ 220,000 ريال",
-                "yellow": "180,000-219,999 ريال"
-              }
-            },
-            {
               "catalog_number": 14,
               "name_ar": "نسبة إكمال تدريب فرق المبيعات على المنتجات والعروض",
               "name_en": "Sales-team product/offer training completion %",
               "pillar_code": "COMMERCE",
               "pillar_color": "#059669",
-              "weight_pct": 10.3,
+              "weight_pct": 11.6,
               "periodicity": "quarterly",
               "target_text": ">= 95%",
               "rag_bands": {
@@ -53407,7 +53299,7 @@
               "name_en": "GOSI / Qiwa / WPS & Mudad compliance rate",
               "pillar_code": "GOV",
               "pillar_color": "#475569",
-              "weight_pct": 9.4,
+              "weight_pct": 10.6,
               "periodicity": "monthly",
               "target_text": "= 100%",
               "rag_bands": {
@@ -54871,7 +54763,7 @@
               "name_en": "HR & payroll audit coverage %",
               "pillar_code": "PEOPLE",
               "pillar_color": "#ea580c",
-              "weight_pct": 17.8,
+              "weight_pct": 20.5,
               "periodicity": "annual",
               "target_text": ">= 90%",
               "rag_bands": {
@@ -54886,7 +54778,7 @@
               "name_en": "Priority training-program completion %",
               "pillar_code": "PEOPLE",
               "pillar_color": "#ea580c",
-              "weight_pct": 16.7,
+              "weight_pct": 19.2,
               "periodicity": "quarterly",
               "target_text": ">= 95%",
               "rag_bands": {
@@ -54901,7 +54793,7 @@
               "name_en": "Source-of-hire effectiveness / channel yield",
               "pillar_code": "PEOPLE",
               "pillar_color": "#ea580c",
-              "weight_pct": 15.5,
+              "weight_pct": 17.8,
               "periodicity": "quarterly",
               "target_text": ">= 55% من التعيينات عبر القنوات المباشرة",
               "rag_bands": {
@@ -54916,7 +54808,7 @@
               "name_en": "HR cost as % of revenue",
               "pillar_code": "GROWTH",
               "pillar_color": "#2563eb",
-              "weight_pct": 14.3,
+              "weight_pct": 16.5,
               "periodicity": "quarterly",
               "target_text": "<= 12%",
               "rag_bands": {
@@ -54926,27 +54818,12 @@
               }
             },
             {
-              "catalog_number": 342,
-              "name_ar": "متوسط المبيعات لكل ممثل بيع (إنتاجية الموظف)",
-              "name_en": "Sales per selling associate (FTE productivity)",
-              "pillar_code": "COMMERCE",
-              "pillar_color": "#059669",
-              "weight_pct": 13.1,
-              "periodicity": "monthly",
-              "target_text": ">= SAR 220,000 per associate / month",
-              "rag_bands": {
-                "red": "< 180,000 ريال",
-                "green": "≥ 220,000 ريال",
-                "yellow": "180,000-219,999 ريال"
-              }
-            },
-            {
               "catalog_number": 14,
               "name_ar": "نسبة إكمال تدريب فرق المبيعات على المنتجات والعروض",
               "name_en": "Sales-team product/offer training completion %",
               "pillar_code": "COMMERCE",
               "pillar_color": "#059669",
-              "weight_pct": 11.9,
+              "weight_pct": 13.7,
               "periodicity": "quarterly",
               "target_text": ">= 95%",
               "rag_bands": {
@@ -54961,7 +54838,7 @@
               "name_en": "Funnel conversion / yield ratios (applicant→screen→interview→offer→hire)",
               "pillar_code": "PEOPLE",
               "pillar_color": "#ea580c",
-              "weight_pct": 10.7,
+              "weight_pct": 12.3,
               "periodicity": "quarterly",
               "target_text": "<= 8 متقدّمين لكل تعيين",
               "rag_bands": {
