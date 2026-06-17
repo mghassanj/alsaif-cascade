@@ -1,0 +1,17 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Redirecting…</title>
+  <script>
+    var p = location.pathname.replace(/^\/alsaif-cascade/, '');
+    location.replace('https://app.alsaif-cascade.com' + p + location.search + location.hash);
+  </script>
+</head>
+<body>
+  <p>Redirecting to <a id="link">app.alsaif-cascade.com</a>…</p>
+  <script>
+    document.getElementById('link').href = 'https://app.alsaif-cascade.com' + location.pathname.replace(/^\/alsaif-cascade/, '');
+  </script>
+</body>
+</html>
